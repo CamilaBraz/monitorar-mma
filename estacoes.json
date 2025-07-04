@@ -1,0 +1,1458 @@
+[
+  {
+    "idEstacao": 142573,
+    "coEstacao": null,
+    "noEstacao": "Estação Seival",
+    "idUf": 43,
+    "idMunicipio": 4304358
+  },
+  {
+    "idEstacao": 142553,
+    "coEstacao": null,
+    "noEstacao": "MALEMBA",
+    "idUf": 29,
+    "idMunicipio": 2906501
+  },
+  {
+    "idEstacao": 201,
+    "coEstacao": null,
+    "noEstacao": "S.Bernardo-Paulicéia",
+    "idUf": 35,
+    "idMunicipio": 3548708
+  },
+  {
+    "idEstacao": 136674,
+    "coEstacao": null,
+    "noEstacao": "EDCUPE",
+    "idUf": 26,
+    "idMunicipio": 2607208
+  },
+  {
+    "idEstacao": 136675,
+    "coEstacao": null,
+    "noEstacao": "IFPE",
+    "idUf": 26,
+    "idMunicipio": 2607208
+  },
+  {
+    "idEstacao": 148785,
+    "coEstacao": null,
+    "noEstacao": "PORTO ALEGRE/CETE",
+    "idUf": 24,
+    "idMunicipio": 2410207
+  },
+  {
+    "idEstacao": 27,
+    "coEstacao": null,
+    "noEstacao": "RAMQAr 7 - Vila Velha  - Centro",
+    "idUf": 32,
+    "idMunicipio": 3205200
+  },
+  {
+    "idEstacao": 42,
+    "coEstacao": null,
+    "noEstacao": "GRAVATAÍ/CONDOMÍNIO JARDIM TIMBAÚVA",
+    "idUf": 43,
+    "idMunicipio": 4309209
+  },
+  {
+    "idEstacao": 148805,
+    "coEstacao": null,
+    "noEstacao": "Estação de Monitoramento - Suzano - Ribas do Rio Pardo",
+    "idUf": 50,
+    "idMunicipio": 5007109
+  },
+  {
+    "idEstacao": 178065,
+    "coEstacao": null,
+    "noEstacao": "Estação UFSC Florianópolis",
+    "idUf": 42,
+    "idMunicipio": 4205407
+  },
+  {
+    "idEstacao": 136413,
+    "coEstacao": null,
+    "noEstacao": "CASCAVEL",
+    "idUf": 41,
+    "idMunicipio": 4104808
+  },
+  {
+    "idEstacao": 143073,
+    "coEstacao": null,
+    "noEstacao": "FRANCISCO BELTRÃO",
+    "idUf": 41,
+    "idMunicipio": 4108403
+  },
+  {
+    "idEstacao": 104863,
+    "coEstacao": null,
+    "noEstacao": "FOSPAR",
+    "idUf": 41,
+    "idMunicipio": 4118204
+  },
+  {
+    "idEstacao": 139833,
+    "coEstacao": null,
+    "noEstacao": "GPC ARAUCARIA",
+    "idUf": 41,
+    "idMunicipio": 4101804
+  },
+  {
+    "idEstacao": 143074,
+    "coEstacao": null,
+    "noEstacao": "GUARAPUAVA",
+    "idUf": 41,
+    "idMunicipio": 4109401
+  },
+  {
+    "idEstacao": 143075,
+    "coEstacao": null,
+    "noEstacao": "LONDRINA UEL",
+    "idUf": 41,
+    "idMunicipio": 4113700
+  },
+  {
+    "idEstacao": 148765,
+    "coEstacao": null,
+    "noEstacao": "LONDRINA",
+    "idUf": 41,
+    "idMunicipio": 4113700
+  },
+  {
+    "idEstacao": 178045,
+    "coEstacao": null,
+    "noEstacao": "MVB",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 182,
+    "coEstacao": null,
+    "noEstacao": "AREIAS",
+    "idUf": 29,
+    "idMunicipio": 2905701
+  },
+  {
+    "idEstacao": 103,
+    "coEstacao": null,
+    "noEstacao": " Comunidade do Feijão",
+    "idUf": 31,
+    "idMunicipio": 3109006
+  },
+  {
+    "idEstacao": 136676,
+    "coEstacao": null,
+    "noEstacao": "CPRH",
+    "idUf": 26,
+    "idMunicipio": 2602902
+  },
+  {
+    "idEstacao": 136673,
+    "coEstacao": null,
+    "noEstacao": "IPOJUCA",
+    "idUf": 26,
+    "idMunicipio": 2607208
+  },
+  {
+    "idEstacao": 173065,
+    "coEstacao": null,
+    "noEstacao": "CANDIOTA/AEROPORTO",
+    "idUf": 43,
+    "idMunicipio": 4304358
+  },
+  {
+    "idEstacao": 10521,
+    "coEstacao": null,
+    "noEstacao": "Filhinha Gama",
+    "idUf": 31,
+    "idMunicipio": 3162955
+  },
+  {
+    "idEstacao": 385,
+    "coEstacao": null,
+    "noEstacao": "São Cristóvão",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 135,
+    "coEstacao": null,
+    "noEstacao": "Cid.Universitária-USP-Ipen",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 138,
+    "coEstacao": null,
+    "noEstacao": "Pinheiros",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 148746,
+    "coEstacao": null,
+    "noEstacao": "MVA",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 341,
+    "coEstacao": null,
+    "noEstacao": "Estação de Monitoramento - Eldorado Brasil Celulose S.A.",
+    "idUf": 50,
+    "idMunicipio": 5008305
+  },
+  {
+    "idEstacao": 24521,
+    "coEstacao": null,
+    "noEstacao": "Estação Metereológica e Qualidade do Ar - Petrobras - UTE",
+    "idUf": 50,
+    "idMunicipio": 5008305
+  },
+  {
+    "idEstacao": 43801,
+    "coEstacao": null,
+    "noEstacao": "Estação de Monitoramento - Suzano TLS1-VCPTL - Três Lagoas",
+    "idUf": 50,
+    "idMunicipio": 5008305
+  },
+  {
+    "idEstacao": 94,
+    "coEstacao": null,
+    "noEstacao": "Estação Parque da Cachoeira",
+    "idUf": 31,
+    "idMunicipio": 3109006
+  },
+  {
+    "idEstacao": 95,
+    "coEstacao": null,
+    "noEstacao": "Estação E.M. Pe. Vicente Assunção",
+    "idUf": 31,
+    "idMunicipio": 3109006
+  },
+  {
+    "idEstacao": 177949,
+    "coEstacao": null,
+    "noEstacao": "UNIAO DA VITORIA",
+    "idUf": 41,
+    "idMunicipio": 4128203
+  },
+  {
+    "idEstacao": 177946,
+    "coEstacao": null,
+    "noEstacao": "DEFESA CIVIL ARAUCARIA",
+    "idUf": 41,
+    "idMunicipio": 4101804
+  },
+  {
+    "idEstacao": 177985,
+    "coEstacao": null,
+    "noEstacao": "ECOVILLE",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 177947,
+    "coEstacao": null,
+    "noEstacao": "ESCOLA DE SAUDE PUBLICA",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 142593,
+    "coEstacao": null,
+    "noEstacao": "FOZ DO IGUAÇU",
+    "idUf": 41,
+    "idMunicipio": 4108304
+  },
+  {
+    "idEstacao": 178025,
+    "coEstacao": null,
+    "noEstacao": "ESTAÇÃO MÓVEL IAP",
+    "idUf": 41,
+    "idMunicipio": 4105805
+  },
+  {
+    "idEstacao": 177948,
+    "coEstacao": null,
+    "noEstacao": "JARDIM DAS AMERICAS",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 143076,
+    "coEstacao": null,
+    "noEstacao": "MARINGÁ IAT",
+    "idUf": 41,
+    "idMunicipio": 4115200
+  },
+  {
+    "idEstacao": 142533,
+    "coEstacao": null,
+    "noEstacao": "MARINGÁ",
+    "idUf": 41,
+    "idMunicipio": 4115200
+  },
+  {
+    "idEstacao": 177965,
+    "coEstacao": null,
+    "noEstacao": "PARANAGUÁ",
+    "idUf": 41,
+    "idMunicipio": 4118204
+  },
+  {
+    "idEstacao": 178005,
+    "coEstacao": null,
+    "noEstacao": "UEG",
+    "idUf": 41,
+    "idMunicipio": 4101804
+  },
+  {
+    "idEstacao": 129,
+    "coEstacao": null,
+    "noEstacao": "São Caetano do Sul",
+    "idUf": 35,
+    "idMunicipio": 3548807
+  },
+  {
+    "idEstacao": 139853,
+    "coEstacao": null,
+    "noEstacao": "Estação CRAS FERCAL",
+    "idUf": 53,
+    "idMunicipio": 5300108
+  },
+  {
+    "idEstacao": 139,
+    "coEstacao": null,
+    "noEstacao": "S.André-Capuava",
+    "idUf": 35,
+    "idMunicipio": 3547809
+  },
+  {
+    "idEstacao": 141,
+    "coEstacao": null,
+    "noEstacao": "Araraquara",
+    "idUf": 35,
+    "idMunicipio": 3503208
+  },
+  {
+    "idEstacao": 321,
+    "coEstacao": null,
+    "noEstacao": "Santos",
+    "idUf": 35,
+    "idMunicipio": 3548500
+  },
+  {
+    "idEstacao": 175,
+    "coEstacao": null,
+    "noEstacao": "Paulínia-Sta Terezinha",
+    "idUf": 35,
+    "idMunicipio": 3536505
+  },
+  {
+    "idEstacao": 155,
+    "coEstacao": null,
+    "noEstacao": "Jacareí",
+    "idUf": 35,
+    "idMunicipio": 3524402
+  },
+  {
+    "idEstacao": 72,
+    "coEstacao": null,
+    "noEstacao": "PUC São Gabriel",
+    "idUf": 31,
+    "idMunicipio": 3106200
+  },
+  {
+    "idEstacao": 77,
+    "coEstacao": null,
+    "noEstacao": "Aeroporto CMD",
+    "idUf": 31,
+    "idMunicipio": 3117504
+  },
+  {
+    "idEstacao": 78,
+    "coEstacao": null,
+    "noEstacao": "Córregos",
+    "idUf": 31,
+    "idMunicipio": 3117504
+  },
+  {
+    "idEstacao": 79,
+    "coEstacao": null,
+    "noEstacao": "Sapo",
+    "idUf": 31,
+    "idMunicipio": 3117504
+  },
+  {
+    "idEstacao": 177945,
+    "coEstacao": null,
+    "noEstacao": "BOQUEIRÃO",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 148745,
+    "coEstacao": null,
+    "noEstacao": "COLOMBO",
+    "idUf": 41,
+    "idMunicipio": 4105805
+  },
+  {
+    "idEstacao": 96,
+    "coEstacao": null,
+    "noEstacao": " Matriz",
+    "idUf": 31,
+    "idMunicipio": 3118007
+  },
+  {
+    "idEstacao": 139854,
+    "coEstacao": null,
+    "noEstacao": "Estação Escola",
+    "idUf": 53,
+    "idMunicipio": 5300108
+  },
+  {
+    "idEstacao": 99,
+    "coEstacao": null,
+    "noEstacao": " Barra Longa Centro",
+    "idUf": 31,
+    "idMunicipio": 3105707
+  },
+  {
+    "idEstacao": 80,
+    "coEstacao": null,
+    "noEstacao": "Lobo Leite",
+    "idUf": 31,
+    "idMunicipio": 3118007
+  },
+  {
+    "idEstacao": 98,
+    "coEstacao": null,
+    "noEstacao": "Cecília Meireles",
+    "idUf": 31,
+    "idMunicipio": 3168705
+  },
+  {
+    "idEstacao": 81,
+    "coEstacao": null,
+    "noEstacao": "SENAC Vale do Aço",
+    "idUf": 31,
+    "idMunicipio": 3119401
+  },
+  {
+    "idEstacao": 82,
+    "coEstacao": null,
+    "noEstacao": "Bom Retiro",
+    "idUf": 31,
+    "idMunicipio": 3131307
+  },
+  {
+    "idEstacao": 136435,
+    "coEstacao": null,
+    "noEstacao": "Escola Municipal Ybacanga",
+    "idUf": 21,
+    "idMunicipio": 2111300
+  },
+  {
+    "idEstacao": 136493,
+    "coEstacao": null,
+    "noEstacao": "Estação RFS11D",
+    "idUf": 15,
+    "idMunicipio": 1505536
+  },
+  {
+    "idEstacao": 107,
+    "coEstacao": null,
+    "noEstacao": " Motas",
+    "idUf": 31,
+    "idMunicipio": 3146107
+  },
+  {
+    "idEstacao": 108,
+    "coEstacao": null,
+    "noEstacao": " Pires",
+    "idUf": 31,
+    "idMunicipio": 3118007
+  },
+  {
+    "idEstacao": 131,
+    "coEstacao": null,
+    "noEstacao": "S.José Campos",
+    "idUf": 35,
+    "idMunicipio": 3549904
+  },
+  {
+    "idEstacao": 132,
+    "coEstacao": null,
+    "noEstacao": "Campinas-Centro",
+    "idUf": 35,
+    "idMunicipio": 3509502
+  },
+  {
+    "idEstacao": 133,
+    "coEstacao": null,
+    "noEstacao": "Cerqueira César",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 134,
+    "coEstacao": null,
+    "noEstacao": "Diadema",
+    "idUf": 35,
+    "idMunicipio": 3513801
+  },
+  {
+    "idEstacao": 136,
+    "coEstacao": null,
+    "noEstacao": "N.Senhora do Ó",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 221,
+    "coEstacao": null,
+    "noEstacao": "Itaquera",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 137,
+    "coEstacao": null,
+    "noEstacao": "Grajaú-Parelheiros",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 136433,
+    "coEstacao": null,
+    "noEstacao": "Estação AERCA Açailândia",
+    "idUf": 21,
+    "idMunicipio": 2100055
+  },
+  {
+    "idEstacao": 10041,
+    "coEstacao": null,
+    "noEstacao": "Jardim Encantado",
+    "idUf": 31,
+    "idMunicipio": 3162955
+  },
+  {
+    "idEstacao": 61,
+    "coEstacao": null,
+    "noEstacao": "Copasa",
+    "idUf": 31,
+    "idMunicipio": 3147006
+  },
+  {
+    "idEstacao": 62,
+    "coEstacao": null,
+    "noEstacao": "Lagoa Trindade Rodrigues",
+    "idUf": 31,
+    "idMunicipio": 3147006
+  },
+  {
+    "idEstacao": 84,
+    "coEstacao": null,
+    "noEstacao": "Major Lage",
+    "idUf": 31,
+    "idMunicipio": 3131703
+  },
+  {
+    "idEstacao": 64,
+    "coEstacao": null,
+    "noEstacao": "Sérgio Ulhoa",
+    "idUf": 31,
+    "idMunicipio": 3147006
+  },
+  {
+    "idEstacao": 88,
+    "coEstacao": null,
+    "noEstacao": " Volta da Capela",
+    "idUf": 31,
+    "idMunicipio": 3105707
+  },
+  {
+    "idEstacao": 65,
+    "coEstacao": null,
+    "noEstacao": "Clube do União",
+    "idUf": 31,
+    "idMunicipio": 3147006
+  },
+  {
+    "idEstacao": 91,
+    "coEstacao": null,
+    "noEstacao": "Cariru",
+    "idUf": 31,
+    "idMunicipio": 3131307
+  },
+  {
+    "idEstacao": 89,
+    "coEstacao": null,
+    "noEstacao": "FUNAM",
+    "idUf": 31,
+    "idMunicipio": 3151206
+  },
+  {
+    "idEstacao": 92,
+    "coEstacao": null,
+    "noEstacao": "Novo Plataforma",
+    "idUf": 31,
+    "idMunicipio": 3118007
+  },
+  {
+    "idEstacao": 104,
+    "coEstacao": null,
+    "noEstacao": "Basílica",
+    "idUf": 31,
+    "idMunicipio": 3118007
+  },
+  {
+    "idEstacao": 106,
+    "coEstacao": null,
+    "noEstacao": " Paracatu de Baixo",
+    "idUf": 31,
+    "idMunicipio": 3140001
+  },
+  {
+    "idEstacao": 136434,
+    "coEstacao": null,
+    "noEstacao": "Posto de saúde do Bacanga",
+    "idUf": 21,
+    "idMunicipio": 2111300
+  },
+  {
+    "idEstacao": 126594,
+    "coEstacao": null,
+    "noEstacao": "CSN",
+    "idUf": 41,
+    "idMunicipio": 4101804
+  },
+  {
+    "idEstacao": 93,
+    "coEstacao": null,
+    "noEstacao": " Gesteira",
+    "idUf": 31,
+    "idMunicipio": 3105707
+  },
+  {
+    "idEstacao": 71,
+    "coEstacao": null,
+    "noEstacao": "PUC Barreiro",
+    "idUf": 31,
+    "idMunicipio": 3106200
+  },
+  {
+    "idEstacao": 76,
+    "coEstacao": null,
+    "noEstacao": "Jardim Profeta",
+    "idUf": 31,
+    "idMunicipio": 3118007
+  },
+  {
+    "idEstacao": 100,
+    "coEstacao": null,
+    "noEstacao": " Rio Doce",
+    "idUf": 31,
+    "idMunicipio": 3155009
+  },
+  {
+    "idEstacao": 83,
+    "coEstacao": null,
+    "noEstacao": "Veneza",
+    "idUf": 31,
+    "idMunicipio": 3131307
+  },
+  {
+    "idEstacao": 63,
+    "coEstacao": null,
+    "noEstacao": "São Domingos",
+    "idUf": 31,
+    "idMunicipio": 3147006
+  },
+  {
+    "idEstacao": 86,
+    "coEstacao": null,
+    "noEstacao": "Cidade Nobre",
+    "idUf": 31,
+    "idMunicipio": 3131307
+  },
+  {
+    "idEstacao": 102,
+    "coEstacao": null,
+    "noEstacao": " Novo Soberbo",
+    "idUf": 31,
+    "idMunicipio": 3157401
+  },
+  {
+    "idEstacao": 301,
+    "coEstacao": null,
+    "noEstacao": "SAAE",
+    "idUf": 31,
+    "idMunicipio": 3151206
+  },
+  {
+    "idEstacao": 87,
+    "coEstacao": null,
+    "noEstacao": " Santana do Deserto",
+    "idUf": 31,
+    "idMunicipio": 3155009
+  },
+  {
+    "idEstacao": 136573,
+    "coEstacao": null,
+    "noEstacao": "Gapara",
+    "idUf": 21,
+    "idMunicipio": 2111300
+  },
+  {
+    "idEstacao": 126,
+    "coEstacao": null,
+    "noEstacao": "Congonhas",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 162,
+    "coEstacao": null,
+    "noEstacao": "Marg.Tietê-Pte Remédios",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 163,
+    "coEstacao": null,
+    "noEstacao": "S.Bernardo-Centro",
+    "idUf": 35,
+    "idMunicipio": 3548708
+  },
+  {
+    "idEstacao": 164,
+    "coEstacao": null,
+    "noEstacao": "Santa Gertrudes",
+    "idUf": 35,
+    "idMunicipio": 3546702
+  },
+  {
+    "idEstacao": 165,
+    "coEstacao": null,
+    "noEstacao": "Campinas-V.União",
+    "idUf": 35,
+    "idMunicipio": 3509502
+  },
+  {
+    "idEstacao": 136553,
+    "coEstacao": null,
+    "noEstacao": "UTE Interna",
+    "idUf": 21,
+    "idMunicipio": 2111300
+  },
+  {
+    "idEstacao": 136554,
+    "coEstacao": null,
+    "noEstacao": "SEST SENAT",
+    "idUf": 21,
+    "idMunicipio": 2111300
+  },
+  {
+    "idEstacao": 136555,
+    "coEstacao": null,
+    "noEstacao": "Santo Antonio dos Lopes",
+    "idUf": 21,
+    "idMunicipio": 2110302
+  },
+  {
+    "idEstacao": 136653,
+    "coEstacao": null,
+    "noEstacao": "Capinzal",
+    "idUf": 21,
+    "idMunicipio": 2102754
+  },
+  {
+    "idEstacao": 121,
+    "coEstacao": null,
+    "noEstacao": "Santana",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 123,
+    "coEstacao": null,
+    "noEstacao": "Mauá",
+    "idUf": 35,
+    "idMunicipio": 3529401
+  },
+  {
+    "idEstacao": 124,
+    "coEstacao": null,
+    "noEstacao": "Cubatão-V.Parisi",
+    "idUf": 35,
+    "idMunicipio": 3513504
+  },
+  {
+    "idEstacao": 281,
+    "coEstacao": null,
+    "noEstacao": "Sorocaba",
+    "idUf": 35,
+    "idMunicipio": 3552205
+  },
+  {
+    "idEstacao": 125,
+    "coEstacao": null,
+    "noEstacao": "Parque D.Pedro II",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 127,
+    "coEstacao": null,
+    "noEstacao": "Ibirapuera",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 128,
+    "coEstacao": null,
+    "noEstacao": "Mooca",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 130,
+    "coEstacao": null,
+    "noEstacao": "Cubatão-Centro",
+    "idUf": 35,
+    "idMunicipio": 3513504
+  },
+  {
+    "idEstacao": 140,
+    "coEstacao": null,
+    "noEstacao": "Taboão da Serra",
+    "idUf": 35,
+    "idMunicipio": 3552809
+  },
+  {
+    "idEstacao": 142,
+    "coEstacao": null,
+    "noEstacao": "Araçatuba",
+    "idUf": 35,
+    "idMunicipio": 3502804
+  },
+  {
+    "idEstacao": 143,
+    "coEstacao": null,
+    "noEstacao": "Bauru",
+    "idUf": 35,
+    "idMunicipio": 3506003
+  },
+  {
+    "idEstacao": 144,
+    "coEstacao": null,
+    "noEstacao": "Jundiaí",
+    "idUf": 35,
+    "idMunicipio": 3525904
+  },
+  {
+    "idEstacao": 145,
+    "coEstacao": null,
+    "noEstacao": "Jaú",
+    "idUf": 35,
+    "idMunicipio": 3525300
+  },
+  {
+    "idEstacao": 146,
+    "coEstacao": null,
+    "noEstacao": "Marília",
+    "idUf": 35,
+    "idMunicipio": 3529005
+  },
+  {
+    "idEstacao": 147,
+    "coEstacao": null,
+    "noEstacao": "Piracicaba",
+    "idUf": 35,
+    "idMunicipio": 3538709
+  },
+  {
+    "idEstacao": 148,
+    "coEstacao": null,
+    "noEstacao": "Presidente Prudente",
+    "idUf": 35,
+    "idMunicipio": 3541406
+  },
+  {
+    "idEstacao": 149,
+    "coEstacao": null,
+    "noEstacao": "São José do Rio Preto",
+    "idUf": 35,
+    "idMunicipio": 3549805
+  },
+  {
+    "idEstacao": 150,
+    "coEstacao": null,
+    "noEstacao": "Paulínia",
+    "idUf": 35,
+    "idMunicipio": 3536505
+  },
+  {
+    "idEstacao": 151,
+    "coEstacao": null,
+    "noEstacao": "Cubatão-Vale do Mogi",
+    "idUf": 35,
+    "idMunicipio": 3513504
+  },
+  {
+    "idEstacao": 152,
+    "coEstacao": null,
+    "noEstacao": "Osasco",
+    "idUf": 35,
+    "idMunicipio": 3534401
+  },
+  {
+    "idEstacao": 153,
+    "coEstacao": null,
+    "noEstacao": "Catanduva",
+    "idUf": 35,
+    "idMunicipio": 3511102
+  },
+  {
+    "idEstacao": 154,
+    "coEstacao": null,
+    "noEstacao": "Tatuí",
+    "idUf": 35,
+    "idMunicipio": 3554003
+  },
+  {
+    "idEstacao": 126593,
+    "coEstacao": null,
+    "noEstacao": "CIC",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 126595,
+    "coEstacao": null,
+    "noEstacao": "PONTA GROSSA",
+    "idUf": 41,
+    "idMunicipio": 4119905
+  },
+  {
+    "idEstacao": 126596,
+    "coEstacao": null,
+    "noEstacao": "REPAR",
+    "idUf": 41,
+    "idMunicipio": 4101804
+  },
+  {
+    "idEstacao": 126597,
+    "coEstacao": null,
+    "noEstacao": "PETROSIX",
+    "idUf": 41,
+    "idMunicipio": 4125605
+  },
+  {
+    "idEstacao": 136633,
+    "coEstacao": null,
+    "noEstacao": "GAMBOA",
+    "idUf": 29,
+    "idMunicipio": 2906501
+  },
+  {
+    "idEstacao": 188,
+    "coEstacao": null,
+    "noEstacao": "LEANDRINHO",
+    "idUf": 29,
+    "idMunicipio": 2910057
+  },
+  {
+    "idEstacao": 187,
+    "coEstacao": null,
+    "noEstacao": "GRAVATÁ",
+    "idUf": 29,
+    "idMunicipio": 2905701
+  },
+  {
+    "idEstacao": 190,
+    "coEstacao": null,
+    "noEstacao": "COBRE",
+    "idUf": 29,
+    "idMunicipio": 2910057
+  },
+  {
+    "idEstacao": 184,
+    "coEstacao": null,
+    "noEstacao": "MACHADINHO",
+    "idUf": 29,
+    "idMunicipio": 2905701
+  },
+  {
+    "idEstacao": 136634,
+    "coEstacao": null,
+    "noEstacao": "CABOTO",
+    "idUf": 29,
+    "idMunicipio": 2906501
+  },
+  {
+    "idEstacao": 186,
+    "coEstacao": null,
+    "noEstacao": "FUTURAMA I",
+    "idUf": 29,
+    "idMunicipio": 2910057
+  },
+  {
+    "idEstacao": 189,
+    "coEstacao": null,
+    "noEstacao": "LAMARAO",
+    "idUf": 29,
+    "idMunicipio": 2929503
+  },
+  {
+    "idEstacao": 183,
+    "coEstacao": null,
+    "noEstacao": "CONCORDIA",
+    "idUf": 29,
+    "idMunicipio": 2910057
+  },
+  {
+    "idEstacao": 185,
+    "coEstacao": null,
+    "noEstacao": "CÂMARA",
+    "idUf": 29,
+    "idMunicipio": 2905701
+  },
+  {
+    "idEstacao": 181,
+    "coEstacao": null,
+    "noEstacao": "ESCOLA",
+    "idUf": 29,
+    "idMunicipio": 2910057
+  },
+  {
+    "idEstacao": 136513,
+    "coEstacao": null,
+    "noEstacao": "AREIAS II",
+    "idUf": 29,
+    "idMunicipio": 2905701
+  },
+  {
+    "idEstacao": 156,
+    "coEstacao": null,
+    "noEstacao": "Santos-Ponta da Praia",
+    "idUf": 35,
+    "idMunicipio": 3548500
+  },
+  {
+    "idEstacao": 157,
+    "coEstacao": null,
+    "noEstacao": "Interlagos",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 158,
+    "coEstacao": null,
+    "noEstacao": "Carapicuíba",
+    "idUf": 35,
+    "idMunicipio": 3510609
+  },
+  {
+    "idEstacao": 159,
+    "coEstacao": null,
+    "noEstacao": "Guarulhos-Paço Municipal",
+    "idUf": 35,
+    "idMunicipio": 3518800
+  },
+  {
+    "idEstacao": 160,
+    "coEstacao": null,
+    "noEstacao": "Itaim Paulista",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 161,
+    "coEstacao": null,
+    "noEstacao": "Capão Redondo",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 166,
+    "coEstacao": null,
+    "noEstacao": "Campinas-Taquaral",
+    "idUf": 35,
+    "idMunicipio": 3509502
+  },
+  {
+    "idEstacao": 167,
+    "coEstacao": null,
+    "noEstacao": "S.José Campos-Jd.Satelite",
+    "idUf": 35,
+    "idMunicipio": 3549904
+  },
+  {
+    "idEstacao": 168,
+    "coEstacao": null,
+    "noEstacao": "Guarulhos-Pimentas",
+    "idUf": 35,
+    "idMunicipio": 3518800
+  },
+  {
+    "idEstacao": 169,
+    "coEstacao": null,
+    "noEstacao": "Taubaté",
+    "idUf": 35,
+    "idMunicipio": 3554102
+  },
+  {
+    "idEstacao": 136473,
+    "coEstacao": null,
+    "noEstacao": "Estação Vila Moema",
+    "idUf": 42,
+    "idMunicipio": 4218707
+  },
+  {
+    "idEstacao": 136475,
+    "coEstacao": null,
+    "noEstacao": "Estação Capivari de Baixo",
+    "idUf": 42,
+    "idMunicipio": 4203956
+  },
+  {
+    "idEstacao": 170,
+    "coEstacao": null,
+    "noEstacao": "Limeira",
+    "idUf": 35,
+    "idMunicipio": 3526902
+  },
+  {
+    "idEstacao": 172,
+    "coEstacao": null,
+    "noEstacao": "Ribeirão Preto",
+    "idUf": 35,
+    "idMunicipio": 3543402
+  },
+  {
+    "idEstacao": 173,
+    "coEstacao": null,
+    "noEstacao": "Guaratinguetá",
+    "idUf": 35,
+    "idMunicipio": 3518404
+  },
+  {
+    "idEstacao": 174,
+    "coEstacao": null,
+    "noEstacao": "Americana",
+    "idUf": 35,
+    "idMunicipio": 3501608
+  },
+  {
+    "idEstacao": 176,
+    "coEstacao": null,
+    "noEstacao": "Rio Claro-Jd.Guanabara",
+    "idUf": 35,
+    "idMunicipio": 3543907
+  },
+  {
+    "idEstacao": 136474,
+    "coEstacao": null,
+    "noEstacao": "Estação São Bernardo",
+    "idUf": 42,
+    "idMunicipio": 4218707
+  },
+  {
+    "idEstacao": 241,
+    "coEstacao": null,
+    "noEstacao": "Perus",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 73,
+    "coEstacao": null,
+    "noEstacao": "Centro Av. do Contorno",
+    "idUf": 31,
+    "idMunicipio": 3106200
+  },
+  {
+    "idEstacao": 74,
+    "coEstacao": null,
+    "noEstacao": "Alterosa",
+    "idUf": 31,
+    "idMunicipio": 3106705
+  },
+  {
+    "idEstacao": 75,
+    "coEstacao": null,
+    "noEstacao": "Cascata",
+    "idUf": 31,
+    "idMunicipio": 3129806
+  },
+  {
+    "idEstacao": 66,
+    "coEstacao": null,
+    "noEstacao": "Centro",
+    "idUf": 31,
+    "idMunicipio": 3162955
+  },
+  {
+    "idEstacao": 67,
+    "coEstacao": null,
+    "noEstacao": "Célvia",
+    "idUf": 31,
+    "idMunicipio": 3162955
+  },
+  {
+    "idEstacao": 68,
+    "coEstacao": null,
+    "noEstacao": "Centro Administrativo Betim",
+    "idUf": 31,
+    "idMunicipio": 3106705
+  },
+  {
+    "idEstacao": 69,
+    "coEstacao": null,
+    "noEstacao": "Petrovale",
+    "idUf": 31,
+    "idMunicipio": 3106705
+  },
+  {
+    "idEstacao": 70,
+    "coEstacao": null,
+    "noEstacao": "Piratininga",
+    "idUf": 31,
+    "idMunicipio": 3129806
+  },
+  {
+    "idEstacao": 101,
+    "coEstacao": null,
+    "noEstacao": "Panorama",
+    "idUf": 31,
+    "idMunicipio": 3131703
+  },
+  {
+    "idEstacao": 90,
+    "coEstacao": null,
+    "noEstacao": "Pará",
+    "idUf": 31,
+    "idMunicipio": 3131703
+  },
+  {
+    "idEstacao": 105,
+    "coEstacao": null,
+    "noEstacao": "Félix",
+    "idUf": 31,
+    "idMunicipio": 3131703
+  },
+  {
+    "idEstacao": 21,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV1 - Laranjeiras",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 22,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV2 - Carapina",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 23,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV3 - Jardim Camburi",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 24,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV4 - Enseada do Suá",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 25,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV5 - Vitória - Centro",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 26,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV6 - Vila Velha - IBES",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 28,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV8 - Vila Capixaba",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 29,
+    "coEstacao": null,
+    "noEstacao": "EMQAr - RGV9 - Cidade Continental",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 136593,
+    "coEstacao": null,
+    "noEstacao": "EMQAr – RGV10 - Ponta Formosa",
+    "idUf": null,
+    "idMunicipio": null
+  },
+  {
+    "idEstacao": 136533,
+    "coEstacao": null,
+    "noEstacao": "Estação AQM195 Minerasul",
+    "idUf": 15,
+    "idMunicipio": 1507300
+  },
+  {
+    "idEstacao": 41,
+    "coEstacao": null,
+    "noEstacao": "CANOAS/PARQUE UNIVERSITÁRIO",
+    "idUf": 43,
+    "idMunicipio": 4304606
+  },
+  {
+    "idEstacao": 43781,
+    "coEstacao": null,
+    "noEstacao": "RIO GRANDE/MOVEL",
+    "idUf": 43,
+    "idMunicipio": 4315602
+  },
+  {
+    "idEstacao": 44,
+    "coEstacao": null,
+    "noEstacao": "TRIUNFO/POLO PETROQUÍMICO/MÓVEL",
+    "idUf": 43,
+    "idMunicipio": 4322004
+  },
+  {
+    "idEstacao": 43,
+    "coEstacao": null,
+    "noEstacao": "GUAÍBA/PARQUE 35",
+    "idUf": 43,
+    "idMunicipio": 4309308
+  },
+  {
+    "idEstacao": 384,
+    "coEstacao": null,
+    "noEstacao": "Pedra de Guaratiba",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 386,
+    "coEstacao": null,
+    "noEstacao": "Tijuca",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 401,
+    "coEstacao": null,
+    "noEstacao": "Copacabana",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 381,
+    "coEstacao": null,
+    "noEstacao": "Centro",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 382,
+    "coEstacao": null,
+    "noEstacao": "Campo Grande",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 387,
+    "coEstacao": null,
+    "noEstacao": "Bangu",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 383,
+    "coEstacao": null,
+    "noEstacao": "Irajá",
+    "idUf": 33,
+    "idMunicipio": 3304557
+  },
+  {
+    "idEstacao": 261,
+    "coEstacao": null,
+    "noEstacao": "ESTEIO/PARQUE DE EXPOSIÇÃO",
+    "idUf": 43,
+    "idMunicipio": 4307708
+  },
+  {
+    "idEstacao": 136613,
+    "coEstacao": null,
+    "noEstacao": "BOTELHO",
+    "idUf": 29,
+    "idMunicipio": 2927408
+  },
+  {
+    "idEstacao": 97,
+    "coEstacao": null,
+    "noEstacao": "SENAI/CFP",
+    "idUf": 31,
+    "idMunicipio": 3168705
+  },
+  {
+    "idEstacao": 85,
+    "coEstacao": null,
+    "noEstacao": "Escola Semetinha",
+    "idUf": 31,
+    "idMunicipio": 3168705
+  },
+  {
+    "idEstacao": 136453,
+    "coEstacao": null,
+    "noEstacao": "Estação Comunidade Vila de Bom Jesus",
+    "idUf": 15,
+    "idMunicipio": 1502152
+  },
+  {
+    "idEstacao": 109,
+    "coEstacao": null,
+    "noEstacao": "Hospital Vital Brazil",
+    "idUf": 31,
+    "idMunicipio": 3168705
+  },
+  {
+    "idEstacao": 136393,
+    "coEstacao": null,
+    "noEstacao": "OUVIDOR PARDINHO",
+    "idUf": 41,
+    "idMunicipio": 4106902
+  },
+  {
+    "idEstacao": 171,
+    "coEstacao": null,
+    "noEstacao": "Pico do Jaraguá",
+    "idUf": 35,
+    "idMunicipio": 3550308
+  },
+  {
+    "idEstacao": 122,
+    "coEstacao": null,
+    "noEstacao": "Santo Amaro",
+    "idUf": 35,
+    "idMunicipio": 3547809
+  }
+]

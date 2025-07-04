@@ -1,34 +1,36 @@
-name: Baixar dados do MonitorAr
+name: Coleta diária de dados da Bahia
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Executa todo dia às 12h UTC (9h da manhã no Brasil)
-  workflow_dispatch:      # Permite execução manual pelo GitHub
+    - cron: '0 8 * * *'  # 08:00 UTC todos os dias
+  workflow_dispatch:     # Permite rodar manualmente também
 
 jobs:
-  download_data:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Clonar o repositório
-      uses: actions/checkout@v3
+      - name: Clonar repositório
+        uses: actions/checkout@v3
 
-    - name: Configurar Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.10'
+      - name: Configurar ambiente Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Instalar dependências
-      run: |
-        pip install requests pandas
+      - name: Instalar dependências
+        run: |
+          pip install -r requirements.txt
 
-    - name: Executar script de download
-      run: python baixar_monitorar.py
+      - name: Rodar script de coleta
+        run: |
+          python baixar_dados_ba_por_data.py
 
-    - name: Commit e push se houver mudanças
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
-        git commit -m "Atualização automática dos dados MonitorAr $(date +'%Y-%m-%d %H:%M:%S')" || echo "Sem alterações para commitar"
-        git push
+      - name: Subir dados coletados
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git pull
+          git add dados/
+          git commit -m "📦 Atualização diária dos dados - ${{ github.run_id }}"
+          git push

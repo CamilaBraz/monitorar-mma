@@ -1,0 +1,58 @@
+id_municipio,estacao,id_uf,uf,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora,indice_qualidade_ar,classificacao,dado_validado
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-03 18:00,8.8,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-03 19:00,8.64,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-03 20:00,8.96,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-03 21:00,9.12,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-03 22:00,9.44,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-03 23:00,9.92,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 00:00,10.32,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 01:00,10.72,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 02:00,11.28,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 03:00,11.92,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 04:00,12.8,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 05:00,13.76,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 06:00,7.12,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 07:00,3.2,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 08:00,3.76,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 09:00,3.68,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 10:00,3.68,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 11:00,3.76,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 12:00,3.76,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 13:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 14:00,3.92,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 15:00,3.76,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 16:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-04 17:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-03 18:00,8.0,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-03 19:00,7.52,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-03 20:00,7.84,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-03 21:00,7.68,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-03 22:00,8.0,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-03 23:00,8.32,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 00:00,8.64,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 01:00,8.96,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 02:00,9.28,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 03:00,9.76,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 04:00,10.56,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 05:00,11.36,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 06:00,6.24,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 07:00,2.88,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 08:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 09:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 10:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 11:00,3.84,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 12:00,4.0,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 13:00,4.16,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 14:00,4.16,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 15:00,4.0,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 16:00,4.16,Boa,True
+2906501,MALEMBA,29,BA,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-04 17:00,4.16,Boa,True
+2906501,MALEMBA,29,BA,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-04 13:00,1.92,Boa,True
+2906501,MALEMBA,29,BA,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-04 14:00,1.92,Boa,True
+2906501,MALEMBA,29,BA,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-04 15:00,1.92,Boa,True
+2906501,MALEMBA,29,BA,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-04 16:00,1.92,Boa,True
+2906501,MALEMBA,29,BA,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-04 17:00,1.92,Boa,True
+2906501,MALEMBA,29,BA,,,,20,O₃,Ozônio,2025-07-04 14:00,19.92,Boa,True
+2906501,MALEMBA,29,BA,,,,20,O₃,Ozônio,2025-07-04 15:00,19.8,Boa,True
+2906501,MALEMBA,29,BA,,,,20,O₃,Ozônio,2025-07-04 16:00,19.52,Boa,True
+2906501,MALEMBA,29,BA,,,,20,O₃,Ozônio,2025-07-04 17:00,19.4,Boa,True
