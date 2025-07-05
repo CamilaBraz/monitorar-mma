@@ -2,7 +2,17 @@ import requests
 import csv
 import os
 import json
-from datetime import date
+from datetime import datetime
+import logging
+
+# --- CONFIGURAÇÃO INICIAL DO LOG ---
+logging.basicConfig(
+    filename='coleta_dados.log', # Nome do arquivo que guardará os logs
+    level=logging.INFO,          # Nível mínimo de mensagem a ser registrada
+    format='%(asctime)s - %(levelname)s - %(message)s', # Formato da mensagem
+    encoding='utf-8'             # Garante a compatibilidade com acentos
+)
+# --- FIM DA CONFIGURAÇÃO ---
 
 # Carrega os ids das estações da Bahia
 with open("estacoes.json", "r", encoding="utf-8") as f:
@@ -12,7 +22,14 @@ with open("estacoes.json", "r", encoding="utf-8") as f:
 ids_estacoes_bahia = [est["idEstacao"] for est in estacoes if est.get("idUf") == 29]
 
 # === Defina a data da coleta (hoje) ===
-data_hoje = date.today().isoformat()  # formato: '2025-07-04'
+data_hora_coleta = datetime.now()
+
+# 1. Apenas a data no formato 'AAAA-MM-DD'
+data_hoje = data_hora_coleta.strftime('%Y-%m-%d')
+
+# 2. O timestamp completo para o nome do arquivo
+timestamp_arquivo = data_hora_coleta.strftime('%Y-%m-%d_%H-%M')
+print(timestamp_arquivo)
 
 # === Crie a pasta do dia ===
 pasta_saida = f"dados/{data_hoje}"
@@ -24,8 +41,10 @@ def baixar_e_salvar_estacao(id_estacao):
     response = requests.get(url)
     dados = response.json()
 
+    logging.info(f"Processando estação: {id_estacao}")
+
     if not isinstance(dados, list) or len(dados) == 0:
-        print(f"❌ Estação {id_estacao} não retornou dados!")
+        logging.error(f"Falha ao obter dados (resposta inválida ou vazia) para a estação ID: {id_estacao}.")
         return
 
     est = dados[0]
@@ -37,8 +56,11 @@ def baixar_e_salvar_estacao(id_estacao):
     temperatura = est.get("temperatura")
     umidade = est.get("umidade")
     vento = est.get("vento")
+    dt_medicao = est.get("dtMedicao")
 
     registros = []
+
+    
 
     for poluente in est.get("poluentes", []):
         id_poluente = poluente.get("idPoluente")
@@ -48,6 +70,7 @@ def baixar_e_salvar_estacao(id_estacao):
         for medicao in poluente.get("medicoes", []):
             registros.append({
                 "dt_coleta": data_hoje,
+                "dt_medicao": dt_medicao,
                 "id_municipio": id_municipio,
                 "id_uf": id_uf,
                 "uf": sigla_uf,
@@ -64,15 +87,18 @@ def baixar_e_salvar_estacao(id_estacao):
                 "dado_validado": medicao.get("stDadoValidado")
             })
 
+
+
     if registros:
-        caminho_arquivo = f"{pasta_saida}/{nome_estacao}.csv"
+        # caminho_arquivo = f"{pasta_saida}/{nome_estacao}.csv"
+        caminho_arquivo = f"{pasta_saida}/{nome_estacao}_{timestamp_arquivo}.csv"
         with open(caminho_arquivo, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=registros[0].keys())
             writer.writeheader()
             writer.writerows(registros)
-        print(f"✅ Estação '{nome_estacao}' salva em: {caminho_arquivo}")
+        logging.info(f"Dados para '{nome_estacao}' salvos em: {caminho_arquivo}")
     else:
-        print(f"⚠️ Nenhum registro encontrado para estação '{nome_estacao}'")
+        logging.warning(f"Nenhum registro encontrado para a estação '{nome_estacao}'")
 
 # === Loop nas estações da Bahia ===
 for id_est in ids_estacoes_bahia:

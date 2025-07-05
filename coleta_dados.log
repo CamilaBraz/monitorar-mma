@@ -1,0 +1,103 @@
+2025-07-05 10:27:37,027 - INFO - Processando estação: 142553
+2025-07-05 10:27:37,027 - INFO - Dados para 'malemba' salvos em: dados/2025-07-05/malemba_2025-07-05_10-27.csv
+2025-07-05 10:27:37,433 - INFO - Processando estação: 182
+2025-07-05 10:27:37,433 - INFO - Dados para 'areias' salvos em: dados/2025-07-05/areias_2025-07-05_10-27.csv
+2025-07-05 10:27:38,807 - INFO - Processando estação: 136633
+2025-07-05 10:27:38,807 - INFO - Dados para 'gamboa' salvos em: dados/2025-07-05/gamboa_2025-07-05_10-27.csv
+2025-07-05 10:27:41,058 - INFO - Processando estação: 188
+2025-07-05 10:27:41,058 - INFO - Dados para 'leandrinho' salvos em: dados/2025-07-05/leandrinho_2025-07-05_10-27.csv
+2025-07-05 10:27:45,029 - INFO - Processando estação: 187
+2025-07-05 10:27:45,045 - INFO - Dados para 'gravatá' salvos em: dados/2025-07-05/gravatá_2025-07-05_10-27.csv
+2025-07-05 10:27:46,776 - INFO - Processando estação: 190
+2025-07-05 10:27:46,776 - INFO - Dados para 'cobre' salvos em: dados/2025-07-05/cobre_2025-07-05_10-27.csv
+2025-07-05 10:27:50,753 - INFO - Processando estação: 184
+2025-07-05 10:27:50,768 - INFO - Dados para 'machadinho' salvos em: dados/2025-07-05/machadinho_2025-07-05_10-27.csv
+2025-07-05 10:27:52,037 - INFO - Processando estação: 136634
+2025-07-05 10:27:52,038 - INFO - Dados para 'caboto' salvos em: dados/2025-07-05/caboto_2025-07-05_10-27.csv
+2025-07-05 10:27:53,879 - INFO - Processando estação: 186
+2025-07-05 10:27:53,879 - INFO - Dados para 'futurama_i' salvos em: dados/2025-07-05/futurama_i_2025-07-05_10-27.csv
+2025-07-05 10:27:57,386 - INFO - Processando estação: 189
+2025-07-05 10:27:57,386 - INFO - Dados para 'lamarao' salvos em: dados/2025-07-05/lamarao_2025-07-05_10-27.csv
+2025-07-05 10:27:59,704 - INFO - Processando estação: 183
+2025-07-05 10:27:59,704 - INFO - Dados para 'concordia' salvos em: dados/2025-07-05/concordia_2025-07-05_10-27.csv
+2025-07-05 10:28:02,491 - INFO - Processando estação: 185
+2025-07-05 10:28:02,491 - INFO - Dados para 'câmara' salvos em: dados/2025-07-05/câmara_2025-07-05_10-27.csv
+2025-07-05 10:28:06,075 - INFO - Processando estação: 181
+2025-07-05 10:28:06,075 - INFO - Dados para 'escola' salvos em: dados/2025-07-05/escola_2025-07-05_10-27.csv
+2025-07-05 10:28:08,461 - INFO - Processando estação: 136513
+2025-07-05 10:28:08,461 - INFO - Dados para 'areias_ii' salvos em: dados/2025-07-05/areias_ii_2025-07-05_10-27.csv
+2025-07-05 10:28:09,902 - INFO - Processando estação: 136613
+2025-07-05 10:28:09,902 - INFO - Dados para 'botelho' salvos em: dados/2025-07-05/botelho_2025-07-05_10-27.csv
+2025-07-05 10:36:16,627 - INFO - ===== INICIANDO NOVA COLETA DE DADOS =====
+2025-07-05 10:36:16,627 - INFO - Encontradas 15 estações para a Bahia.
+2025-07-05 10:36:16,627 - INFO - Pasta de saída definida como: dados/2025-07-05
+2025-07-05 10:36:16,627 - INFO - Processando estação: 142553 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=142553
+2025-07-05 10:36:17,499 - INFO - Dados para 'malemba' salvos com 83 registros.
+2025-07-05 10:36:18,512 - INFO - Processando estação: 182 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=182
+2025-07-05 10:36:18,921 - INFO - Dados para 'areias' salvos com 24 registros.
+2025-07-05 10:36:19,924 - INFO - Processando estação: 136633 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136633
+2025-07-05 10:36:21,154 - INFO - Dados para 'gamboa' salvos com 112 registros.
+2025-07-05 10:36:22,164 - INFO - Processando estação: 188 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=188
+2025-07-05 10:36:24,436 - INFO - Dados para 'leandrinho' salvos com 96 registros.
+2025-07-05 10:36:25,437 - INFO - Processando estação: 187 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=187
+2025-07-05 10:36:29,191 - INFO - Dados para 'gravatá' salvos com 96 registros.
+2025-07-05 10:36:30,192 - INFO - Processando estação: 190 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=190
+2025-07-05 10:36:31,955 - INFO - Dados para 'cobre' salvos com 24 registros.
+2025-07-05 10:36:32,956 - INFO - Processando estação: 184 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=184
+2025-07-05 10:36:36,823 - INFO - Dados para 'machadinho' salvos com 120 registros.
+2025-07-05 10:36:37,824 - INFO - Processando estação: 136634 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136634
+2025-07-05 10:36:39,338 - INFO - Dados para 'caboto' salvos com 112 registros.
+2025-07-05 10:36:40,339 - INFO - Processando estação: 186 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=186
+2025-07-05 10:36:42,078 - INFO - Dados para 'futurama_i' salvos com 24 registros.
+2025-07-05 10:36:43,080 - INFO - Processando estação: 189 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=189
+2025-07-05 10:36:46,507 - INFO - Dados para 'lamarao' salvos com 72 registros.
+2025-07-05 10:36:47,508 - INFO - Processando estação: 183 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=183
+2025-07-05 10:36:49,921 - INFO - Dados para 'concordia' salvos com 72 registros.
+2025-07-05 10:36:50,922 - INFO - Processando estação: 185 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=185
+2025-07-05 10:36:53,217 - INFO - Dados para 'câmara' salvos com 72 registros.
+2025-07-05 10:36:54,219 - INFO - Processando estação: 181 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=181
+2025-07-05 10:36:57,959 - INFO - Dados para 'escola' salvos com 72 registros.
+2025-07-05 10:36:58,960 - INFO - Processando estação: 136513 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136513
+2025-07-05 10:37:01,521 - INFO - Dados para 'areias_ii' salvos com 24 registros.
+2025-07-05 10:37:02,528 - INFO - Processando estação: 136613 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136613
+2025-07-05 10:37:03,932 - INFO - Dados para 'botelho' salvos com 88 registros.
+2025-07-05 10:37:04,942 - INFO - ===== COLETA DE DADOS FINALIZADA =====
+2025-07-05 10:47:40,378 - INFO - ===== INICIANDO NOVA COLETA DE DADOS =====
+2025-07-05 10:47:40,378 - INFO - Encontradas 15 estações para a Bahia.
+2025-07-05 10:47:40,378 - INFO - Pasta de saída definida como: dados/2025-07-05
+2025-07-05 10:47:40,378 - INFO - Processando estação: 142553 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=142553
+2025-07-05 10:47:41,190 - INFO - Dados para 'malemba' salvos com 83 registros.
+2025-07-05 10:48:12,083 - INFO - ===== INICIANDO NOVA COLETA DE DADOS =====
+2025-07-05 10:48:12,083 - INFO - Encontradas 15 estações para a Bahia.
+2025-07-05 10:48:12,083 - INFO - Pasta de saída definida como: dados/2025-07-05
+2025-07-05 10:48:12,083 - INFO - Processando estação: 142553 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=142553
+2025-07-05 10:48:12,880 - INFO - Dados para 'malemba' salvos com 83 registros.
+2025-07-05 10:48:15,919 - INFO - Processando estação: 182 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=182
+2025-07-05 10:48:16,399 - INFO - Dados para 'areias' salvos com 24 registros.
+2025-07-05 10:48:18,483 - INFO - Processando estação: 136633 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136633
+2025-07-05 10:48:20,014 - INFO - Dados para 'gamboa' salvos com 112 registros.
+2025-07-05 10:48:22,755 - INFO - Processando estação: 188 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=188
+2025-07-05 10:48:25,003 - INFO - Dados para 'leandrinho' salvos com 96 registros.
+2025-07-05 10:48:28,199 - INFO - Processando estação: 187 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=187
+2025-07-05 10:48:32,380 - INFO - Dados para 'gravatá' salvos com 96 registros.
+2025-07-05 10:48:34,064 - INFO - Processando estação: 190 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=190
+2025-07-05 10:48:35,723 - INFO - Dados para 'cobre' salvos com 24 registros.
+2025-07-05 10:48:37,861 - INFO - Processando estação: 184 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=184
+2025-07-05 10:48:41,710 - INFO - Dados para 'machadinho' salvos com 120 registros.
+2025-07-05 10:48:44,276 - INFO - Processando estação: 136634 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136634
+2025-07-05 10:48:45,704 - INFO - Dados para 'caboto' salvos com 112 registros.
+2025-07-05 10:48:47,996 - INFO - Processando estação: 186 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=186
+2025-07-05 10:48:49,993 - INFO - Dados para 'futurama_i' salvos com 24 registros.
+2025-07-05 10:48:53,412 - INFO - Processando estação: 189 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=189
+2025-07-05 10:48:57,146 - INFO - Dados para 'lamarao' salvos com 72 registros.
+2025-07-05 10:48:59,822 - INFO - Processando estação: 183 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=183
+2025-07-05 10:49:02,504 - INFO - Dados para 'concordia' salvos com 72 registros.
+2025-07-05 10:49:05,746 - INFO - Processando estação: 185 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=185
+2025-07-05 10:49:08,260 - INFO - Dados para 'câmara' salvos com 72 registros.
+2025-07-05 10:49:11,444 - INFO - Processando estação: 181 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=181
+2025-07-05 10:49:15,398 - INFO - Dados para 'escola' salvos com 72 registros.
+2025-07-05 10:49:17,271 - INFO - Processando estação: 136513 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136513
+2025-07-05 10:49:19,823 - INFO - Dados para 'areias_ii' salvos com 24 registros.
+2025-07-05 10:49:23,232 - INFO - Processando estação: 136613 | URL: https://monitorar-backend.mma.gov.br/v1/estacao/por-ids?ids=136613
+2025-07-05 10:49:24,552 - INFO - Dados para 'botelho' salvos com 88 registros.
+2025-07-05 10:49:26,472 - INFO - ===== COLETA DE DADOS FINALIZADA =====

@@ -2,8 +2,9 @@ name: Coleta diária de dados da Bahia
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # 08:00 UTC todos os dias
-  workflow_dispatch:     # Permite rodar manualmente também
+    - cron: '0 11 * * *'  # Roda às 08:00 no horário de Salvador
+    - cron: '0 23 * * *'  # Roda às 20:00 no horário de Salvador
+  workflow_dispatch:      # Permite rodar manualmente também
 
 jobs:
   run-script:
@@ -24,13 +25,25 @@ jobs:
 
       - name: Rodar script de coleta
         run: |
-          python baixar_dados_ba_por_data.py
+          python baixar_dados.py
 
       - name: Subir dados coletados
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull
           git add dados/
-          git commit -m "📦 Atualização diária dos dados - ${{ github.run_id }}"
+          # O comando abaixo faz o commit apenas se houver mudanças
+          git diff --quiet && git diff --staged --quiet || git commit -m "📦 Atualização dos dados - $(date -u +'%Y-%m-%d %H:%M:%S') UTC"
           git push
+
+      # --- PASSO ADICIONADO PARA SALVAR O LOG ---
+      - name: Upload do arquivo de log como artefato
+        # 'if: always()' garante que este passo rode mesmo se os passos anteriores falharem
+        if: always() 
+        uses: actions/upload-artifact@v4
+        with:
+          # Nome do artefato que aparecerá nos downloads
+          name: log-de-coleta-${{ github.run_id }}
+          # Caminho para o arquivo que você quer salvar
+          path: coleta_dados.log
