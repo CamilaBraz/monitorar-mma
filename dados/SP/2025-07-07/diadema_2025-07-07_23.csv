@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-06 20:00,19.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-06 21:00,18.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-06 22:00,16.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-06 23:00,15.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 01:00,13.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 02:00,13.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 03:00,14.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 04:00,14.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 05:00,13.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 06:00,13.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 07:00,12.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 13:00,15.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 14:00,18.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 15:00,20.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 16:00,22.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 17:00,22.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 18:00,22.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-07 19:00,21.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 00:00,14.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 08:00,12.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 09:00,12.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 10:00,12.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 11:00,12.0,Boa,True
+2025-07-07,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 12:00,13.0,Boa,True

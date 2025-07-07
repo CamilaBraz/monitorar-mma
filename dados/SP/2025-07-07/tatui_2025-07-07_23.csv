@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 10:00,14.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 11:00,14.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 12:00,14.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 13:00,16.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 14:00,17.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 15:00,19.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 16:00,21.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 17:00,23.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 18:00,25.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-07-07 19:00,25.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-06 20:00,7.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-06 21:00,7.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-06 22:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-06 23:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 00:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 01:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 02:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 03:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 04:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 05:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 06:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 07:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 08:00,6.0,Boa,True
+2025-07-07,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-07 09:00,6.0,Boa,True
