@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 07:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 08:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 09:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 10:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 11:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 12:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 13:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 14:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 15:00,0.444,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 16:00,0.444,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 17:00,0.444,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 18:00,0.444,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 19:00,0.444,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 20:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 21:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 22:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-17 23:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 00:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 01:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 02:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 03:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 04:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 05:00,0.889,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,5,CO,Monóxido de Carbono,2025-07-18 06:00,1.333,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 07:00,40.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 08:00,40.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 09:00,39.2,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 10:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 11:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 12:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 13:00,37.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 14:00,37.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 15:00,37.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 16:00,36.8,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 17:00,36.8,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 18:00,34.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 19:00,33.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 20:00,33.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 21:00,32.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 22:00,32.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-17 23:00,31.2,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 00:00,31.2,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 01:00,30.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 02:00,30.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 03:00,29.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 04:00,29.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 05:00,29.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 06:00,29.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 07:00,40.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 08:00,40.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 09:00,40.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 10:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 11:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 12:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 13:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 14:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 15:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 16:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 17:00,38.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 18:00,35.2,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 19:00,35.2,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 20:00,35.2,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 21:00,33.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 22:00,33.6,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-17 23:00,32.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 00:00,32.0,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 01:00,30.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 02:00,30.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 03:00,30.4,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 04:00,28.8,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 05:00,28.8,Boa,True
+2025-07-18,,3106200,31,MG,puc_sao_gabriel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-18 06:00,28.8,Boa,True
