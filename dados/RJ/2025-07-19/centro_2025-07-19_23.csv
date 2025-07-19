@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 21:00,62.49,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 22:00,62.49,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-18 23:00,61.694,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 00:00,60.898,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 01:00,58.51,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 02:00,56.122,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 03:00,54.531,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 04:00,52.939,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 05:00,52.143,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 06:00,51.347,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 07:00,50.551,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 08:00,49.755,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 09:00,48.959,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 10:00,48.163,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 11:00,47.367,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 12:00,45.776,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 13:00,43.388,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 14:00,41.796,Moderada,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 15:00,39.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 16:00,37.6,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 17:00,36.0,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 18:00,34.4,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 19:00,32.8,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 20:00,31.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-18 21:00,20.0,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-18 22:00,18.8,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-18 23:00,17.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 00:00,16.4,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 01:00,16.4,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 02:00,17.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 03:00,18.4,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 04:00,19.6,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 05:00,20.8,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 06:00,22.0,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 07:00,22.4,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 08:00,22.8,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 09:00,23.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 10:00,23.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 11:00,23.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 12:00,23.2,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 13:00,23.6,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 14:00,24.0,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 15:00,24.0,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 16:00,24.0,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 17:00,23.6,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 18:00,23.6,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 19:00,22.8,Boa,True
+2025-07-19,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2025-07-19 20:00,22.4,Boa,True
