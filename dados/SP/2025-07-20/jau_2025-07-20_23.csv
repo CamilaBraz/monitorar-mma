@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-19 20:00,31.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-19 21:00,29.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-19 22:00,27.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-20 15:00,25.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-20 16:00,29.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-20 17:00,32.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-20 18:00,34.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-07-20 19:00,35.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 23:00,26.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 00:00,26.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 01:00,25.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 02:00,25.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 03:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 04:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 05:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 06:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 07:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 08:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 09:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 10:00,24.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 11:00,22.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 12:00,22.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 13:00,22.0,Boa,True
+2025-07-20,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-20 14:00,23.0,Boa,True
