@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-20,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-20 03:00,22.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-20 04:00,24.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-20 05:00,24.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-20 06:00,24.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-20 07:00,24.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 14:00,21.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 15:00,25.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 16:00,31.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 17:00,35.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 18:00,43.0,Moderada,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 19:00,57.0,Moderada,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 20:00,56.0,Moderada,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 21:00,49.0,Moderada,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 22:00,40.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-19 23:00,37.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-20 00:00,33.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-20 01:00,28.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-07-20 02:00,22.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 08:00,30.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 09:00,29.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 10:00,27.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 11:00,25.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 12:00,24.0,Boa,True
+2025-07-20,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-19 13:00,22.0,Boa,True
