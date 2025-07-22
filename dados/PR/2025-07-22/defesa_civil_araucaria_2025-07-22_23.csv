@@ -1,0 +1,137 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-21 20:00,11.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-21 21:00,12.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-21 22:00,12.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-21 23:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 00:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 01:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 02:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 03:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 04:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 05:00,14.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 06:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 07:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 08:00,14.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 09:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 10:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 11:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 12:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 13:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 14:00,12.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 15:00,12.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 16:00,11.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 17:00,11.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 18:00,12.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,5,CO,Monóxido de Carbono,2025-07-22 19:00,12.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-21 20:00,25.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-21 21:00,25.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-21 22:00,29.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-21 23:00,31.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 00:00,34.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 01:00,33.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 02:00,34.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 03:00,35.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 04:00,37.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 05:00,39.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 06:00,42.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 07:00,44.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 08:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 09:00,47.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 10:00,47.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 11:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 12:00,47.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 13:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 14:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 15:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 16:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 17:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 18:00,48.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 19:00,50.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-21 20:00,33.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-21 21:00,34.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-21 22:00,38.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-21 23:00,41.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 00:00,42.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 01:00,43.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 02:00,44.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 03:00,45.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 04:00,46.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 05:00,47.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 06:00,49.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 07:00,50.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 08:00,51.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 09:00,52.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 10:00,51.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 12:00,52.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 13:00,52.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 15:00,51.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 16:00,51.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 17:00,51.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 18:00,51.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 19:00,52.0,Moderada,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-21 20:00,11.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-21 21:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-21 22:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-21 23:00,8.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 00:00,7.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 01:00,7.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 02:00,6.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 03:00,6.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 04:00,5.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 05:00,5.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 06:00,5.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 07:00,5.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 08:00,6.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 09:00,7.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 10:00,8.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 11:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 12:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 13:00,7.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 14:00,7.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 15:00,6.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 16:00,6.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 17:00,8.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 18:00,11.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-22 19:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-21 20:00,11.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-21 21:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-21 22:00,6.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-21 23:00,4.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 00:00,2.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 06:00,,,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 08:00,,,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 09:00,,,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 10:00,2.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 11:00,4.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 12:00,7.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 13:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 14:00,13.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 15:00,16.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 16:00,18.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 17:00,20.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 18:00,19.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,20,O₃,Ozônio,2025-07-22 19:00,17.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-21 20:00,8.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-21 21:00,8.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-21 22:00,8.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-21 23:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 00:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 01:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 02:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 03:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 04:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 05:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 06:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 07:00,9.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 08:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 09:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 10:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 11:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 12:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 13:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 14:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 15:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 16:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 17:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 18:00,10.0,Boa,True
+2025-07-22,,4101804,41,PR,defesa_civil_araucaria,,,,23,SO₂,Dióxido de Enxofre,2025-07-22 19:00,10.0,Boa,True
