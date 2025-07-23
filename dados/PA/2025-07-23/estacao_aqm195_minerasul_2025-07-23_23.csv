@@ -1,0 +1,108 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-06-24 10:00,7.977,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-06-24 11:00,7.82,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-06-24 12:00,8.11,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-06-24 13:00,8.197,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-06-24 14:00,8.659,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-06-24 15:00,9.334,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 10:00,48.936,Moderada,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 11:00,35.686,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 12:00,28.257,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 14:00,22.062,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 15:00,19.217,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 16:00,16.512,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 17:00,14.674,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 18:00,13.703,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 19:00,12.655,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 20:00,13.457,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 21:00,12.713,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 22:00,12.01,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-08 23:00,11.386,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-09 00:00,10.94,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-09 01:00,10.409,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-09 02:00,9.992,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-09 03:00,10.195,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-09 04:00,10.565,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-06-24 10:00,4.227,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-06-24 11:00,4.114,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-06-24 12:00,4.173,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-06-24 13:00,4.203,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-06-24 14:00,4.37,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-06-24 15:00,4.574,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 10:00,12.998,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 11:00,10.203,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 12:00,8.358,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 14:00,6.585,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 15:00,5.776,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 16:00,4.969,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 17:00,4.425,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 18:00,4.138,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 19:00,3.854,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 20:00,4.066,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 21:00,3.9,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 22:00,3.701,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-08 23:00,3.549,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-09 00:00,3.442,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-09 01:00,3.313,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-09 02:00,3.223,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-09 03:00,3.252,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-09 04:00,3.285,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-06-24 10:00,0.882,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-06-24 11:00,3.928,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-06-24 12:00,3.551,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-06-24 13:00,7.88,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-06-24 14:00,10.136,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-06-24 15:00,7.171,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 10:00,0.47,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 11:00,0.345,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 12:00,0.169,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 15:00,0.059,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 16:00,0.077,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 19:00,0.009,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 20:00,0.055,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 21:00,0.088,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 22:00,0.112,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-08 23:00,0.096,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-09 00:00,0.055,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-09 01:00,0.063,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-09 02:00,0.063,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-09 03:00,0.045,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-09 04:00,0.031,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-06-24 10:00,2.006,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-06-24 11:00,2.402,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-06-24 12:00,2.846,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-06-24 13:00,3.284,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-06-24 14:00,3.614,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-06-24 15:00,3.918,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 10:00,0.465,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 11:00,0.238,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 18:00,-0.289,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 19:00,-0.26,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 20:00,-0.174,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 21:00,-0.114,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 22:00,-0.01,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-08 23:00,0.086,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-09 00:00,0.184,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-09 01:00,0.274,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-09 02:00,0.306,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-09 03:00,0.322,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,20,O₃,Ozônio,2025-07-09 04:00,0.329,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-06-24 13:00,0.018,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-06-24 14:00,0.037,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-06-24 15:00,0.053,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 14:00,-0.04,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 16:00,-0.027,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 17:00,-0.017,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 18:00,0.016,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 19:00,0.042,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 20:00,0.058,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 21:00,0.056,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 22:00,0.058,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-08 23:00,0.06,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-09 00:00,0.061,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,5,CO,Monóxido de Carbono,2025-07-09 01:00,0.056,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,23,SO₂,Dióxido de Enxofre,2025-06-24 13:00,7.386,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,23,SO₂,Dióxido de Enxofre,2025-06-24 14:00,18.462,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,23,SO₂,Dióxido de Enxofre,2025-06-24 15:00,9.484,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,23,SO₂,Dióxido de Enxofre,2025-07-08 17:00,0.048,Boa,True
+2025-07-23,,1507300,15,PA,estacao_aqm195_minerasul,,,,23,SO₂,Dióxido de Enxofre,2025-07-08 18:00,0.334,Boa,True

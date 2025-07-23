@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 00:00,50.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 01:00,50.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 02:00,50.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 03:00,50.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 04:00,50.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 05:00,51.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 06:00,51.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 07:00,53.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 08:00,53.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 09:00,54.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 10:00,54.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 11:00,51.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 12:00,48.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 13:00,46.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 14:00,46.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 15:00,46.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 16:00,45.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 17:00,45.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 18:00,45.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 19:00,45.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 20:00,48.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 21:00,48.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 22:00,48.0,Moderada,True
+2025-07-23,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 23:00,48.0,Moderada,True
