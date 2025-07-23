@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 02:00,2.222,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 03:00,2.222,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 04:00,2.222,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 05:00,2.222,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 06:00,2.667,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 07:00,3.111,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 08:00,3.556,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 09:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 10:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 11:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 12:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 13:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 14:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 15:00,3.111,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 16:00,3.111,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 17:00,3.111,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 18:00,3.556,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 19:00,4.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 20:00,4.444,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 21:00,4.444,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 22:00,4.889,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-22 23:00,4.889,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-23 00:00,4.444,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,5,CO,Monóxido de Carbono,2025-07-23 01:00,4.444,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 02:00,32.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 03:00,31.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 04:00,31.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 05:00,32.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 06:00,32.8,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 07:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 08:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 09:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 10:00,36.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 11:00,36.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 12:00,36.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 13:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 14:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 15:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 16:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 17:00,34.4,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 18:00,36.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 19:00,38.4,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 20:00,39.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 21:00,40.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 22:00,40.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-22 23:00,40.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-23 00:00,40.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-23 01:00,41.0,Moderada,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 02:00,30.4,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 03:00,30.4,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 04:00,30.4,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 05:00,30.4,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 06:00,32.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 07:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 08:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 09:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 10:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 11:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 12:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 13:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 14:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 15:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 16:00,32.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 17:00,32.0,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 18:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 19:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 20:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 21:00,33.6,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 22:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-22 23:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 00:00,35.2,Boa,True
+2025-07-23,,3106705,31,MG,alterosa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-23 01:00,35.2,Boa,True
