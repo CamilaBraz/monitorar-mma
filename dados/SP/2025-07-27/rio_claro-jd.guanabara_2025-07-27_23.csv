@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-26 21:00,36.0,Boa,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-26 22:00,39.0,Boa,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-26 23:00,43.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 00:00,46.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 01:00,46.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 02:00,48.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 03:00,51.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 04:00,53.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 05:00,54.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 06:00,56.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 07:00,57.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 08:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 09:00,64.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 10:00,64.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 11:00,62.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 12:00,62.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 13:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 14:00,62.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 15:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 16:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 17:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 18:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-27 19:00,61.0,Moderada,True
+2025-07-27,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-07-26 20:00,35.0,Boa,True
