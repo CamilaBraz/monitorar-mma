@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-27 19:00,32.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-27 20:00,30.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-27 21:00,27.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-27 22:00,23.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 04:00,18.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 05:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 06:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 08:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 09:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 10:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 11:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 12:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 13:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 14:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 15:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 16:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 17:00,22.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 18:00,22.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,20,O₃,Ozônio,2025-07-28 19:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-27 23:00,21.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 00:00,20.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 01:00,19.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 02:00,19.0,Boa,True
+2025-07-28,,3513801,35,SP,diadema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 03:00,19.0,Boa,True
