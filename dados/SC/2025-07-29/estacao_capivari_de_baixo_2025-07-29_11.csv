@@ -1,0 +1,55 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 08:30,5.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 09:30,4.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 10:30,5.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 11:30,2.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 12:30,5.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 13:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 14:30,9.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 15:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 16:30,10.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 17:30,10.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 18:30,10.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 19:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 20:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 21:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 22:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-28 23:30,10.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 00:30,9.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 01:30,11.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 02:30,10.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 03:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 04:30,2.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 05:30,2.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 06:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-29 07:30,9.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 08:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 09:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 10:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 11:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 12:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 13:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 14:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 15:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 16:30,9.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 17:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 18:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 19:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 20:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 21:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 22:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-28 23:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 00:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 01:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 02:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 03:30,6.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 04:30,7.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 05:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 06:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-07-29 07:30,8.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 09:30,20.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 12:30,19.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 16:30,22.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 21:30,24.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-28 22:30,24.0,Boa,True
+2025-07-29,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-29 00:30,25.0,Boa,True
