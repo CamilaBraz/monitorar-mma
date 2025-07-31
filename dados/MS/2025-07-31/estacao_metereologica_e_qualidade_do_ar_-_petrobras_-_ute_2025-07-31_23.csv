@@ -1,0 +1,45 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-30 18:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-30 20:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-30 22:30,0.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 01:30,,,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 02:30,,,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 03:30,,,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 04:30,,,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 05:30,0.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 06:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 07:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 08:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 09:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 10:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 11:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 12:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 13:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 14:30,0.444,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 15:30,0.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 16:30,0.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,5,CO,Monóxido de Carbono,2025-07-31 17:30,0.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-30 18:30,2.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-30 19:30,1.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-30 20:30,1.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-30 21:30,1.2,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-30 22:30,1.2,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-30 23:30,0.8,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 00:30,0.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 01:30,0.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 02:30,0.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 03:30,0.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 04:30,0.8,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 05:30,1.2,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 06:30,1.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 07:30,1.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 08:30,1.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 09:30,2.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 10:30,2.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 11:30,2.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 12:30,2.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 13:30,2.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 14:30,2.8,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 15:30,3.2,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 16:30,3.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,25.0,,0.0,20,O₃,Ozônio,2025-07-31 17:30,4.0,Boa,True

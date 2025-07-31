@@ -1,0 +1,33 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 12:00,8.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 13:00,10.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 14:00,12.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 15:00,14.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 16:00,15.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 17:00,16.4,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,20,O₃,Ozônio,2025-07-31 18:00,16.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 13:00,42.592,Moderada,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 14:00,43.388,Moderada,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 15:00,43.388,Moderada,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 16:00,44.184,Moderada,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 17:00,44.184,Moderada,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 18:00,44.98,Moderada,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 12:00,1.2,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 13:00,0.8,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 14:00,0.8,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 15:00,1.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 16:00,1.2,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 17:00,2.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,18,NO₂,Dióxido de Nitrogênio,2025-07-31 18:00,8.6,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,23,SO₂,Dióxido de Enxofre,2025-07-31 13:00,18.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,23,SO₂,Dióxido de Enxofre,2025-07-31 14:00,18.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,23,SO₂,Dióxido de Enxofre,2025-07-31 15:00,18.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,23,SO₂,Dióxido de Enxofre,2025-07-31 16:00,18.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,23,SO₂,Dióxido de Enxofre,2025-07-31 17:00,20.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,23,SO₂,Dióxido de Enxofre,2025-07-31 18:00,20.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,5,CO,Monóxido de Carbono,2025-07-31 13:00,8.0,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,5,CO,Monóxido de Carbono,2025-07-31 14:00,7.556,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,5,CO,Monóxido de Carbono,2025-07-31 15:00,7.111,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,5,CO,Monóxido de Carbono,2025-07-31 16:00,6.667,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,5,CO,Monóxido de Carbono,2025-07-31 17:00,6.222,Boa,True
+2025-07-31,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,4.0,5,CO,Monóxido de Carbono,2025-07-31 18:00,6.222,Boa,True

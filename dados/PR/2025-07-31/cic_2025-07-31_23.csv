@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-30 20:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-30 21:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-30 22:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-30 23:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 00:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 01:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 02:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 03:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 04:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 05:00,3.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 06:00,4.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 07:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 08:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 09:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 10:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 11:00,4.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 12:00,4.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 13:00,4.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 14:00,3.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 15:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 16:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 17:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 18:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,5,CO,Monóxido de Carbono,2025-07-31 19:00,1.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-30 20:00,34.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-30 21:00,35.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-30 22:00,35.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-30 23:00,35.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 00:00,36.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 01:00,36.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 02:00,37.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 03:00,39.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 04:00,40.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 05:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 06:00,44.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 07:00,46.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 08:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 09:00,49.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 10:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 11:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 12:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 13:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 14:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 15:00,48.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 16:00,49.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 17:00,49.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 18:00,50.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-07-31 19:00,49.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-30 20:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-30 21:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-30 22:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-30 23:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 00:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 01:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 02:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 03:00,42.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 04:00,43.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 05:00,43.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 06:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 07:00,46.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 08:00,47.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 09:00,47.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 10:00,46.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 11:00,46.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 12:00,46.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 13:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 14:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 15:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 16:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 17:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 18:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-07-31 19:00,45.0,Moderada,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-30 20:00,9.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-30 21:00,10.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-30 22:00,10.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-30 23:00,9.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 00:00,6.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 01:00,6.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 02:00,6.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 03:00,6.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 04:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 05:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 06:00,8.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 07:00,8.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 08:00,9.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 09:00,7.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 10:00,5.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 11:00,3.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 12:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 13:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 14:00,2.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 15:00,3.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 16:00,,,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 17:00,6.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 18:00,7.0,Boa,True
+2025-07-31,,4106902,41,PR,cic,,,,18,NO₂,Dióxido de Nitrogênio,2025-07-31 19:00,7.0,Boa,True
