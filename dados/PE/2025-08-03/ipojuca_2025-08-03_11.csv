@@ -1,0 +1,89 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 14:00,21.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 15:00,21.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 16:00,20.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 17:00,20.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 18:00,20.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 19:00,20.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 20:00,19.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 21:00,19.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 22:00,19.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 23:00,18.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 00:00,18.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 01:00,18.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 02:00,17.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 03:00,17.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 04:00,17.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 05:00,17.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 06:00,17.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 07:00,16.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 08:00,16.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 09:00,15.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 10:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 11:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 12:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 13:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 14:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 15:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 16:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 17:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 18:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 19:00,5.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 20:00,5.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 21:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 22:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 23:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 00:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 01:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 02:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 03:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 04:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 05:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 06:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 07:00,2.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 08:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-03 09:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 10:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 11:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 12:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 13:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 14:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 15:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 16:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 17:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 18:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 19:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 20:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 21:00,9.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 22:00,8.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-02 23:00,8.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 00:00,8.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 01:00,8.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 02:00,8.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 03:00,7.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 04:00,7.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 05:00,7.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 06:00,6.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 07:00,6.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 08:00,6.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,20,O₃,Ozônio,2025-08-03 09:00,6.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 14:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 15:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 16:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 17:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 18:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 19:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 20:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 21:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 22:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-02 23:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 00:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 01:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 02:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 03:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 04:00,3.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 05:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 06:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 07:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 08:00,4.0,Boa,True
+2025-08-03,,2607208,26,PE,ipojuca,,,,23,SO₂,Dióxido de Enxofre,2025-08-03 09:00,4.0,Boa,True
