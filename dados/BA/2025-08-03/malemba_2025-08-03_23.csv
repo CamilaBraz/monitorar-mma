@@ -1,0 +1,83 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 16:00,5.76,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 17:00,5.84,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 18:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 19:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 20:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 21:00,6.08,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 22:00,6.16,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-01 23:00,6.24,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 00:00,6.24,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 01:00,6.24,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 02:00,6.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 03:00,6.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 04:00,6.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 05:00,6.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 06:00,6.4,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 07:00,6.16,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 08:00,5.84,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 09:00,5.68,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 10:00,5.6,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 11:00,5.68,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 12:00,5.76,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 13:00,5.68,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 14:00,6.24,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-02 15:00,6.24,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 16:00,6.88,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 17:00,7.04,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 18:00,7.04,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 19:00,7.2,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 20:00,7.04,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 21:00,7.2,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 22:00,7.36,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-01 23:00,7.52,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 00:00,7.52,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 01:00,7.52,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 02:00,7.52,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 03:00,7.52,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 04:00,7.36,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 05:00,7.36,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 06:00,7.52,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 07:00,7.04,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 08:00,6.24,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 09:00,6.08,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 10:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 11:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 12:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 13:00,5.92,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 14:00,6.4,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 15:00,6.4,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 16:00,2.68,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 17:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 18:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 19:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 20:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 21:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 22:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-01 23:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 00:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 01:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 02:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 03:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 04:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 05:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 06:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 07:00,1.54,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 08:00,0.76,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 09:00,0.76,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 10:00,0.76,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-02 11:00,0.76,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 16:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 17:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 18:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 19:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 20:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 21:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 22:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-01 23:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-02 00:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-02 01:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-02 02:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-02 03:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-02 04:00,19.32,Boa,True
+2025-08-03,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2025-08-02 05:00,19.32,Boa,True

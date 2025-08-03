@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-03,,3550308,35,SP,ibirapuera,,,,20,O₃,Ozônio,2025-08-03 17:00,35.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,20,O₃,Ozônio,2025-08-03 18:00,36.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,20,O₃,Ozônio,2025-08-03 19:00,35.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 19:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 20:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 21:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-02 22:00,30.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 00:00,30.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 01:00,30.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 02:00,30.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 03:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 04:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 05:00,33.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 06:00,33.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 07:00,33.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 08:00,35.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 09:00,35.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 10:00,35.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 11:00,33.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 12:00,33.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 13:00,33.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 14:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 15:00,31.0,Boa,True
+2025-08-03,,3550308,35,SP,ibirapuera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 16:00,31.0,Boa,True
