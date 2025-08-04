@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-03 18:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-03 19:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-03 20:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-03 21:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-03 22:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-03 23:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 00:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 01:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 02:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 03:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 04:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 05:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 06:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 07:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 08:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 09:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 10:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 11:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 12:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 13:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 14:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 15:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 16:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,5,CO,Monóxido de Carbono,2025-08-04 17:30,0.889,Boa,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 19:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-03 21:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 04:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 05:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 06:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 09:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 10:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 11:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 12:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 13:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 14:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-04 17:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 19:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-03 21:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 04:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 05:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 06:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 09:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 10:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 11:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 12:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 13:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 14:30,,,True
+2025-08-04,,3131307,31,MG,cidade_nobre,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-04 17:30,,,True
