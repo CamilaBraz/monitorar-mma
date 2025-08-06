@@ -1,0 +1,72 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 10:00,30.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 11:00,32.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 12:00,32.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 13:00,32.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 14:00,32.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 15:00,32.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 16:00,30.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 17:00,29.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 18:00,29.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 19:00,28.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 20:00,28.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 21:00,28.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 22:00,28.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-05 23:00,28.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 00:00,27.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 01:00,27.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 02:00,26.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 03:00,25.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 04:00,24.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 05:00,23.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 06:00,23.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 07:00,21.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-06 08:00,20.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 09:00,8.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 10:00,7.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 11:00,5.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 12:00,3.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 13:00,3.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 14:00,2.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 15:00,3.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 16:00,3.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 17:00,3.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 18:00,3.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 19:00,4.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 20:00,4.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 21:00,4.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 22:00,3.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-05 23:00,3.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 00:00,3.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 01:00,2.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 02:00,2.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 03:00,2.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 04:00,3.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 05:00,3.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 06:00,5.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 07:00,7.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-06 08:00,6.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 09:00,6.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 10:00,6.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 11:00,8.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 12:00,11.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 13:00,14.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 14:00,17.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 15:00,20.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 16:00,23.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 17:00,25.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 18:00,26.8,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 19:00,27.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 20:00,26.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 21:00,25.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 22:00,24.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-05 23:00,23.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 00:00,22.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 01:00,22.0,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 02:00,21.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 03:00,21.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 04:00,20.4,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 05:00,19.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 06:00,17.6,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 07:00,15.2,Boa,True
+2025-08-06,,3304557,33,RJ,campo_grande,27.0,,0.0,20,O₃,Ozônio,2025-08-06 08:00,13.2,Boa,True
