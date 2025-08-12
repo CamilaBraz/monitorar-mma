@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-09 21:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-09 22:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-09 23:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 00:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 01:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 02:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 03:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 04:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 05:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 06:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 07:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 08:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 09:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 10:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 11:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 12:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 13:30,1.333,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 14:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 15:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 16:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 17:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 18:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 19:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,5,CO,Monóxido de Carbono,2025-08-10 20:30,0.889,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-09 21:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-09 22:30,12.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-09 23:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 00:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 01:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 02:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 03:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 04:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 05:30,11.2,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 06:30,12.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 07:30,12.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 08:30,12.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 09:30,12.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 10:30,12.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 11:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 12:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 13:30,13.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 14:30,13.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 15:30,13.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 16:30,13.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 17:30,13.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 18:30,14.4,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 19:30,14.4,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-10 20:30,14.4,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-09 21:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-09 22:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-09 23:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 00:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 01:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 02:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 03:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 04:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 05:30,12.8,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 06:30,14.4,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 07:30,14.4,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 08:30,14.4,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 09:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 10:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 11:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 12:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 13:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 14:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 15:30,17.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 16:30,17.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 17:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 18:30,16.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 19:30,17.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-10 20:30,17.6,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-09 21:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-09 22:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-09 23:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 00:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 01:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 02:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 03:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 04:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 05:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 06:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 07:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 08:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 09:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 10:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 11:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 12:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 13:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 14:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 15:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 16:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 17:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 18:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 19:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,18,NO₂,Dióxido de Nitrogênio,2025-08-10 20:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-09 21:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-09 22:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-09 23:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 00:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 01:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 02:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 03:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 04:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 05:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 06:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 07:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 08:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 09:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 10:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 11:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 12:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 13:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 14:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 15:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 16:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 17:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 18:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 19:30,0.0,Boa,True
+2025-08-12,,5008305,50,MS,estacao_de_monitoramento_-_eldorado_brasil_celulose_s.a.,,,2.0,20,O₃,Ozônio,2025-08-10 20:30,0.0,Boa,True
