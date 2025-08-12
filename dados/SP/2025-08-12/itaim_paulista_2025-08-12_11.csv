@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 08:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 09:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 10:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 11:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 12:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 13:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-11 14:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 00:00,13.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 01:00,13.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 02:00,13.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 03:00,13.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 04:00,13.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 05:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 06:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-12 07:00,16.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 15:00,15.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 16:00,16.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 17:00,17.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 18:00,17.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 19:00,17.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 20:00,16.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 21:00,15.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 22:00,14.0,Boa,True
+2025-08-12,,3550308,35,SP,itaim_paulista,,,,20,O₃,Ozônio,2025-08-11 23:00,13.0,Boa,True
