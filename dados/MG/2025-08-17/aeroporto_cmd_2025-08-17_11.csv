@@ -1,0 +1,26 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 07:30,69.653,Moderada,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 08:30,71.245,Moderada,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 09:30,74.429,Moderada,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 10:30,76.02,Moderada,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 11:30,77.612,Moderada,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 12:30,79.204,Moderada,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 13:30,81.796,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 14:30,81.796,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 15:30,81.0,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 16:30,81.796,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 17:30,81.0,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 18:30,81.0,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 19:30,84.184,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 20:30,84.184,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 21:30,92.143,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 22:30,92.143,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 23:30,96.918,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 00:30,85.776,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 01:30,87.367,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 02:30,90.551,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 03:30,92.143,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 04:30,92.143,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 05:30,91.347,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 06:30,90.551,Ruim,True
+2025-08-17,,3117504,31,MG,aeroporto_cmd,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 20:30,,,True

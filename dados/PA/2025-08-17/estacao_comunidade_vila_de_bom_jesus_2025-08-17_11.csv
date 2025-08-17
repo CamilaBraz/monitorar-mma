@@ -1,0 +1,132 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 16:00,-0.155,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 17:00,-0.107,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 18:00,0.002,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 19:00,0.099,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 20:00,0.209,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 21:00,0.305,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 22:00,0.363,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-16 23:00,0.404,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-17 00:00,0.43,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-17 01:00,0.418,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,5,CO,Monóxido de Carbono,2025-08-17 08:00,-0.078,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 09:00,10.357,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 10:00,10.548,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 11:00,10.65,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 12:00,10.672,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 13:00,10.652,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 14:00,10.515,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 15:00,10.446,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 16:00,10.324,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 17:00,10.191,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 18:00,10.142,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 19:00,10.178,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 20:00,10.338,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 21:00,10.367,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 22:00,10.348,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-16 23:00,10.318,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 00:00,10.314,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 01:00,10.301,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 02:00,10.215,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 03:00,10.36,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 04:00,10.267,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 05:00,10.236,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 06:00,10.127,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 07:00,10.104,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-17 08:00,10.759,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 09:00,7.716,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 10:00,7.884,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 11:00,7.979,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 12:00,8.072,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 13:00,7.977,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 14:00,7.851,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 15:00,7.728,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 16:00,7.611,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 17:00,7.492,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 18:00,7.464,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 19:00,7.46,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 20:00,7.577,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 21:00,7.632,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 22:00,7.611,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-16 23:00,7.554,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 00:00,7.558,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 01:00,7.52,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 02:00,7.455,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 03:00,7.471,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 04:00,7.39,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 05:00,7.353,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 06:00,7.324,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 07:00,7.431,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 08:00,8.554,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 09:00,2.878,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 10:00,1.823,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 11:00,2.574,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 12:00,1.568,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 13:00,1.588,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 14:00,0.455,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 15:00,0.964,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 16:00,1.001,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 17:00,2.724,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 18:00,4.593,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 19:00,5.459,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 20:00,6.284,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 21:00,6.489,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 22:00,6.996,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-16 23:00,8.013,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 00:00,8.447,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 01:00,8.534,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 02:00,9.071,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 03:00,9.36,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 04:00,9.419,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 05:00,8.927,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 06:00,9.193,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 07:00,8.084,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-17 08:00,7.535,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 09:00,1.22,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 10:00,1.854,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 11:00,2.773,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 12:00,3.865,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 13:00,5.125,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 14:00,6.365,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 15:00,7.719,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 16:00,8.97,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 17:00,9.91,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 18:00,10.15,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 19:00,9.888,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 20:00,9.238,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 21:00,8.35,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 22:00,7.38,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-16 23:00,6.197,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 00:00,5.024,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 01:00,3.919,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 02:00,2.98,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 03:00,2.29,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 04:00,1.858,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 05:00,1.537,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 06:00,1.338,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 07:00,1.339,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,20,O₃,Ozônio,2025-08-17 08:00,1.315,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 09:00,25.585,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 10:00,25.15,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 11:00,28.061,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 12:00,28.06,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 13:00,29.437,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 14:00,29.169,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 15:00,31.075,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 16:00,31.575,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 17:00,33.533,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 18:00,34.271,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 19:00,33.383,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 20:00,33.525,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 21:00,31.993,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 22:00,31.806,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-16 23:00,32.288,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 00:00,31.872,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 01:00,31.262,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 02:00,31.649,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 03:00,31.425,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 04:00,31.319,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 05:00,30.4,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 06:00,30.835,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 07:00,29.386,Boa,True
+2025-08-17,,1502152,15,PA,estacao_comunidade_vila_de_bom_jesus,,,,23,SO₂,Dióxido de Enxofre,2025-08-17 08:00,30.478,Boa,True
