@@ -1,0 +1,43 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 08:00,30.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 09:00,31.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 10:00,31.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 11:00,31.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 12:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 13:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 14:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 15:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 16:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 17:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 18:00,32.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 19:00,30.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 20:00,30.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 21:00,29.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 22:00,28.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-17 23:00,27.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 00:00,28.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 01:00,28.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 02:00,27.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 03:00,27.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 04:00,27.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 06:00,27.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-18 07:00,27.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 08:00,6.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 09:00,7.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 10:00,6.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 12:00,8.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 13:00,9.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 16:00,11.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 17:00,11.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 18:00,11.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 19:00,10.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 21:00,10.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 22:00,10.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-17 23:00,11.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 00:00,10.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 01:00,9.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 02:00,8.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 03:00,9.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 04:00,10.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 05:00,10.0,Boa,True
+2025-08-18,,4115200,41,PR,maringa,,,,20,O₃,Ozônio,2025-08-18 06:00,9.0,Boa,True
