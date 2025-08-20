@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 08:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 09:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 10:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 11:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 12:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 13:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 14:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 15:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 16:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 17:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 18:00,1.56,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 19:00,1.94,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 20:00,2.42,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 21:00,2.44,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 22:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-19 23:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 00:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 01:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 02:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 03:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 04:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 05:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 06:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-20 07:00,2.66,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 08:00,27.08,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 09:00,27.08,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 10:00,27.08,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 11:00,26.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 12:00,25.88,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 13:00,26.16,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 14:00,27.4,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 15:00,29.24,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 16:00,30.28,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 17:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 18:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 19:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 20:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 21:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 22:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-19 23:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 00:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 01:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 02:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 03:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 04:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 05:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 06:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,20,O₃,Ozônio,2025-08-20 07:00,30.32,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 08:00,2.8,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 09:00,2.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 10:00,2.2,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 11:00,2.2,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 12:00,2.8,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 13:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 14:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 15:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 16:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 17:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 18:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 19:00,3.4,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 20:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 21:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 22:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-19 23:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 00:00,3.6,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 01:00,3.4,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 02:00,3.4,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 03:00,3.4,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 04:00,3.4,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 05:00,3.2,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 06:00,3.2,Boa,True
+2025-08-20,,2929503,29,BA,lamarao,18.0,81.0,0.0,23,SO₂,Dióxido de Enxofre,2025-08-20 07:00,3.2,Boa,True
