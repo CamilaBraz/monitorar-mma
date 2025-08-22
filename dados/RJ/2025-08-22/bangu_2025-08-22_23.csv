@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-21 21:00,41.796,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-21 22:00,42.592,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-21 23:00,41.796,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 00:00,41.796,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 01:00,42.592,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 02:00,43.388,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 03:00,44.184,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 04:00,44.184,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 05:00,44.98,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 06:00,45.776,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 07:00,46.571,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 08:00,48.163,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 09:00,49.755,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 10:00,52.143,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 11:00,54.531,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 12:00,56.122,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 13:00,56.918,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 14:00,56.918,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 15:00,57.714,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 16:00,57.714,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 17:00,56.918,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 18:00,56.918,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 19:00,56.918,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 20:00,56.122,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-21 21:00,7.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-21 22:00,6.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-21 23:00,5.6,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 00:00,10.2,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 01:00,12.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 02:00,7.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 03:00,6.0,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 04:00,4.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 05:00,4.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 06:00,8.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 07:00,12.6,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 08:00,11.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 09:00,13.2,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 10:00,13.6,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 11:00,11.0,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 12:00,6.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 13:00,5.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 14:00,5.2,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 15:00,4.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 16:00,4.6,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 17:00,6.2,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 18:00,8.6,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 19:00,8.2,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 20:00,14.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-21 21:00,55.793,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-21 22:00,42.345,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-21 23:00,36.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 00:00,31.6,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 01:00,26.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 02:00,22.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 03:00,20.0,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 04:00,18.0,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 05:00,16.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 06:00,14.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 07:00,12.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 08:00,10.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 09:00,10.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 10:00,11.2,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 11:00,14.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 12:00,18.8,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 13:00,24.0,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 14:00,30.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 15:00,38.4,Boa,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 16:00,57.138,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 17:00,75.966,Moderada,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 18:00,85.034,Ruim,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 19:00,82.345,Ruim,True
+2025-08-22,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-08-22 20:00,66.552,Moderada,True
