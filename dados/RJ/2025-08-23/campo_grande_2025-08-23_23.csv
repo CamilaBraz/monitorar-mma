@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 21:00,56.918,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 22:00,56.918,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-22 23:00,56.918,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 00:00,56.122,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 01:00,55.327,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 02:00,53.735,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 03:00,52.939,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 04:00,52.143,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 05:00,52.143,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 06:00,51.347,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 07:00,50.551,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 08:00,49.755,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 09:00,48.163,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 10:00,46.571,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 11:00,45.776,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 12:00,44.184,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 13:00,42.592,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 14:00,41.796,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 15:00,41.796,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 16:00,41.796,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 17:00,41.796,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 18:00,40.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 19:00,41.0,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-23 20:00,41.796,Moderada,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 21:00,9.2,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 22:00,7.8,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-22 23:00,7.6,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 00:00,8.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 01:00,7.8,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 02:00,8.4,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 03:00,8.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 04:00,5.2,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 05:00,3.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 06:00,4.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 07:00,3.6,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 08:00,4.4,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 09:00,4.2,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 10:00,3.8,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 11:00,4.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 12:00,4.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 13:00,4.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 14:00,4.2,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 15:00,4.6,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 16:00,5.0,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 17:00,5.2,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 18:00,8.8,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 19:00,11.4,Boa,True
+2025-08-23,,3304557,33,RJ,campo_grande,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-08-23 20:00,11.4,Boa,True
