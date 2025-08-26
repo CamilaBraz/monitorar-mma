@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-25 20:00,18.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-25 21:00,18.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-25 22:00,17.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-25 23:00,16.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 00:00,15.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 01:00,14.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 02:00,13.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 03:00,12.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 04:00,10.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 05:00,9.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 06:00,8.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 07:00,8.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 08:00,7.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 10:00,7.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 11:00,8.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 12:00,10.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 13:00,11.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 14:00,12.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 15:00,13.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 16:00,14.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 17:00,14.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 18:00,14.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2025-08-26 19:00,13.0,Boa,True
+2025-08-26,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 09:00,7.0,Boa,True
