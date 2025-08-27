@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 01:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 02:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 03:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 04:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 05:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 06:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 07:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 08:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 09:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 10:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 11:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 12:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 13:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 14:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 15:00,1.778,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 16:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 17:00,1.333,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 18:00,0.889,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 19:00,0.889,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 20:00,0.889,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 21:00,0.889,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 22:00,0.889,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-26 23:00,0.444,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,5,CO,Monóxido de Carbono,2025-08-27 00:00,0.444,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 01:00,19.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 02:00,19.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 03:00,19.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 04:00,19.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 05:00,19.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 06:00,19.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 07:00,20.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 08:00,20.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 09:00,20.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 10:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 11:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 12:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 13:00,20.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 14:00,20.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 15:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 16:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 17:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 18:00,22.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 19:00,22.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 20:00,22.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 21:00,22.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 22:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 23:00,21.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-27 00:00,20.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 01:00,2.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 02:00,2.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 03:00,4.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 04:00,4.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 05:00,4.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 06:00,4.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 07:00,5.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 08:00,5.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 09:00,7.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 10:00,8.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 11:00,8.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 12:00,6.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 13:00,7.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 14:00,5.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 15:00,3.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 16:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 17:00,1.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 18:00,2.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 19:00,2.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 20:00,3.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 21:00,2.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 22:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-26 23:00,1.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,18,NO₂,Dióxido de Nitrogênio,2025-08-27 00:00,1.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 01:00,6.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 02:00,5.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 03:00,5.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 04:00,5.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 05:00,5.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 06:00,4.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 07:00,4.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 08:00,2.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 09:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 10:00,0.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 11:00,0.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 12:00,1.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 13:00,4.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 14:00,6.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 15:00,8.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 16:00,10.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 17:00,12.4,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 18:00,14.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 19:00,14.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 20:00,15.2,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 21:00,13.6,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 22:00,12.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-26 23:00,12.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,20,O₃,Ozônio,2025-08-27 00:00,10.8,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 01:00,0.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 02:00,0.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 03:00,0.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 04:00,0.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 05:00,0.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 06:00,0.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 07:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 08:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 09:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 10:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 11:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 12:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 13:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 14:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 15:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 16:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 17:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 18:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 19:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 20:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 21:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 22:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-26 23:00,2.0,Boa,True
+2025-08-27,,4309209,43,RS,gravatai_condominio_jardim_timbauva,,,,23,SO₂,Dióxido de Enxofre,2025-08-27 00:00,2.0,Boa,True
