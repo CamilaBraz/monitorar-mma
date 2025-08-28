@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-26 15:00,10.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-27 17:00,14.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-27 18:00,13.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-27 21:00,13.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-27 22:00,14.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-27 23:00,14.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 00:00,15.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 01:00,16.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 02:00,17.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 03:00,18.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 04:00,18.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 05:00,19.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 06:00,19.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,20,O₃,Ozônio,2025-08-28 07:00,18.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 12:00,13.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-08-26 22:00,11.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 13:00,13.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 14:00,11.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 16:00,9.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 17:00,11.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 18:00,11.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 19:00,11.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 20:00,11.0,Boa,True
+2025-08-28,,3529401,35,SP,maua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-26 21:00,11.0,Boa,True
