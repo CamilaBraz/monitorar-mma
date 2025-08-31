@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 13:00,18.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 14:00,21.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 15:00,25.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 16:00,29.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 17:00,31.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 18:00,31.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 19:00,30.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 20:00,29.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 21:00,27.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-30 22:00,25.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 00:00,20.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 01:00,19.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 02:00,19.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 03:00,18.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 04:00,17.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 05:00,16.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 06:00,16.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,20,O₃,Ozônio,2025-08-31 07:00,14.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-30 07:00,17.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-30 08:00,17.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-30 09:00,17.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-30 10:00,17.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-30 11:00,16.0,Boa,True
+2025-08-31,,3554102,35,SP,taubate,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-08-30 12:00,16.0,Boa,True
