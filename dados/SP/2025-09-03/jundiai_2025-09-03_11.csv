@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-03,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 02:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 03:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 04:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 05:00,15.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 06:00,15.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 07:00,15.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 08:00,13.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 09:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 10:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 11:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 12:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 13:00,16.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-02 23:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-03 00:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-03 01:00,14.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 14:00,17.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 15:00,21.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 16:00,24.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 17:00,26.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 18:00,27.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 19:00,26.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 20:00,24.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 21:00,21.0,Boa,True
+2025-09-03,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-02 22:00,18.0,Boa,True
