@@ -1,0 +1,52 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-02 20:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-02 21:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-02 22:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-02 23:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 00:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 01:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 02:30,0.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 03:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 04:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 05:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 06:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 07:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 08:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 09:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 10:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 11:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 12:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 13:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 14:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 15:30,1.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 16:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 17:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 18:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-03 19:30,2.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-02 20:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-02 21:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-02 22:30,19.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-02 23:30,19.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 00:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 01:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 02:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 03:30,21.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 04:30,21.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 05:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 06:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 07:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 08:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 09:30,21.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 10:30,21.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 11:30,21.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 12:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 13:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 14:30,22.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 15:30,23.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 16:30,23.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 17:30,23.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 18:30,23.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2025-09-03 19:30,23.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-02 21:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-02 22:30,20.0,Boa,True
+2025-09-03,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-03 02:30,20.0,Boa,True
