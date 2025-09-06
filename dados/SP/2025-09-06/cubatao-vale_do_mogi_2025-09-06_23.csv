@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,20,O₃,Ozônio,2025-09-06 14:00,9.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,20,O₃,Ozônio,2025-09-06 15:00,10.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,20,O₃,Ozônio,2025-09-06 16:00,11.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,20,O₃,Ozônio,2025-09-06 17:00,11.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,20,O₃,Ozônio,2025-09-06 18:00,12.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,20,O₃,Ozônio,2025-09-06 19:00,12.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-05 17:00,35.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-05 18:00,33.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-05 19:00,32.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-05 20:00,31.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-05 21:00,29.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-05 22:00,28.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 00:00,26.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 01:00,25.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 02:00,24.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 03:00,23.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 04:00,21.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 05:00,21.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 06:00,19.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 07:00,17.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 08:00,16.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 09:00,15.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 10:00,13.0,Boa,True
+2025-09-06,,3513504,35,SP,cubatao-vale_do_mogi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 11:00,12.0,Boa,True
