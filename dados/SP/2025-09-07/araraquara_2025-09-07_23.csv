@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-06 18:00,73.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-06 19:00,74.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-06 20:00,73.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-06 21:00,64.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-06 22:00,49.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-07 15:00,33.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-07 16:00,38.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-07 17:00,44.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-07 18:00,49.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-09-07 19:00,53.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-06 23:00,45.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 00:00,44.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 01:00,42.0,Moderada,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 02:00,40.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 03:00,36.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 04:00,35.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 05:00,33.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 06:00,32.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 07:00,32.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 08:00,32.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 09:00,31.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 11:00,32.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 12:00,32.0,Boa,True
+2025-09-07,,3503208,35,SP,araraquara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-07 14:00,32.0,Boa,True
