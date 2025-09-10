@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2025-09-10 16:00,55.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2025-09-10 17:00,72.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2025-09-10 18:00,74.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2025-09-10 19:00,65.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-09 19:00,48.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-09 20:00,48.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-09 21:00,48.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-09 22:00,48.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-09 23:00,48.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 00:00,49.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 01:00,50.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 02:00,51.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 03:00,52.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 04:00,52.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 05:00,52.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 06:00,51.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 07:00,50.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 08:00,50.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 10:00,49.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 11:00,47.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 12:00,43.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 13:00,41.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 14:00,41.0,Moderada,True
+2025-09-10,,3549805,35,SP,sao_jose_do_rio_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 15:00,41.0,Moderada,True
