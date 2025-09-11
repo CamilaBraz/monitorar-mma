@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 19:00,107.265,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 20:00,107.265,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 21:00,108.857,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 22:00,109.653,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 23:00,112.041,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 00:00,113.633,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 01:00,113.633,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 02:00,118.408,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 03:00,124.192,Muito ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 04:00,128.182,Muito ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 05:00,128.98,Muito ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 06:00,128.182,Muito ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 07:00,124.192,Muito ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 08:00,117.612,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 09:00,112.041,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 10:00,109.653,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 11:00,108.061,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 12:00,106.469,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 13:00,108.061,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 14:00,107.265,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 15:00,107.265,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 16:00,104.878,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 17:00,104.082,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 18:00,104.082,Ruim,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 19:00,73.5,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 20:00,71.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 21:00,71.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 22:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 23:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 00:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 01:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 02:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 03:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 04:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 05:00,70.25,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 06:00,68.625,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 07:00,67.0,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 08:00,65.375,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 09:00,63.75,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 10:00,62.125,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 11:00,62.125,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 12:00,60.5,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 13:00,58.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 14:00,58.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 15:00,58.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 16:00,58.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 17:00,58.875,Moderada,True
+2025-09-11,,3162955,31,MG,centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 18:00,58.875,Moderada,True
