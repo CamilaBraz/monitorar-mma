@@ -1,0 +1,43 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 09:30,89.755,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 10:30,92.143,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 11:30,94.531,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 12:30,93.735,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 13:30,94.531,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 14:30,94.531,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 15:30,93.735,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 16:30,92.143,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 17:30,92.939,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 18:30,91.347,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 19:30,90.551,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 20:30,90.551,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 21:30,90.551,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 22:30,89.755,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 23:30,88.163,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 00:30,87.367,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 03:30,86.571,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 04:30,83.388,Ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 05:30,80.0,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 06:30,77.612,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 09:30,127.449,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 10:30,130.673,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 11:30,133.898,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 12:30,130.673,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 13:30,132.286,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 14:30,133.898,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 15:30,130.673,Muito ruim,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 16:30,65.375,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 17:30,65.375,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 18:30,63.75,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 19:30,63.75,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 20:30,63.75,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 21:30,62.125,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 22:30,60.5,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-10 23:30,58.875,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 00:30,58.875,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 01:30,57.25,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 02:30,55.625,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 03:30,52.375,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 04:30,50.75,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 05:30,45.875,Moderada,True
+2025-09-11,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 06:30,44.25,Moderada,True
