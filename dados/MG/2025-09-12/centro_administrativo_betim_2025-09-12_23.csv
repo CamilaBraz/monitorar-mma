@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-11 19:00,,,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-11 20:00,,,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-11 21:00,,,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-11 22:00,,,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-11 23:00,,,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 00:00,3.556,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 01:00,4.889,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 02:00,4.889,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 03:00,4.444,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 04:00,4.0,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 05:00,4.889,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 06:00,4.889,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 07:00,5.333,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 08:00,5.333,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 09:00,4.0,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 10:00,3.111,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 11:00,3.111,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 12:00,3.556,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 13:00,2.667,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 14:00,2.222,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 15:00,1.778,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 16:00,1.778,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 17:00,2.222,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,5,CO,Monóxido de Carbono,2025-09-12 18:00,2.222,Boa,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 19:00,55.327,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 20:00,59.306,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 21:00,57.714,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 22:00,60.102,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-11 23:00,60.102,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 00:00,58.51,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 01:00,67.265,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 02:00,75.224,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 03:00,81.796,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 04:00,85.776,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 05:00,91.347,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 06:00,96.918,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 07:00,101.694,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 08:00,106.469,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 09:00,107.265,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 10:00,107.265,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 11:00,107.265,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 12:00,108.061,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 13:00,108.061,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 14:00,109.653,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 15:00,109.653,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 16:00,107.265,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 17:00,104.878,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 18:00,103.286,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 19:00,47.5,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 20:00,52.375,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 21:00,52.375,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 22:00,55.625,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 23:00,55.625,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 00:00,55.625,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 01:00,63.75,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 02:00,70.25,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 03:00,78.375,Moderada,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 04:00,82.625,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 05:00,87.5,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 06:00,92.375,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 07:00,95.625,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 08:00,98.875,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 09:00,100.5,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 10:00,100.5,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 11:00,100.5,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 12:00,100.5,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 13:00,100.5,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 14:00,102.125,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 15:00,102.125,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 16:00,98.875,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 17:00,95.625,Ruim,True
+2025-09-12,,3106705,31,MG,centro_administrativo_betim,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 18:00,92.375,Ruim,True
