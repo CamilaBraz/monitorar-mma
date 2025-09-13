@@ -1,0 +1,16 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 05:30,64.082,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 06:30,64.878,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 07:30,63.286,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 08:30,64.082,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 09:30,65.673,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 12:30,68.857,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 13:30,68.857,Moderada,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 05:30,30.4,Boa,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 06:30,32.0,Boa,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 07:30,32.0,Boa,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 08:30,33.6,Boa,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 09:30,33.6,Boa,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 11:30,100.5,Ruim,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 12:30,100.5,Ruim,True
+2025-09-13,,3147006,31,MG,clube_do_uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 13:30,100.5,Ruim,True

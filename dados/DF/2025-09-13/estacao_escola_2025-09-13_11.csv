@@ -1,0 +1,27 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 12:00,81.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 13:00,77.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 14:00,74.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 15:00,72.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 16:00,72.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 17:00,71.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 18:00,72.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 19:00,72.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 20:00,77.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 21:00,78.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 22:00,80.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 23:00,80.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 00:00,83.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 01:00,84.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 02:00,83.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 03:00,83.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 04:00,83.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 05:00,82.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 06:00,82.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 07:00,82.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 08:00,82.0,Ruim,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 09:00,46.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 10:00,48.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 11:00,49.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 12:00,48.0,Moderada,True
+2025-09-13,,5300108,53,DF,estacao_escola,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-12 13:00,48.0,Moderada,True
