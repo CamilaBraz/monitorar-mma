@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 10:00,23.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 11:00,23.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 12:00,25.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 13:00,26.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 14:00,28.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 15:00,30.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 16:00,31.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 17:00,33.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 18:00,34.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 19:00,33.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 20:00,31.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 21:00,29.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 22:00,27.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-13 23:00,26.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 00:00,24.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 01:00,22.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 02:00,20.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 03:00,20.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 04:00,20.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 05:00,20.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 06:00,20.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,20,O₃,Ozônio,2025-09-14 07:00,20.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 08:00,25.0,Boa,True
+2025-09-14,,3509502,35,SP,campinas-taquaral,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 09:00,23.0,Boa,True
