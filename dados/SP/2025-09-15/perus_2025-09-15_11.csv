@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 08:00,38.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 09:00,36.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 11:00,38.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 12:00,39.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 13:00,39.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-11 14:00,39.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-13 13:00,22.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 07:00,24.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 05:00,62.0,Moderada,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-10 06:00,62.0,Moderada,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-12 11:00,37.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 08:00,25.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 09:00,25.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 10:00,25.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 11:00,25.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-13 12:00,24.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-14 10:00,21.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-14 11:00,21.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-14 12:00,20.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-14 13:00,20.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-14 14:00,20.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-14 15:00,19.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,20,O₃,Ozônio,2025-09-10 08:00,0.0,Boa,True
+2025-09-15,,3550308,35,SP,perus,,,,20,O₃,Ozônio,2025-09-14 09:00,23.0,Boa,True
