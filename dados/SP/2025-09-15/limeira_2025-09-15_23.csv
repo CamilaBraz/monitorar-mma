@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-14 20:00,39.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-14 21:00,38.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-14 22:00,36.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-14 23:00,33.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-15 00:00,31.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-15 17:00,39.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-15 18:00,44.0,Moderada,True
+2025-09-15,,3526902,35,SP,limeira,,,,20,O₃,Ozônio,2025-09-15 19:00,47.0,Moderada,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 01:00,29.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 02:00,29.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 03:00,30.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 04:00,31.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 05:00,32.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 06:00,32.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 07:00,33.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 08:00,34.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 09:00,34.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 10:00,35.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 11:00,36.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 12:00,36.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 13:00,36.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 14:00,36.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 15:00,37.0,Boa,True
+2025-09-15,,3526902,35,SP,limeira,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 16:00,37.0,Boa,True

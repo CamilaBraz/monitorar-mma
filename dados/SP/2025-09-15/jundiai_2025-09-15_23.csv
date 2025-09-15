@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 04:00,24.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 05:00,24.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 06:00,24.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 07:00,24.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 08:00,25.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 09:00,25.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 10:00,25.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 11:00,27.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 12:00,27.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-15 13:00,27.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 14:00,30.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 15:00,32.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 16:00,36.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 17:00,42.0,Moderada,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 18:00,46.0,Moderada,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 19:00,46.0,Moderada,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 20:00,43.0,Moderada,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 21:00,39.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 22:00,37.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-14 23:00,34.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-15 00:00,31.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-15 01:00,26.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-15 02:00,24.0,Boa,True
+2025-09-15,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2025-09-15 03:00,24.0,Boa,True
