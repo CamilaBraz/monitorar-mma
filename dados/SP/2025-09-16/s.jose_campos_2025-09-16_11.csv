@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 08:00,14.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 09:00,15.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 10:00,15.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 11:00,16.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 12:00,17.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-15 13:00,17.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 01:00,19.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 02:00,19.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 03:00,19.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 04:00,20.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 05:00,21.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 06:00,21.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 07:00,21.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 14:00,21.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 15:00,25.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 16:00,29.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 17:00,33.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 18:00,33.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 19:00,32.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 20:00,31.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 21:00,29.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 22:00,27.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-15 23:00,23.0,Boa,True
+2025-09-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-09-16 00:00,19.0,Boa,True
