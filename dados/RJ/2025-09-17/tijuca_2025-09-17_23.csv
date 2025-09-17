@@ -1,0 +1,67 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 21:00,44.98,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 22:00,47.367,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 23:00,48.959,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 02:00,52.143,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 03:00,55.327,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 04:00,56.918,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 07:00,74.429,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 10:00,77.612,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 11:00,78.408,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 12:00,78.408,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 13:00,78.408,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 14:00,78.408,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 15:00,78.408,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 16:00,78.408,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 17:00,77.612,Moderada,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 18:00,81.0,Ruim,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 19:00,84.98,Ruim,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 20:00,82.592,Ruim,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-16 21:00,15.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-16 22:00,13.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-16 23:00,12.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 00:00,11.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 01:00,10.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 02:00,9.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 03:00,8.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 04:00,10.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 05:00,10.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 06:00,12.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 07:00,16.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 08:00,14.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 09:00,13.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 10:00,13.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 11:00,12.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 12:00,12.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 13:00,13.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 14:00,13.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 15:00,14.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 16:00,16.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 17:00,14.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 18:00,7.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 19:00,13.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-09-17 20:00,17.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-16 21:00,23.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-16 22:00,22.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-16 23:00,20.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 00:00,19.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 01:00,18.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 02:00,18.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 03:00,16.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 04:00,15.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 05:00,16.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 06:00,16.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 07:00,17.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 08:00,17.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 09:00,18.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 10:00,20.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 11:00,20.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 12:00,20.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 13:00,20.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 14:00,20.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 15:00,21.2,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 16:00,21.6,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 17:00,20.8,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 18:00,20.0,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 19:00,18.4,Boa,True
+2025-09-17,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-09-17 20:00,17.2,Boa,True
