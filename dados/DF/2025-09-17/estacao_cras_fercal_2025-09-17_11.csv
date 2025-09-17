@@ -1,0 +1,109 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 10:00,102.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 11:00,102.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 12:00,101.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 13:00,100.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 14:00,99.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 15:00,98.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 16:00,97.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 17:00,97.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 18:00,97.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 19:00,95.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 20:00,92.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 21:00,90.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 22:00,88.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-16 23:00,86.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 00:00,86.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 01:00,84.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 02:00,85.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 03:00,84.0,Ruim,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 04:00,80.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 05:00,78.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 06:00,78.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 07:00,78.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 08:00,79.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 09:00,79.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 10:00,54.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 11:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 12:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 13:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 14:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 15:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 16:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 17:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 18:00,54.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 19:00,53.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 20:00,52.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 21:00,52.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 22:00,50.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-16 23:00,49.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 00:00,50.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 01:00,50.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 02:00,50.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 03:00,49.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 04:00,47.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 05:00,44.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 06:00,42.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 07:00,41.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 08:00,41.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-17 09:00,41.0,Moderada,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 10:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 11:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 17:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 18:00,1.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 19:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 20:00,5.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 21:00,7.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 22:00,5.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-16 23:00,4.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 00:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 01:00,5.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 03:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 04:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 05:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 06:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 07:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 08:00,4.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,18,NO₂,Dióxido de Nitrogênio,2025-09-17 09:00,5.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 10:00,4.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 11:00,6.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 12:00,7.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 13:00,9.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 14:00,10.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 15:00,12.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 16:00,13.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 17:00,14.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 18:00,15.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 19:00,15.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 20:00,13.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 21:00,12.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 22:00,10.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-16 23:00,9.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 00:00,7.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 01:00,5.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 02:00,4.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 03:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 04:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 05:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 06:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 07:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 08:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,20,O₃,Ozônio,2025-09-17 09:00,3.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 16:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 17:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 18:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 19:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 20:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 21:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 22:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-16 23:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 00:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 01:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 02:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 03:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 04:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 05:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 06:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 07:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 08:00,2.0,Boa,True
+2025-09-17,,5300108,53,DF,estacao_cras_fercal,,,,23,SO₂,Dióxido de Enxofre,2025-09-17 09:00,2.0,Boa,True
