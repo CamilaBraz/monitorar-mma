@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 15:00,29.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 16:00,32.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 17:00,35.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 18:00,37.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 19:00,36.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 20:00,35.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 21:00,33.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 22:00,30.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-17 23:00,27.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-18 00:00,23.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-18 01:00,21.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-18 05:00,18.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-18 06:00,18.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2025-09-18 07:00,18.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 07:00,35.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 08:00,34.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 09:00,33.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 10:00,32.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 11:00,32.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 12:00,31.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 13:00,29.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-17 14:00,29.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-18 03:00,18.0,Boa,True
+2025-09-18,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-18 04:00,18.0,Boa,True
