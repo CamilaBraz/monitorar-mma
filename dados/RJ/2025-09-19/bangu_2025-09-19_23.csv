@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-18 21:00,7.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-18 22:00,5.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-18 23:00,2.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 00:00,2.6,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 01:00,3.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 02:00,2.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 03:00,3.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 04:00,3.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 05:00,4.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 06:00,3.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 07:00,5.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 08:00,5.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 09:00,3.6,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 10:00,3.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 11:00,2.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 12:00,3.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 13:00,1.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 14:00,1.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 15:00,3.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 16:00,4.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 17:00,5.0,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 18:00,6.6,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 19:00,7.6,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,18,NO₂,Dióxido de Nitrogênio,2025-09-19 20:00,10.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-18 21:00,22.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-18 22:00,21.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-18 23:00,21.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 00:00,20.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 01:00,19.6,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 02:00,18.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 03:00,18.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 04:00,19.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 05:00,19.6,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 06:00,18.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 07:00,16.0,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 08:00,14.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 09:00,14.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 10:00,15.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 11:00,17.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 12:00,20.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 13:00,23.2,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 14:00,26.4,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 15:00,32.0,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 16:00,38.8,Boa,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 17:00,46.379,Moderada,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 18:00,50.414,Moderada,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 19:00,50.414,Moderada,True
+2025-09-19,,3304557,33,RJ,bangu,20.0,,1.0,20,O₃,Ozônio,2025-09-19 20:00,40.0,Boa,True
