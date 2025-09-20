@@ -1,0 +1,69 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 04:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 05:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 06:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 07:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 08:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 09:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 10:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 11:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 12:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 13:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 14:30,0.889,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 15:30,0.889,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 16:30,0.889,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 17:30,0.889,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 18:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 19:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 20:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 21:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 22:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-19 23:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-20 00:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-20 01:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-20 02:30,1.333,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,5,CO,Monóxido de Carbono,2025-09-20 03:30,0.889,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 04:30,60.898,Moderada,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 05:30,72.837,Moderada,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 06:30,88.959,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 07:30,92.143,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 09:30,90.551,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 10:30,90.551,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 11:30,90.551,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 12:30,90.551,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 13:30,89.755,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 15:30,89.755,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 16:30,88.959,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 17:30,88.959,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 18:30,88.959,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 19:30,87.367,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 20:30,86.571,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 21:30,87.367,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 22:30,84.184,Ruim,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-19 23:30,78.408,Moderada,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-20 02:30,79.204,Moderada,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-20 03:30,77.612,Moderada,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 04:30,36.8,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 05:30,38.4,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 06:30,40.0,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 07:30,41.0,Moderada,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 08:30,38.4,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 09:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 10:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 11:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 12:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 13:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 14:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 15:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 16:30,35.2,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 17:30,35.2,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 18:30,36.8,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 19:30,36.8,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 20:30,36.8,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 21:30,36.8,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 22:30,36.8,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-19 23:30,35.2,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-20 00:30,35.2,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-20 01:30,35.2,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-20 02:30,33.6,Boa,True
+2025-09-20,,3118007,31,MG,lobo_leite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-20 03:30,33.6,Boa,True
