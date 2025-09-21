@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-20 20:00,74.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-20 21:00,66.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-20 22:00,60.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-20 23:00,49.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-21 00:00,39.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-21 15:00,43.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-21 16:00,53.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-21 17:00,60.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-21 18:00,60.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,20,O₃,Ozônio,2025-09-21 19:00,59.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 01:00,42.0,Moderada,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 02:00,39.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 03:00,39.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 04:00,39.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 05:00,39.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 06:00,39.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 07:00,38.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 08:00,38.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 09:00,36.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 10:00,36.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 11:00,38.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 12:00,36.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 13:00,38.0,Boa,True
+2025-09-21,,3548708,35,SP,s.bernardo-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-21 14:00,38.0,Boa,True
