@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-28 23:00,17.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 00:00,17.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 01:00,19.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 02:00,19.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 03:00,20.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 04:00,22.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 05:00,24.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 06:00,24.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-09-29 07:00,24.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-28 08:00,13.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-28 09:00,13.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-09-28 22:00,16.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 14:00,16.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 15:00,19.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 16:00,22.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 17:00,24.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 18:00,25.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 19:00,24.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 20:00,21.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-09-28 21:00,18.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,23,SO₂,Dióxido de Enxofre,2025-09-28 10:00,14.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,23,SO₂,Dióxido de Enxofre,2025-09-28 11:00,14.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,23,SO₂,Dióxido de Enxofre,2025-09-28 12:00,14.0,Boa,True
+2025-09-29,,3513504,35,SP,cubatao-centro,,,,23,SO₂,Dióxido de Enxofre,2025-09-28 13:00,14.0,Boa,True
