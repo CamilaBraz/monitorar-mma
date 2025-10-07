@@ -1,0 +1,42 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-06 23:30,,,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 01:30,,,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 03:30,,,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 04:30,,,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 05:30,,,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 06:30,0.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 07:30,0.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 08:30,0.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 09:30,0.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 10:30,0.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 11:30,0.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 12:30,0.444,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 13:30,0.444,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 14:30,0.444,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 15:30,0.444,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 16:30,0.444,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,5,CO,Monóxido de Carbono,2025-10-07 17:30,0.444,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-06 18:30,9.2,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-06 19:30,9.2,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-06 20:30,8.8,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-06 21:30,8.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-06 22:30,7.2,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-06 23:30,6.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 00:30,5.6,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 01:30,4.8,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 02:30,4.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 03:30,4.0,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 04:30,3.6,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 05:30,3.2,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 06:30,2.8,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 07:30,2.8,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 08:30,2.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 09:30,2.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 10:30,2.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 11:30,2.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 12:30,2.8,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 13:30,3.6,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 14:30,4.4,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 15:30,7.2,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 16:30,7.6,Boa,True
+2025-10-07,,5008305,50,MS,estacao_metereologica_e_qualidade_do_ar_-_petrobras_-_ute,30.0,,3.0,20,O₃,Ozônio,2025-10-07 17:30,7.2,Boa,True
