@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-07 18:00,83.0,Ruim,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 01:00,78.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 02:00,76.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 03:00,75.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 04:00,73.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 05:00,71.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 06:00,68.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 07:00,68.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 08:00,67.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 09:00,69.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 10:00,71.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 11:00,71.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 12:00,73.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 13:00,73.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 14:00,74.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 15:00,75.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 16:00,76.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 17:00,78.0,Moderada,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 19:00,87.0,Ruim,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 20:00,88.0,Ruim,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 21:00,88.0,Ruim,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 22:00,87.0,Ruim,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 23:00,83.0,Ruim,True
+2025-10-08,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 00:00,80.0,Moderada,True

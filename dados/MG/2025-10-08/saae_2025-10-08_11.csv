@@ -1,0 +1,17 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-06 05:30,10.4,Boa,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-06 06:30,10.4,Boa,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-06 07:30,10.4,Boa,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-06 08:30,10.4,Boa,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 19:30,233.501,Péssima,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 20:30,222.668,Péssima,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 21:30,215.255,Péssima,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 22:30,208.983,Péssima,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-07 23:30,205.562,Péssima,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 00:30,202.711,Péssima,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 01:30,197.606,Muito ruim,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 02:30,188.828,Muito ruim,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 03:30,182.444,Muito ruim,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 04:30,177.657,Muito ruim,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 05:30,172.071,Muito ruim,True
+2025-10-08,,3151206,31,MG,saae,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-08 06:30,167.283,Muito ruim,True
