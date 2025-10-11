@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 04:00,33.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 05:00,33.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 06:00,33.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 08:00,35.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 09:00,35.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 12:00,35.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 13:00,35.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 14:00,33.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 15:00,33.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 16:00,30.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-06 17:00,28.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-08 11:00,5.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-09 11:00,5.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 10:00,11.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 11:00,13.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 12:00,13.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 13:00,13.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 14:00,13.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 15:00,11.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 16:00,11.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 17:00,11.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-10 18:00,11.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,20,O₃,Ozônio,2025-10-08 10:00,17.0,Boa,True
+2025-10-11,,3550308,35,SP,itaquera,,,,20,O₃,Ozônio,2025-10-09 10:00,17.0,Boa,True
