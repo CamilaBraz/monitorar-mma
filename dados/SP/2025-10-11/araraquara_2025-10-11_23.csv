@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-10 18:00,35.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-10 19:00,36.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-10 20:00,37.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-10 21:00,37.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-10 22:00,36.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 00:00,33.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 01:00,31.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 03:00,29.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 04:00,27.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 05:00,25.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 06:00,23.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 07:00,20.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 08:00,20.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 09:00,20.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 10:00,21.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 11:00,22.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 12:00,24.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 13:00,27.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 14:00,31.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 15:00,35.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 16:00,38.0,Boa,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 17:00,42.0,Moderada,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 18:00,47.0,Moderada,True
+2025-10-11,,3503208,35,SP,araraquara,,,,20,O₃,Ozônio,2025-10-11 19:00,48.0,Moderada,True
