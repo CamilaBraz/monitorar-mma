@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 17:00,51.759,Moderada,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 18:00,58.483,Moderada,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 19:00,59.828,Moderada,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 20:00,55.793,Moderada,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 21:00,46.379,Moderada,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 22:00,38.8,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-12 23:00,36.0,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 00:00,34.4,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 01:00,34.0,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 02:00,32.8,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 03:00,31.6,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 04:00,31.2,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 05:00,30.0,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 06:00,28.8,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 07:00,27.6,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 08:00,26.0,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 09:00,25.2,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 10:00,26.0,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 11:00,27.2,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 12:00,28.8,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 13:00,31.2,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 14:00,33.6,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 15:00,36.0,Boa,True
+2025-10-13,,3304557,33,RJ,pedra_de_guaratiba,25.0,,1.0,20,O₃,Ozônio,2025-10-13 16:00,38.0,Boa,True
