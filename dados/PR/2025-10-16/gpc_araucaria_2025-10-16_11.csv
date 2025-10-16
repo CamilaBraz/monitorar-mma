@@ -1,0 +1,2 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-16,,4101804,41,PR,gpc_araucaria,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-15 16:00,,,True

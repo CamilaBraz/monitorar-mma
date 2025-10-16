@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-16,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-15 08:00,17.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-15 09:00,17.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-15 10:00,17.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-16 06:00,24.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-16 07:00,24.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 11:00,18.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 12:00,21.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 13:00,23.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 14:00,27.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 15:00,30.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 16:00,33.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 17:00,36.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 18:00,39.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 19:00,39.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 20:00,39.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 21:00,37.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 22:00,36.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-15 23:00,34.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-16 00:00,32.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-16 01:00,30.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-16 02:00,27.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-16 03:00,26.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-16 04:00,25.0,Boa,True
+2025-10-16,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-10-16 05:00,24.0,Boa,True

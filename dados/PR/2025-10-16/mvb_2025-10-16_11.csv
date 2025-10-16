@@ -1,0 +1,72 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 16:00,26.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 17:00,31.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 18:00,33.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 19:00,30.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 20:00,32.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 21:00,31.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 22:00,30.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-14 23:00,30.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 00:00,30.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 01:00,30.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 02:00,29.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 03:00,29.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 04:00,29.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 06:00,28.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 07:00,27.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 08:00,27.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 09:00,27.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 10:00,27.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 11:00,26.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 12:00,24.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 13:00,23.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 14:00,22.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-15 15:00,21.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 16:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 17:00,11.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 18:00,13.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 19:00,12.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 20:00,11.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 21:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 22:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-14 23:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 00:00,8.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 01:00,7.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 02:00,7.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 03:00,7.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 04:00,7.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 05:00,8.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 06:00,13.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 07:00,14.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 08:00,12.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 09:00,11.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 10:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 11:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 12:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 13:00,8.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 14:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-15 15:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 16:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 17:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 18:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 19:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 20:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 21:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 22:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-14 23:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 00:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 01:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 02:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 03:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 04:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 05:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 06:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 07:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 08:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 09:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 10:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 11:00,10.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 12:00,9.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 13:00,8.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 14:00,7.0,Boa,True
+2025-10-16,,4106902,41,PR,mvb,,,,23,SO₂,Dióxido de Enxofre,2025-10-15 15:00,7.0,Boa,True
