@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-16 20:00,68.0,Moderada,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-16 21:00,57.0,Moderada,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-16 22:00,48.0,Moderada,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-16 23:00,39.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 00:00,35.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 01:00,32.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 14:00,36.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 15:00,51.0,Moderada,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 16:00,72.0,Moderada,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 17:00,89.0,Ruim,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 18:00,99.0,Ruim,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,20,O₃,Ozônio,2025-10-17 19:00,99.0,Ruim,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 02:00,31.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 03:00,31.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 04:00,31.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 05:00,31.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 06:00,32.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 07:00,32.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 08:00,32.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 09:00,31.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 10:00,32.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 11:00,32.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 12:00,33.0,Boa,True
+2025-10-17,,3538709,35,SP,piracicaba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-17 13:00,34.0,Boa,True
