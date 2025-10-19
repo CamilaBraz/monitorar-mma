@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 14:00,22.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 15:00,24.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 16:00,26.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 17:00,27.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 18:00,28.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 19:00,28.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 20:00,28.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 21:00,27.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 22:00,25.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-18 23:00,24.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-19 00:00,23.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-19 06:00,24.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,20,O₃,Ozônio,2025-10-19 07:00,23.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-18 08:00,61.0,Moderada,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-19 01:00,31.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-19 02:00,31.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-19 03:00,30.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-19 04:00,28.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-19 05:00,28.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-18 09:00,24.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-18 10:00,23.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-18 11:00,22.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-18 12:00,21.0,Boa,True
+2025-10-19,,3549904,35,SP,s.jose_campos-jd.satelite,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-18 13:00,21.0,Boa,True
