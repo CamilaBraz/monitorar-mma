@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-19 20:00,24.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-19 21:00,23.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-19 22:00,22.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-19 23:00,20.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 00:00,18.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 01:00,16.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 02:00,15.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 03:00,14.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 04:00,12.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 05:00,11.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 06:00,10.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 11:00,11.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 12:00,13.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 13:00,15.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 14:00,17.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 15:00,19.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 16:00,21.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 17:00,23.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 18:00,25.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,20,O₃,Ozônio,2025-10-20 19:00,25.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-20 07:00,10.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-20 09:00,11.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-20 10:00,11.0,Boa,True
+2025-10-20,,3543907,35,SP,rio_claro-jd.guanabara,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-20 08:00,11.0,Boa,True
