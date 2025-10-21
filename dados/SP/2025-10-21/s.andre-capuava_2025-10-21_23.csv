@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 03:00,16.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 04:00,16.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 05:00,20.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 06:00,21.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 07:00,23.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 08:00,25.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 09:00,27.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 10:00,27.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 11:00,29.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 12:00,31.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 13:00,33.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 14:00,35.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 15:00,35.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 16:00,35.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 17:00,35.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 18:00,35.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-10-21 19:00,35.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-20 20:00,17.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-20 21:00,16.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-20 22:00,16.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-20 23:00,16.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-21 00:00,15.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-21 01:00,14.0,Boa,True
+2025-10-21,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-10-21 02:00,12.0,Boa,True
