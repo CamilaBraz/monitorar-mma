@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 08:00,0.89,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 09:00,0.89,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 10:00,0.89,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 11:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 12:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 13:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 14:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 15:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 16:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 17:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 18:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 19:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 20:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 21:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 22:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-20 23:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 00:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 01:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 02:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 03:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 04:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 05:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 06:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,5,CO,Monóxido de Carbono,2025-10-21 07:00,0.44,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 08:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 09:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 10:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 11:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 12:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 13:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 14:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 15:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 16:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 17:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 18:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 19:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 20:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 21:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 22:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-20 23:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 00:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 01:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 02:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 03:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 04:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 05:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 06:00,4.32,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 07:00,2.12,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 08:00,18.16,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 09:00,17.6,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 10:00,17.08,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 11:00,16.56,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 12:00,16.2,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 13:00,15.76,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 14:00,15.36,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 15:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 16:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 17:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 18:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 19:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 20:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 21:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 22:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-20 23:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 00:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 01:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 02:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 03:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 04:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 05:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 06:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,20,O₃,Ozônio,2025-10-21 07:00,17.96,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 08:00,28.4,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 09:00,28.4,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 10:00,28.2,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 11:00,28.2,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 12:00,28.2,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 13:00,28.4,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 14:00,28.2,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 15:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 16:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 17:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 18:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 19:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 20:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 21:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 22:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-20 23:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 00:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 01:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 02:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 03:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 04:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 05:00,28.0,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 06:00,27.8,Boa,True
+2025-10-21,,2927408,29,BA,botelho,25.0,94.0,2.0,23,SO₂,Dióxido de Enxofre,2025-10-21 07:00,27.4,Boa,True
