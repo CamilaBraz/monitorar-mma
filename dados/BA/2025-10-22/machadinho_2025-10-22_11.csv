@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 08:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 09:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 10:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 11:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 12:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 13:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 14:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 15:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 16:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 17:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 18:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 19:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 20:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 21:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 22:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-21 23:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 00:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 01:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 02:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 03:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 04:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 05:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 06:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,5,CO,Monóxido de Carbono,2025-10-22 07:00,0.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 08:00,1.6,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 09:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 10:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 11:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 12:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 13:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 14:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 15:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 16:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 17:00,1.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 18:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 19:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 20:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 21:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 22:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-21 23:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 00:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 01:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 02:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 03:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 04:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 05:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 06:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-10-22 07:00,1.06,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 08:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 09:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 10:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 11:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 12:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 13:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 14:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 15:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 16:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 17:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 18:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 19:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 20:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 21:00,24.52,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 22:00,24.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-21 23:00,24.16,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 00:00,23.84,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 01:00,23.44,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 02:00,23.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 03:00,22.56,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 04:00,22.28,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 05:00,22.04,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 06:00,21.76,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,20,O₃,Ozônio,2025-10-22 07:00,21.64,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 08:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 09:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 10:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 11:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 12:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 13:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 14:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 15:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 16:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 17:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 18:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 19:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 20:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 21:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 22:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-21 23:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 00:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 01:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 02:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 03:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 04:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 05:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 06:00,0.0,Boa,True
+2025-10-22,,2905701,29,BA,machadinho,21.0,90.0,3.0,23,SO₂,Dióxido de Enxofre,2025-10-22 07:00,0.0,Boa,True
