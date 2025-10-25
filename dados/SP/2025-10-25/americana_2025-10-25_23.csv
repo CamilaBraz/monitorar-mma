@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-24 20:00,31.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-24 21:00,29.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-24 22:00,27.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-24 23:00,25.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 00:00,21.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 01:00,18.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 14:00,23.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 15:00,27.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 16:00,30.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 17:00,33.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 18:00,34.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,20,O₃,Ozônio,2025-10-25 19:00,34.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 02:00,15.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 03:00,16.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 04:00,16.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 05:00,17.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 06:00,17.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 07:00,18.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 08:00,19.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 09:00,20.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 10:00,20.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 11:00,21.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 12:00,21.0,Boa,True
+2025-10-25,,3501608,35,SP,americana,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-25 13:00,21.0,Boa,True
