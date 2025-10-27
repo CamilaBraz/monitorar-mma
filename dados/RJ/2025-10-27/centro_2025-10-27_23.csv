@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-26 21:00,29.6,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-26 22:00,32.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-26 23:00,33.6,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 00:00,34.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 01:00,36.8,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 02:00,39.2,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 03:00,41.0,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 04:00,43.388,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 05:00,44.98,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 06:00,47.367,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 07:00,48.163,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 08:00,49.755,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 09:00,50.551,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 10:00,51.347,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 11:00,53.735,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 12:00,54.531,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 13:00,55.327,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 14:00,56.122,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 15:00,56.122,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 16:00,56.122,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 17:00,55.327,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 18:00,55.327,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 19:00,54.531,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 20:00,52.939,Moderada,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-26 21:00,16.8,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-26 22:00,14.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-26 23:00,11.2,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 00:00,8.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 01:00,6.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 02:00,6.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 03:00,8.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 04:00,11.2,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 05:00,13.2,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 06:00,16.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 07:00,17.6,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 08:00,18.8,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 09:00,21.2,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 10:00,22.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 11:00,22.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 12:00,22.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 13:00,24.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 14:00,24.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 15:00,24.8,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 16:00,24.8,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 17:00,24.4,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 18:00,23.2,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 19:00,22.0,Boa,True
+2025-10-27,,3304557,33,RJ,centro,24.0,,0.0,20,O₃,Ozônio,2025-10-27 20:00,21.2,Boa,True
