@@ -1,0 +1,120 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 20:30,,,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 21:30,,,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 22:30,,,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-27 23:30,,,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 00:30,,,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 01:30,,,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 02:30,32.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 03:30,31.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 04:30,30.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 05:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 06:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 07:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 08:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 09:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 10:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 11:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 12:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 13:30,29.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 14:30,28.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 15:30,28.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 16:30,28.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 17:30,28.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 18:30,28.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-10-28 19:30,28.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-27 20:30,16.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-27 21:30,16.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-27 22:30,17.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-27 23:30,17.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 00:30,17.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 02:30,17.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 03:30,19.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 04:30,20.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 05:30,20.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 06:30,22.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 07:30,22.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 08:30,22.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 09:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 10:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 11:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 12:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 13:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 14:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 15:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 16:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 17:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 18:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 19:30,24.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-27 20:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-27 21:30,3.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-27 22:30,3.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-27 23:30,3.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 00:30,3.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 01:30,0.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 02:30,3.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 03:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 04:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 05:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 06:30,4.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 07:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 08:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 09:30,5.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 10:30,3.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 11:30,3.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 12:30,2.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 13:30,2.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 14:30,2.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 15:30,2.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 16:30,3.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 17:30,3.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 18:30,3.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,18,NO₂,Dióxido de Nitrogênio,2025-10-28 19:30,4.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-27 20:30,18.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-27 21:30,18.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-27 22:30,17.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-27 23:30,16.0,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 00:30,14.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 01:30,13.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 02:30,13.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 03:30,13.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 04:30,12.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 05:30,11.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 06:30,10.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 07:30,9.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 08:30,9.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 09:30,8.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 10:30,9.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 11:30,10.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 12:30,11.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 13:30,12.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 14:30,14.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 15:30,15.6,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 16:30,17.2,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 17:30,18.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 18:30,18.8,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,20,O₃,Ozônio,2025-10-28 19:30,18.4,Boa,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-27 20:30,41.0,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-27 21:30,41.0,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-27 22:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-27 23:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 00:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 01:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 02:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 03:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 04:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 05:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 06:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 07:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 08:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 09:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 10:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 11:30,43.053,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 12:30,45.105,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 13:30,45.105,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 14:30,45.105,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 15:30,45.105,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 16:30,47.158,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 17:30,47.158,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 18:30,47.158,Moderada,True
+2025-10-28,,3118007,31,MG,basilica,,,,23,SO₂,Dióxido de Enxofre,2025-10-28 19:30,47.158,Moderada,True

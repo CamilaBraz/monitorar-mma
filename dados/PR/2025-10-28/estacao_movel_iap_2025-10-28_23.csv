@@ -1,0 +1,14 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-27 20:00,45.0,Moderada,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-27 21:00,43.0,Moderada,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 01:00,42.0,Moderada,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 04:00,41.0,Moderada,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 06:00,37.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 07:00,33.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 08:00,30.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 09:00,27.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 11:00,31.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 15:00,30.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 16:00,25.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 17:00,24.0,Boa,True
+2025-10-28,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-28 19:00,22.0,Boa,True
