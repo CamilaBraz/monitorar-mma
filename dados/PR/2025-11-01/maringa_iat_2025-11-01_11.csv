@@ -1,0 +1,18 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 08:00,29.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 11:00,30.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 12:00,28.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 13:00,27.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 14:00,27.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 17:00,23.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 18:00,24.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 19:00,24.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 20:00,25.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 21:00,35.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-10-31 22:00,30.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-01 01:00,34.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-01 02:00,29.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-01 04:00,27.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-01 05:00,27.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-01 06:00,27.0,Boa,True
+2025-11-01,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-01 07:00,23.0,Boa,True
