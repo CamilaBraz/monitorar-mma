@@ -1,0 +1,91 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 08:30,17.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 09:30,17.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 10:30,98.875,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 11:30,97.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 12:30,97.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 13:30,92.375,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 14:30,87.5,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 16:30,87.5,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 17:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 18:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 19:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 20:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 21:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 22:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-06 23:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 00:30,84.25,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 01:30,81.0,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 02:30,81.0,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 03:30,81.0,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 04:30,81.0,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 05:30,81.0,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 06:30,82.625,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-07 07:30,81.0,Ruim,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 08:30,1.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 09:30,1.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 10:30,0.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 11:30,0.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 12:30,1.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 13:30,0.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 14:30,1.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 15:30,1.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 16:30,1.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 19:30,1.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 20:30,2.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 21:30,2.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 22:30,1.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-06 23:30,1.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-07 00:30,1.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-07 01:30,1.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-07 02:30,1.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-07 03:30,0.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-07 04:30,0.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2025-11-07 05:30,1.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 08:30,2.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 09:30,3.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 10:30,5.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 11:30,6.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 12:30,8.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 13:30,8.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 14:30,9.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 15:30,10.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 16:30,11.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 19:30,11.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 20:30,10.8,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 21:30,10.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 22:30,9.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-06 23:30,8.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-07 00:30,7.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-07 01:30,7.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-07 02:30,7.2,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-07 03:30,7.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-07 04:30,8.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,20,O₃,Ozônio,2025-11-07 05:30,8.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 08:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 09:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 10:30,2.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 11:30,2.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 12:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 13:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 14:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 15:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 16:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 19:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 20:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 21:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 22:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-06 23:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-07 00:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-07 01:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-07 02:30,4.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-07 03:30,2.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-07 04:30,2.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,23,SO₂,Dióxido de Enxofre,2025-11-07 05:30,2.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 08:30,16.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 09:30,16.0,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 11:30,14.4,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 12:30,9.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 13:30,9.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 14:30,9.6,Boa,True
+2025-11-07,,5007109,50,MS,estacao_de_monitoramento_-_suzano_-_ribas_do_rio_pardo,21.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-06 15:30,9.6,Boa,True
