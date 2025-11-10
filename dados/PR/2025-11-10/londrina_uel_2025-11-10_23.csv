@@ -1,0 +1,16 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-09 04:00,22.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-09 23:00,10.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 00:00,10.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 02:00,9.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 04:00,5.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 05:00,5.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 06:00,7.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 07:00,8.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 08:00,8.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 13:00,9.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 14:00,11.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 16:00,13.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 17:00,9.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 18:00,9.0,Boa,True
+2025-11-10,,4113700,41,PR,londrina_uel,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-10 19:00,10.0,Boa,True
