@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-11 02:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-11 03:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-11 04:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-11 05:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-11 06:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-11 07:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 08:00,8.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 09:00,8.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 10:00,9.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 11:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 12:00,13.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 13:00,16.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 14:00,20.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 15:00,23.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 16:00,25.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 17:00,27.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 18:00,28.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 19:00,27.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 20:00,25.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 21:00,22.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 22:00,19.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-10 23:00,16.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-11 00:00,12.0,Boa,True
+2025-11-11,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-11-11 01:00,10.0,Boa,True
