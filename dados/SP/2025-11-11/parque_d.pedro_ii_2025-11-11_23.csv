@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-10 17:00,23.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-10 18:00,23.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 05:00,14.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 06:00,14.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 07:00,14.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 08:00,13.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 09:00,14.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 10:00,14.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 11:00,15.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 12:00,16.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 13:00,19.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 14:00,23.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 15:00,25.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 16:00,28.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 17:00,29.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 18:00,29.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-11-11 19:00,27.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-10 22:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-10 23:00,12.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-11 00:00,11.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-11 01:00,12.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-11 02:00,12.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-11 03:00,12.0,Boa,True
+2025-11-11,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-11 04:00,12.0,Boa,True
