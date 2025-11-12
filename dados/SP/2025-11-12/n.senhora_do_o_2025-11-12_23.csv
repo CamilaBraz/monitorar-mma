@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-11 19:00,24.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-11 20:00,21.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-11 21:00,17.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-11 22:00,13.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 00:00,5.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 01:00,4.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 02:00,5.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 03:00,6.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 04:00,7.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 13:00,20.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 14:00,27.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 15:00,35.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 16:00,52.0,Moderada,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 17:00,75.0,Moderada,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 18:00,92.0,Ruim,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2025-11-12 19:00,95.0,Ruim,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 05:00,19.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 06:00,17.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 07:00,19.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 08:00,19.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 09:00,19.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 10:00,19.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 11:00,19.0,Boa,True
+2025-11-12,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-12 12:00,19.0,Boa,True
