@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 08:00,15.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 09:00,15.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 10:00,16.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 11:00,19.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 12:00,23.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 13:00,27.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 14:00,33.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 15:00,38.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 16:00,51.0,Moderada,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 17:00,68.0,Moderada,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 18:00,82.0,Ruim,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 19:00,79.0,Moderada,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 20:00,70.0,Moderada,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 21:00,60.0,Moderada,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 22:00,48.0,Moderada,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-12 23:00,38.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 00:00,34.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 01:00,29.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 02:00,25.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 03:00,24.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 04:00,24.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 05:00,24.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 06:00,23.0,Boa,True
+2025-11-13,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2025-11-13 07:00,23.0,Boa,True
