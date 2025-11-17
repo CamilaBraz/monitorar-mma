@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 07:00,16.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 00:00,18.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 01:00,18.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 02:00,17.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 03:00,18.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 04:00,18.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 05:00,17.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 06:00,16.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 07:00,16.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 08:00,16.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 10:00,15.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 11:00,16.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 12:00,17.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 13:00,19.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 14:00,21.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 15:00,24.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 16:00,27.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 17:00,29.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 18:00,31.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 19:00,33.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 20:00,33.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 21:00,34.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-16 22:00,33.0,Boa,True
+2025-11-17,,3541406,35,SP,presidente_prudente,,,,20,O₃,Ozônio,2025-11-17 00:00,30.0,Boa,True
