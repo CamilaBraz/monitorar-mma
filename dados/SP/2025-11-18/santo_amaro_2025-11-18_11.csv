@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 08:00,16.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 09:00,16.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 10:00,16.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 11:00,14.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 12:00,14.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 13:00,16.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 20:00,17.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 21:00,17.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 22:00,17.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-17 23:00,17.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 00:00,19.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 01:00,19.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 02:00,20.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 03:00,20.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 04:00,20.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 05:00,20.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 06:00,20.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-18 07:00,22.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,20,O₃,Ozônio,2025-11-17 14:00,17.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,20,O₃,Ozônio,2025-11-17 15:00,17.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,20,O₃,Ozônio,2025-11-17 16:00,18.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,20,O₃,Ozônio,2025-11-17 17:00,18.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,20,O₃,Ozônio,2025-11-17 18:00,18.0,Boa,True
+2025-11-18,,3547809,35,SP,santo_amaro,,,,20,O₃,Ozônio,2025-11-17 19:00,16.0,Boa,True
