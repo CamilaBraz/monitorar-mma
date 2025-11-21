@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 09:00,46.571,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 10:00,48.959,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 11:00,51.347,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 12:00,52.939,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 13:00,54.531,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 14:00,56.918,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 15:00,56.918,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 16:00,57.714,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 17:00,60.102,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 18:00,61.694,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 19:00,63.286,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 20:00,64.082,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 21:00,64.082,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 22:00,65.673,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-20 23:00,65.673,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 00:00,66.469,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 01:00,68.061,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 02:00,70.449,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 03:00,72.041,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 04:00,73.633,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 05:00,76.02,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 06:00,77.612,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 07:00,79.204,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-21 08:00,78.408,Moderada,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 09:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 10:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 11:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 12:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 13:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 14:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 15:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 16:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 17:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 18:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 19:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 20:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 21:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 22:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-20 23:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 00:00,3.2,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 01:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 02:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 03:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 04:00,2.8,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 05:00,2.4,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 06:00,2.4,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 07:00,2.4,Boa,True
+2025-11-21,,3304557,33,RJ,tijuca,24.0,,0.0,20,O₃,Ozônio,2025-11-21 08:00,2.4,Boa,True
