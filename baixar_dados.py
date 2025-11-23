@@ -1,4 +1,5 @@
 import requests
+import urllib3
 import csv
 import os
 import json
@@ -7,6 +8,9 @@ import logging
 import time
 import random 
 import unicodedata
+
+# Desabilita o aviso de SSL
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 def remover_acentos(texto: str) -> str:
     """Normaliza o texto, separando acentos dos caracteres e removendo-os."""
@@ -31,7 +35,8 @@ def baixar_e_salvar_estacao(id_estacao, pasta_saida, timestamp_arquivo, data_col
 
     try:
         # <-- 2. BLOCO TRY...EXCEPT PARA ROBUSTEZ DA REQUISIÇÃO ---
-        response = requests.get(url, timeout=30) # Adiciona um timeout de 30s
+        # Adiciona verify=False para ignorar verificação SSL
+        response = requests.get(url, timeout=30, verify=False)
         response.raise_for_status() # Lança um erro para respostas ruins (4xx ou 5xx)
         dados = response.json()
     except requests.exceptions.RequestException as e:
