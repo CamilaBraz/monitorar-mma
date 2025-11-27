@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-26 19:00,6.667,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-26 20:00,7.556,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-26 21:00,8.889,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-26 22:00,9.778,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-26 23:00,10.667,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 00:00,11.111,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 01:00,11.556,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 02:00,11.556,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 03:00,11.111,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 04:00,10.222,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 05:00,9.778,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 06:00,8.889,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 07:00,8.444,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 08:00,8.444,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 09:00,8.0,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 10:00,7.556,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 11:00,7.111,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 12:00,7.111,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 13:00,7.111,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 14:00,6.667,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 15:00,6.222,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 16:00,5.778,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 17:00,5.778,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,5,CO,Monóxido de Carbono,2025-11-27 18:00,5.778,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-26 19:00,30.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-26 20:00,31.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-26 21:00,33.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-26 22:00,34.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-26 23:00,35.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 00:00,35.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 01:00,34.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 02:00,33.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 03:00,33.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 04:00,32.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 05:00,32.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 06:00,32.0,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 07:00,31.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 08:00,30.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 09:00,28.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 10:00,28.0,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 11:00,27.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 12:00,27.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 13:00,27.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 14:00,26.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 15:00,26.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 16:00,26.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 17:00,26.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 18:00,26.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-26 19:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-26 20:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-26 21:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-26 22:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-26 23:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 00:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 01:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 02:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 03:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 04:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 05:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 06:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 07:00,17.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 08:00,17.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 09:00,17.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 10:00,17.6,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 11:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 12:00,19.2,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 13:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 14:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 15:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 16:00,20.8,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 17:00,22.4,Boa,True
+2025-11-27,,3106705,31,MG,petrovale,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-27 18:00,22.4,Boa,True
