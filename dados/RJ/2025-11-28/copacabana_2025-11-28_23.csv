@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 21:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 22:00,19.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 23:00,19.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 00:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 01:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 02:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 03:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 04:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 05:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 06:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 07:00,20.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 08:00,20.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 09:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 10:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 11:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 12:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 13:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 14:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 15:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 16:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 17:00,20.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 18:00,20.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 19:00,23.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 20:00,23.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-27 21:00,13.6,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-27 22:00,12.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-27 23:00,11.6,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 00:00,11.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 01:00,11.6,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 02:00,12.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 03:00,12.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 04:00,12.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 05:00,12.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 06:00,12.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 07:00,12.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 08:00,12.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 09:00,11.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 10:00,10.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 11:00,10.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 12:00,11.6,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 13:00,12.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 14:00,14.0,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 15:00,15.6,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 16:00,16.8,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 17:00,18.4,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 18:00,19.2,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 19:00,19.6,Boa,True
+2025-11-28,,3304557,33,RJ,copacabana,26.0,,0.0,20,O₃,Ozônio,2025-11-28 20:00,18.8,Boa,True
