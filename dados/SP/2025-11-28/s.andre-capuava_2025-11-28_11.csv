@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 11:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 12:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 13:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 14:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 15:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 16:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 17:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 18:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 19:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 20:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 21:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 22:00,20.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 23:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 00:00,21.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 01:00,21.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 02:00,21.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 03:00,21.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 04:00,18.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 05:00,16.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 06:00,16.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 07:00,16.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 08:00,16.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 09:00,16.0,Boa,True
+2025-11-28,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 10:00,16.0,Boa,True
