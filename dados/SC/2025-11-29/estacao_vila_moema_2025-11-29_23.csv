@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-28 23:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 00:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 01:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 02:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 03:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 04:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 05:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 06:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 07:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 08:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 09:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 10:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 11:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 12:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 13:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 14:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 15:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 16:30,4.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 17:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 18:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 19:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 20:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 21:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2025-11-29 22:30,3.556,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 23:30,20.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 00:30,21.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 01:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 02:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 03:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 04:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 05:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 06:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 07:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 08:30,20.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 09:30,20.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 10:30,21.6,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 11:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 12:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 13:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 14:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 15:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 16:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 17:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 18:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 19:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 20:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 21:30,23.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 22:30,23.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-28 23:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 00:30,32.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 01:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 02:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 03:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 04:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 05:30,19.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 06:30,20.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 07:30,20.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 08:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 09:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 10:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 11:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 12:30,24.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 13:30,24.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 14:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 15:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 16:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 17:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 18:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 19:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 20:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 21:30,22.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-11-29 22:30,20.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-28 23:30,4.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 00:30,,,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 01:30,4.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 02:30,3.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 03:30,2.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 04:30,1.6,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 05:30,1.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 06:30,1.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 07:30,1.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 08:30,1.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 09:30,0.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 10:30,1.0,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 11:30,0.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 12:30,0.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 13:30,0.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 14:30,0.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 15:30,0.8,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 16:30,0.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 17:30,0.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 18:30,0.2,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 19:30,0.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 20:30,0.4,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 21:30,0.6,Boa,True
+2025-11-29,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 22:30,1.0,Boa,True
