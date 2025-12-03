@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-02 15:00,32.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-02 16:00,35.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-02 17:00,37.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-02 18:00,35.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-02 19:00,32.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-02 20:00,28.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-03 15:00,37.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-03 16:00,48.0,Moderada,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-03 17:00,55.0,Moderada,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-03 18:00,56.0,Moderada,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,20,O₃,Ozônio,2025-12-03 19:00,49.0,Moderada,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 11:00,25.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 12:00,27.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 13:00,28.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 14:00,29.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 21:00,28.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 22:00,28.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 23:00,28.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 01:00,29.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 02:00,29.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 11:00,35.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 12:00,34.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 13:00,32.0,Boa,True
+2025-12-03,,3518800,35,SP,guarulhos-pimentas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 14:00,32.0,Boa,True
