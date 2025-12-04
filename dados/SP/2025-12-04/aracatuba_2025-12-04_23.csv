@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-03 20:00,22.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-03 21:00,20.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-03 22:00,19.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-03 23:00,18.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 00:00,16.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 14:00,18.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 15:00,21.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 16:00,25.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 17:00,28.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 18:00,29.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-04 19:00,31.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 01:00,14.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 02:00,13.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 03:00,13.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 04:00,13.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 05:00,13.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 06:00,13.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 07:00,12.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 08:00,12.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 09:00,12.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 10:00,12.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 11:00,12.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 12:00,16.0,Boa,True
+2025-12-04,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 13:00,16.0,Boa,True
