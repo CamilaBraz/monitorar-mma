@@ -1,0 +1,119 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 08:00,13.12,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 09:00,13.12,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 10:00,13.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 11:00,13.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 12:00,13.28,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 13:00,13.6,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 14:00,13.68,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 15:00,13.44,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 16:00,13.28,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 17:00,13.44,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 18:00,13.52,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 19:00,13.68,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 20:00,13.84,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 21:00,13.84,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 22:00,13.84,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 23:00,14.08,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 00:00,14.24,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 01:00,14.32,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 02:00,14.32,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 03:00,14.16,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 04:00,14.24,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 05:00,14.48,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 06:00,14.72,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-04 07:00,14.72,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 08:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 09:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 10:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 11:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 12:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 13:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 14:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 15:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 16:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 17:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 18:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 19:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 20:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 21:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 22:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-03 23:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 00:00,2.54,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 01:00,2.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 02:00,2.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 03:00,2.1,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 04:00,1.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 05:00,1.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 06:00,1.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,18,NO₂,Dióxido de Nitrogênio,2025-12-04 07:00,1.18,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 08:00,14.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 09:00,14.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 10:00,14.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 11:00,13.6,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 12:00,12.8,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 13:00,12.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 14:00,11.6,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 15:00,11.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 16:00,10.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 17:00,9.6,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 18:00,9.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 19:00,9.0,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 20:00,8.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 21:00,7.8,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 22:00,7.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-03 23:00,6.8,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 00:00,6.0,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 01:00,6.0,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 02:00,6.0,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 03:00,6.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 04:00,6.2,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 05:00,6.0,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 06:00,6.0,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,23,SO₂,Dióxido de Enxofre,2025-12-04 07:00,6.4,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 08:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 09:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 10:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 11:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 12:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 13:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 14:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 15:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 16:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 17:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 18:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 19:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 20:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 21:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 22:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-03 23:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 00:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 01:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 02:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 03:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 04:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 05:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,5,CO,Monóxido de Carbono,2025-12-04 06:00,1.33,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 08:00,23.16,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 09:00,22.08,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 10:00,21.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 11:00,19.36,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 12:00,17.96,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 13:00,14.24,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 14:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 15:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 16:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 17:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 18:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 19:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 20:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 21:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 22:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-03 23:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 00:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 01:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 02:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 03:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 04:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 05:00,15.04,Boa,True
+2025-12-04,,2906501,29,BA,caboto,30.0,69.0,3.0,20,O₃,Ozônio,2025-12-04 06:00,15.04,Boa,True

@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-02 22:00,22.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 12:00,33.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 13:00,51.0,Moderada,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 14:00,82.0,Ruim,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 15:00,97.0,Ruim,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 16:00,101.0,Ruim,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 17:00,96.0,Ruim,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 18:00,87.0,Ruim,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 19:00,77.0,Moderada,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 20:00,57.0,Moderada,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-03 21:00,36.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-04 04:00,23.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-04 05:00,23.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-04 06:00,23.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2025-12-04 07:00,22.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-02 23:00,20.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-03 01:00,22.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-03 02:00,22.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-03 22:00,30.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-03 23:00,30.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-04 00:00,28.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-04 01:00,27.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-04 02:00,25.0,Boa,True
+2025-12-04,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-04 03:00,24.0,Boa,True
