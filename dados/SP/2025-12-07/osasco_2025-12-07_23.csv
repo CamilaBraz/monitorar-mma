@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-06 19:00,24.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-06 20:00,24.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-06 21:00,24.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 10:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 11:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 12:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 13:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 14:00,33.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 15:00,33.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 16:00,33.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 17:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 18:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 19:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-06 22:00,25.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 00:00,28.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 01:00,28.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 02:00,29.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 03:00,30.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 04:00,30.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 05:00,31.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 06:00,32.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 07:00,32.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 08:00,33.0,Boa,True
+2025-12-07,,3534401,35,SP,osasco,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 09:00,33.0,Boa,True
