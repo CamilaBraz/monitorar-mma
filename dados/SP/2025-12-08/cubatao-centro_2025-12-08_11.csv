@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 08:00,16.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 09:00,17.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 10:00,17.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 11:00,17.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 12:00,17.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 13:00,17.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 20:00,19.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 21:00,19.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-07 22:00,19.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 00:00,20.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 01:00,20.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 02:00,20.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 03:00,22.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 04:00,24.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 05:00,24.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 06:00,24.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-08 07:00,24.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-12-07 14:00,19.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-12-07 15:00,21.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-12-07 16:00,23.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-12-07 17:00,24.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-12-07 18:00,23.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,20,O₃,Ozônio,2025-12-07 19:00,21.0,Boa,True
+2025-12-08,,3513504,35,SP,cubatao-centro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 07:00,14.0,Boa,True
