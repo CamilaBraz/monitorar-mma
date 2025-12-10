@@ -1,0 +1,113 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-09 20:00,2.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-09 21:00,2.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-09 22:00,2.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-09 23:00,2.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 00:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 01:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 02:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 03:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 04:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 05:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 06:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 07:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 08:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 09:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 10:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 11:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 12:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 13:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 14:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 15:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 16:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 17:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 18:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,5,CO,Monóxido de Carbono,2025-12-10 19:00,1.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 20:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 21:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 22:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 23:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 00:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 02:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 03:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 04:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 06:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 07:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 08:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 09:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 10:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 11:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 12:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 13:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 14:00,9.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 15:00,9.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 16:00,10.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 17:00,11.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 18:00,10.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 19:00,11.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-09 20:00,11.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-09 21:00,11.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-09 22:00,11.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-09 23:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 00:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 01:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 02:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 03:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 06:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 07:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 08:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 10:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 12:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 14:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 15:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 16:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 17:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-10 19:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-09 20:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-09 21:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-09 22:00,5.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-09 23:00,5.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 00:00,6.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 01:00,7.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 02:00,8.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 03:00,9.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 04:00,11.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 05:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 06:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 07:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 08:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 09:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 10:00,12.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 11:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 12:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 13:00,13.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 14:00,14.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 15:00,14.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 16:00,15.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 17:00,15.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 18:00,15.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,20,O₃,Ozônio,2025-12-10 19:00,14.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 20:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 21:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 22:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 23:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 00:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 01:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 02:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 03:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 04:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 05:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 06:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 07:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 08:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 09:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 10:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 11:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 12:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 13:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 14:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 15:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 16:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 17:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 18:00,4.0,Boa,True
+2025-12-10,,4106902,41,PR,ouvidor_pardinho,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 19:00,4.0,Boa,True

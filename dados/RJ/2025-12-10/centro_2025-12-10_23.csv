@@ -1,0 +1,48 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 14:00,2.222,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 15:00,2.667,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 16:00,2.667,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 17:00,2.667,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 18:00,2.667,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 19:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 20:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 21:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 22:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-09 23:00,3.556,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 00:00,3.556,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 01:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 02:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 03:00,2.667,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 04:00,2.222,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 05:00,2.222,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 06:00,2.222,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 07:00,1.778,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 08:00,1.778,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 09:00,1.778,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 10:00,1.778,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 11:00,1.778,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,5,CO,Monóxido de Carbono,2025-12-10 20:00,3.111,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 20:00,,,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 14:00,9.6,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 15:00,10.4,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 16:00,12.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 17:00,12.4,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 18:00,11.6,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 19:00,10.4,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 20:00,8.8,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 21:00,6.8,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 22:00,5.6,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-09 23:00,4.8,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 00:00,3.6,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 01:00,3.6,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 02:00,3.6,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 03:00,4.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 04:00,4.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 05:00,4.4,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 06:00,4.4,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 07:00,4.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 08:00,4.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 09:00,4.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 10:00,4.0,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 11:00,5.2,Boa,True
+2025-12-10,,3304557,33,RJ,centro,31.0,,0.0,20,O₃,Ozônio,2025-12-10 12:00,6.4,Boa,True

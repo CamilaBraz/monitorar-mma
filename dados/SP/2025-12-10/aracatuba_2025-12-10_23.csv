@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 11:00,7.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 12:00,7.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 13:00,8.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 14:00,8.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 15:00,8.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 16:00,9.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 17:00,9.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 18:00,9.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 19:00,9.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 20:00,8.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-09 21:00,8.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 01:00,6.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 02:00,7.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 03:00,8.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 04:00,9.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 05:00,10.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 06:00,10.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 07:00,11.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 08:00,11.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 09:00,12.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 15:00,20.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 18:00,23.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-10 19:00,23.0,Boa,True
+2025-12-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 10:00,6.0,Boa,True
