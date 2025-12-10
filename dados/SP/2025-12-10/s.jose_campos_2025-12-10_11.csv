@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 06:00,16.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 07:00,16.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 08:00,16.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 09:00,16.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 10:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 11:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 12:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 13:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 14:00,14.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 19:00,12.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 20:00,11.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 21:00,11.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 00:00,11.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 01:00,10.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 02:00,10.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 03:00,10.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 04:00,10.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 05:00,10.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 06:00,9.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 07:00,9.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-12-09 15:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-12-09 16:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-12-09 17:00,15.0,Boa,True
+2025-12-10,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2025-12-09 18:00,14.0,Boa,True
