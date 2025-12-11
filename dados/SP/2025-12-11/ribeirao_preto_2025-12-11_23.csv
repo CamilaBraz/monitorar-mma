@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-09 18:00,14.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-09 19:00,13.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-09 20:00,13.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-09 21:00,13.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 01:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 03:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 04:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 05:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 06:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 07:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 08:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-10 09:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 09:00,11.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 10:00,12.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 11:00,14.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 12:00,16.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 13:00,18.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 14:00,21.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 15:00,23.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 16:00,25.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 17:00,27.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2025-12-11 18:00,28.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 07:00,11.0,Boa,True
+2025-12-11,,3543402,35,SP,ribeirao_preto,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 08:00,11.0,Boa,True

@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-10 20:00,22.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-10 21:00,21.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-10 22:00,20.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-10 23:00,19.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 00:00,18.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 01:00,18.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 02:00,17.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 03:00,16.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 04:00,16.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 05:00,16.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 06:00,15.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 11:00,15.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 12:00,16.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 13:00,18.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 14:00,19.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 15:00,21.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 16:00,23.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 17:00,23.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 18:00,23.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,20,O₃,Ozônio,2025-12-11 19:00,22.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 07:00,14.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 08:00,14.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 09:00,14.0,Boa,True
+2025-12-11,,3525300,35,SP,jau,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 10:00,14.0,Boa,True
