@@ -1,0 +1,72 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 09:00,27.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 10:00,28.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 11:00,28.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 12:00,29.6,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 13:00,29.6,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 14:00,28.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 15:00,28.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 16:00,29.6,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 17:00,30.4,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 18:00,31.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 19:00,31.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 20:00,31.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 21:00,32.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 22:00,36.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 23:00,36.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 00:00,37.6,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 01:00,38.4,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 02:00,39.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 03:00,40.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 04:00,40.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 05:00,39.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 06:00,38.4,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 07:00,36.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 08:00,36.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 09:00,10.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 10:00,14.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 11:00,20.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 12:00,28.4,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 13:00,36.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 14:00,61.172,Moderada,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 15:00,87.724,Ruim,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 16:00,107.897,Ruim,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 17:00,120.0,Ruim,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 18:00,121.0,Muito ruim,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 19:00,115.966,Ruim,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 20:00,99.828,Ruim,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 21:00,80.0,Moderada,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 22:00,51.759,Moderada,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-12 23:00,35.2,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 00:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 01:00,24.8,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 02:00,20.4,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 04:00,18.4,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 05:00,18.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 06:00,18.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 07:00,20.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,20,O₃,Ozônio,2025-12-13 08:00,20.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 09:00,24.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 10:00,26.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 11:00,26.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 12:00,28.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 13:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 14:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 15:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 16:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 17:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 18:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 19:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 20:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 21:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 22:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-12 23:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 00:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 01:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 02:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 03:00,32.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 04:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 05:00,30.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 06:00,28.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 07:00,28.0,Boa,True
+2025-12-13,,3304557,33,RJ,campo_grande,34.0,,1.0,23,SO₂,Dióxido de Enxofre,2025-12-13 08:00,26.0,Boa,True
