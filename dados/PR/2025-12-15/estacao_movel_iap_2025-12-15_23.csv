@@ -1,0 +1,19 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-14 20:00,30.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-14 21:00,28.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-14 23:00,28.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 00:00,30.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 01:00,31.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 03:00,31.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 04:00,30.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 06:00,24.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 07:00,24.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 08:00,23.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 09:00,23.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 10:00,23.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 11:00,23.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 12:00,26.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 13:00,29.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 14:00,27.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 18:00,25.0,Boa,True
+2025-12-15,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-15 19:00,34.0,Boa,True
