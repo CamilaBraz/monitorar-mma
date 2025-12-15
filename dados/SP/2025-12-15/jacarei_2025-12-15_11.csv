@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 21:00,12.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 06:00,11.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 07:00,10.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 08:00,10.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 09:00,10.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 08:00,20.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 09:00,20.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 10:00,20.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-11 11:00,21.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 06:00,19.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 07:00,20.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 08:00,21.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 09:00,23.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 10:00,24.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 11:00,23.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 12:00,23.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 13:00,22.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-12 14:00,22.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-15 06:00,10.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-15 07:00,10.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2025-12-11 06:00,20.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2025-12-11 07:00,19.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2025-12-11 12:00,22.0,Boa,True
+2025-12-15,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2025-12-11 13:00,24.0,Boa,True
