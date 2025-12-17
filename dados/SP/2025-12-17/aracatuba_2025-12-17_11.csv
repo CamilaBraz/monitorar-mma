@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 00:00,6.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 01:00,6.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 02:00,6.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 03:00,7.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 04:00,7.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 05:00,7.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 06:00,7.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 07:00,8.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 07:00,8.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 08:00,9.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 09:00,9.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 10:00,9.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 11:00,9.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 12:00,9.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 13:00,10.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 14:00,10.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 15:00,10.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 16:00,11.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 17:00,12.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 18:00,13.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 19:00,13.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 20:00,12.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 21:00,11.0,Boa,True
+2025-12-17,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2025-12-16 22:00,9.0,Boa,True
