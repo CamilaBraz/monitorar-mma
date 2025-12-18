@@ -1,0 +1,17 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 08:00,16.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 09:00,16.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 11:00,14.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 12:00,14.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 13:00,15.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 14:00,15.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 16:00,14.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 18:00,19.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 19:00,17.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 20:00,19.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 21:00,18.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-17 23:00,20.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 00:00,21.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 02:00,20.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 03:00,20.0,Boa,True
+2025-12-18,,4115200,41,PR,maringa,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 07:00,21.0,Boa,True
