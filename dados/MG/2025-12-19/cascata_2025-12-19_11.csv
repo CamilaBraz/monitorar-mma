@@ -1,0 +1,71 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 07:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 08:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 09:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 10:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 11:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 12:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 13:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 14:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 15:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 16:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 17:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 18:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 19:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 20:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 21:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 22:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-18 23:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 00:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 01:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 02:00,1.778,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 03:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 04:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 05:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,5,CO,Monóxido de Carbono,2025-12-19 06:00,1.333,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 07:00,28.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 08:00,27.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 09:00,26.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 10:00,26.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 11:00,25.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 12:00,24.0,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 13:00,20.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 14:00,19.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 15:00,17.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 17:00,14.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 18:00,12.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 19:00,12.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 20:00,15.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 21:00,18.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 22:00,22.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 23:00,24.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 00:00,27.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 01:00,31.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 02:00,32.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 03:00,33.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 04:00,34.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 05:00,36.0,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 06:00,36.0,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 07:00,16.0,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 08:00,16.0,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 09:00,14.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 10:00,14.4,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 11:00,12.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 12:00,12.8,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 13:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 14:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 15:00,9.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 16:00,9.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 17:00,9.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 18:00,9.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 19:00,9.6,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 20:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 21:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 22:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-18 23:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-19 01:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-19 02:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-19 03:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-19 04:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-19 05:00,11.2,Boa,True
+2025-12-19,,3129806,31,MG,cascata,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-19 06:00,11.2,Boa,True
