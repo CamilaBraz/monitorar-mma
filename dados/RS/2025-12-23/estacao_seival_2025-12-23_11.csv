@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-11-27 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-11-28 00:30,4.444,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-11-29 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-11-30 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-01 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-02 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-03 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-05 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-06 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-07 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-08 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-09 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-10 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-13 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-14 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-15 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-16 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-17 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-18 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-19 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-20 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-21 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-22 00:30,4.444,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,5,CO,Monóxido de Carbono,2025-12-23 00:30,4.444,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-27 00:30,15.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-28 00:30,25.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-29 00:30,28.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-11-30 00:30,19.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-01 00:30,18.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-02 00:30,12.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-03 00:30,13.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-05 00:30,23.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-06 00:30,25.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-07 00:30,20.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-08 00:30,31.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-09 00:30,18.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-10 00:30,3.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-13 00:30,16.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-14 00:30,32.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-15 00:30,16.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-16 00:30,9.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-17 00:30,9.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-18 00:30,20.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-19 00:30,33.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-20 00:30,30.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-21 00:30,24.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 00:30,12.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 00:30,8.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-27 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-28 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-29 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-11-30 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-01 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-02 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-03 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-05 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-06 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-07 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-08 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-10 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-13 00:30,3.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-14 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-15 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-16 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-17 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-18 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-19 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-20 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-21 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-22 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-23 00:30,,,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-11-27 00:30,20.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-11-28 00:30,22.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-11-29 00:30,26.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-11-30 00:30,19.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-01 00:30,16.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-02 00:30,14.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-03 00:30,19.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-05 00:30,22.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-06 00:30,23.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-07 00:30,25.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-08 00:30,20.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-09 00:30,17.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-10 00:30,20.8,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-13 00:30,17.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-14 00:30,25.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-15 00:30,27.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-16 00:30,21.2,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-17 00:30,12.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-18 00:30,13.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-19 00:30,15.6,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-20 00:30,28.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-21 00:30,24.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-22 00:30,16.4,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,20,O₃,Ozônio,2025-12-23 00:30,18.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-11-27 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-11-28 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-11-29 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-11-30 00:30,8.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-01 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-02 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-03 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-05 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-06 00:30,12.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-07 00:30,4.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-08 00:30,8.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-10 00:30,0.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-13 00:30,6.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-14 00:30,8.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-15 00:30,4.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-16 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-17 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-18 00:30,6.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-19 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-20 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-21 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-22 00:30,2.0,Boa,True
+2025-12-23,,4304358,43,RS,estacao_seival,,,,23,SO₂,Dióxido de Enxofre,2025-12-23 00:30,4.0,Boa,True
