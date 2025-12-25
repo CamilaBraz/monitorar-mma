@@ -1,0 +1,71 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 11:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 12:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 13:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 14:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 15:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 16:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 17:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 18:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 19:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 20:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 21:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 22:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-22 23:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 00:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 01:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 02:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 03:30,0.444,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 04:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 05:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 06:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 07:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 08:30,0.889,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 09:30,1.333,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,5,CO,Monóxido de Carbono,2025-12-23 10:30,1.333,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 11:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 12:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 13:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 14:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 15:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 16:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 17:30,7.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 18:30,7.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 19:30,7.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 20:30,7.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 21:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 22:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-22 23:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 00:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 01:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 02:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 03:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 04:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 05:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 06:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 07:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 08:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 09:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-23 10:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 11:30,12.8,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 12:30,12.8,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 13:30,12.8,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 15:30,12.8,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 16:30,11.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 17:30,11.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 18:30,11.2,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 19:30,9.6,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 20:30,9.6,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 21:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 22:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-22 23:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 00:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 01:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 02:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 03:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 04:30,6.4,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 05:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 06:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 07:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 08:30,8.0,Boa,True
+2025-12-25,,3131307,31,MG,bom_retiro,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-23 09:30,8.0,Boa,True
