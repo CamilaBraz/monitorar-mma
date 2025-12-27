@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-26 18:00,44.0,Moderada,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-26 19:00,39.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-26 20:00,37.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-26 21:00,34.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-26 22:00,30.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 00:00,27.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 01:00,25.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 02:00,23.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 03:00,22.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 04:00,20.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 05:00,17.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 13:00,26.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 14:00,31.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 15:00,36.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 17:00,49.0,Moderada,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 18:00,46.0,Moderada,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2025-12-27 19:00,38.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-27 09:00,20.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-27 11:00,22.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2025-12-27 12:00,22.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-27 06:00,17.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-27 07:00,18.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-27 08:00,20.0,Boa,True
+2025-12-27,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-27 10:00,21.0,Boa,True
