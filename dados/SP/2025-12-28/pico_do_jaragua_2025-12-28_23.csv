@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-27 20:00,62.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-27 21:00,61.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-27 22:00,62.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-27 23:00,62.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 00:00,64.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 01:00,65.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 02:00,66.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 03:00,60.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 04:00,53.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 05:00,49.0,Moderada,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 06:00,39.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 07:00,34.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 08:00,31.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 09:00,27.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 10:00,27.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 11:00,26.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 12:00,27.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 13:00,28.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 14:00,30.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 15:00,34.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 16:00,37.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 17:00,39.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 18:00,39.0,Boa,True
+2025-12-28,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2025-12-28 19:00,38.0,Boa,True
