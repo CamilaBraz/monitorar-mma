@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-28 08:00,23.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-28 09:00,23.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-28 10:00,22.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-28 11:00,22.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-28 12:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 00:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 01:00,20.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 02:00,20.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 03:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 04:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 05:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 06:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2025-12-29 07:00,21.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 13:00,26.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 14:00,29.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 15:00,32.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 16:00,35.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 17:00,35.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 18:00,35.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 19:00,34.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 20:00,32.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 21:00,29.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 22:00,25.0,Boa,True
+2025-12-29,,3547809,35,SP,s.andre-capuava,,,,20,O₃,Ozônio,2025-12-28 23:00,23.0,Boa,True
