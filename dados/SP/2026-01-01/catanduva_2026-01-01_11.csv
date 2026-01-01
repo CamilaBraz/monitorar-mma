@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 06:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 07:00,21.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 08:00,21.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 09:00,20.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 10:00,20.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 11:00,20.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 12:00,20.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 13:00,20.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 15:00,21.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 16:00,22.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 17:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 18:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 19:00,24.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 20:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 21:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2025-12-31 22:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 00:00,23.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 01:00,22.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 02:00,22.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 03:00,21.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 04:00,21.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 05:00,20.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 06:00,19.0,Boa,True
+2026-01-01,,3511102,35,SP,catanduva,,,,20,O₃,Ozônio,2026-01-01 07:00,18.0,Boa,True
