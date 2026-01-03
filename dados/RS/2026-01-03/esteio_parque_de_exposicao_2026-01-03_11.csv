@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 17:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 18:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 19:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 20:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 21:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 22:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-01 23:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 00:00,0.444,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 01:00,0.889,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 02:00,0.889,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 03:00,0.889,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 04:00,0.889,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 05:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 06:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 07:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 08:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 09:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 10:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 11:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 12:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 13:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 14:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 15:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,5,CO,Monóxido de Carbono,2026-01-02 16:00,1.333,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 17:00,16.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 18:00,15.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 19:00,14.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 20:00,14.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 21:00,13.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 22:00,12.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-01 23:00,12.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 00:00,12.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 01:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 02:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 03:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 04:00,10.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 05:00,10.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 06:00,9.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 07:00,8.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 08:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 09:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 10:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 11:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 12:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 13:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 14:00,8.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 15:00,8.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 16:00,8.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 17:00,0.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 18:00,0.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 19:00,0.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 20:00,5.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 21:00,6.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 22:00,5.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-01 23:00,4.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 00:00,2.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 01:00,4.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 02:00,2.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 03:00,3.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 04:00,2.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 05:00,2.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 06:00,2.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 07:00,2.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 08:00,1.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 09:00,1.0,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 10:00,0.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 11:00,0.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 12:00,0.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 13:00,0.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 14:00,0.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 15:00,1.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-02 16:00,1.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 17:00,10.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 18:00,10.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 19:00,10.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 20:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 21:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 22:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-01 23:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 00:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 01:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 02:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 03:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 04:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 05:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 06:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 07:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 08:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 09:00,11.6,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 10:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 11:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 12:00,11.2,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 13:00,10.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 14:00,10.8,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 15:00,10.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-01-02 16:00,10.4,Boa,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 17:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 18:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 19:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 20:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 21:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 22:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-01 23:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 00:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 01:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 02:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 03:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 04:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 05:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 06:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 07:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 08:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 09:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 10:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 11:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 12:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 13:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 14:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 15:00,59.474,Moderada,True
+2026-01-03,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-01-02 16:00,59.474,Moderada,True

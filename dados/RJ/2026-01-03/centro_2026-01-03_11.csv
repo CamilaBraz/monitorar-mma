@@ -1,0 +1,55 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,5,CO,Monóxido de Carbono,2026-01-02 09:00,6.222,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,5,CO,Monóxido de Carbono,2026-01-02 11:00,5.333,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,5,CO,Monóxido de Carbono,2026-01-02 20:00,,,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,5,CO,Monóxido de Carbono,2026-01-02 22:00,,,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,5,CO,Monóxido de Carbono,2026-01-03 04:00,,,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,5,CO,Monóxido de Carbono,2026-01-03 08:00,,,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 09:00,51.347,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 10:00,48.959,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 11:00,44.98,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 12:00,42.592,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 13:00,41.796,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 14:00,41.0,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 15:00,41.0,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 16:00,41.0,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 17:00,41.796,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 18:00,41.0,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 19:00,40.0,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 20:00,40.0,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 21:00,40.0,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 22:00,41.0,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-02 23:00,42.592,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 00:00,44.184,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 01:00,45.776,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 02:00,47.367,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 03:00,48.959,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 04:00,51.347,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 05:00,53.735,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 06:00,52.939,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 07:00,52.143,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-03 08:00,52.939,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 09:00,14.8,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 10:00,15.6,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 11:00,18.0,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 12:00,22.4,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 13:00,25.2,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 14:00,27.2,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 15:00,32.8,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 16:00,39.2,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 17:00,49.069,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 18:00,61.172,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 19:00,66.552,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 20:00,57.138,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 21:00,49.069,Moderada,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 22:00,40.0,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-02 23:00,34.4,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 00:00,29.2,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 01:00,25.2,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 02:00,20.8,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 03:00,16.8,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 04:00,14.4,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 05:00,11.6,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 06:00,10.8,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 07:00,10.4,Boa,True
+2026-01-03,,3304557,33,RJ,centro,27.0,,0.0,20,O₃,Ozônio,2026-01-03 08:00,10.0,Boa,True
