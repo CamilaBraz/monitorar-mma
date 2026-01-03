@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-02 19:00,18.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-02 20:00,17.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-02 21:00,15.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-02 22:00,14.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 11:00,11.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 13:00,12.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 14:00,14.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 15:00,16.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 16:00,18.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 17:00,19.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 18:00,20.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,20,O₃,Ozônio,2026-01-03 19:00,20.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 00:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 01:00,11.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 02:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 03:00,11.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 04:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 05:00,11.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 06:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 07:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 08:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 09:00,13.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 10:00,11.0,Boa,True
+2026-01-03,,3549805,35,SP,sao_jose_do_rio_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 12:00,13.0,Boa,True
