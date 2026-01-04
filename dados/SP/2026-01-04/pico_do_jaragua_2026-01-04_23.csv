@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-03 19:00,23.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-03 20:00,23.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-03 21:00,23.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-03 22:00,23.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 00:00,22.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 01:00,21.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 02:00,20.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 03:00,20.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 04:00,19.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 05:00,18.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 06:00,17.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 13:00,15.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 14:00,15.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 15:00,16.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 16:00,17.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 17:00,18.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 18:00,18.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-04 19:00,18.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 07:00,16.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 08:00,16.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 09:00,16.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 10:00,16.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 11:00,16.0,Boa,True
+2026-01-04,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 12:00,16.0,Boa,True

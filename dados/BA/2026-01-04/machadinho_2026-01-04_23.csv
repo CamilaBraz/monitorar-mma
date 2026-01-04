@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-03 20:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-03 21:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-03 22:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-03 23:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 00:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 01:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 02:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 03:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 04:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 05:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 06:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 07:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 08:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 09:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 10:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 11:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 12:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 13:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 14:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 15:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 16:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 17:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 18:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,5,CO,Monóxido de Carbono,2026-01-04 19:00,1.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 20:00,35.2,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 21:00,34.13,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 22:00,33.87,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-03 23:00,33.6,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 00:00,33.6,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 01:00,33.87,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 02:00,33.87,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 03:00,33.6,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 04:00,33.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 05:00,33.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 06:00,33.87,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 07:00,34.13,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 08:00,34.4,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 09:00,34.67,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 10:00,34.67,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 11:00,34.4,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 12:00,34.4,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 13:00,34.13,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 14:00,33.33,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 15:00,32.27,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 16:00,32.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 17:00,30.93,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 18:00,30.93,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-04 19:00,31.47,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-03 20:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-03 21:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-03 22:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-03 23:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 00:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 01:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 02:00,0.74,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 03:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 04:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 05:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 06:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 07:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 08:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 09:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 10:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 11:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 12:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 13:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 14:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 15:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 16:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 17:00,0.82,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 18:00,1.72,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-01-04 19:00,1.72,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-03 20:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-03 21:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-03 22:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-03 23:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 00:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 01:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 02:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 03:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 04:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 05:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 06:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 07:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 08:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 09:00,24.64,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 10:00,24.48,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 11:00,23.28,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 12:00,21.92,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 13:00,20.36,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 14:00,20.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 15:00,21.04,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 16:00,21.92,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 17:00,22.2,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 18:00,22.8,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,20,O₃,Ozônio,2026-01-04 19:00,22.8,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-03 20:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-03 21:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-03 22:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-03 23:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 00:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 01:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 02:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 03:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 04:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 05:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 06:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 07:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 08:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 09:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 10:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 11:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 12:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 13:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 14:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 15:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 16:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 17:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 18:00,0.0,Boa,True
+2026-01-04,,2905701,29,BA,machadinho,27.0,68.0,2.0,23,SO₂,Dióxido de Enxofre,2026-01-04 19:00,0.0,Boa,True
