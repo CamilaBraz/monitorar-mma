@@ -1,0 +1,72 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-09-12 15:00,0.889,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 01:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 02:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 03:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 04:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 05:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 06:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 07:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 08:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 09:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 10:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 11:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 12:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 13:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 14:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 15:00,0.889,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 16:00,0.889,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 17:00,0.889,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 18:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 19:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 20:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 21:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 22:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,5,CO,Monóxido de Carbono,2025-12-09 23:00,0.444,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 01:00,2.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 02:00,1.8,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 03:00,1.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 04:00,1.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 05:00,1.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 06:00,1.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 07:00,1.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 08:00,2.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 10:00,3.8,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 11:00,3.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 13:00,4.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 14:00,3.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 15:00,4.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 18:00,3.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 19:00,2.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 20:00,1.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 21:00,2.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 22:00,2.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,18,NO₂,Dióxido de Nitrogênio,2025-12-09 23:00,2.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-09-12 15:00,14.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 01:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 02:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 03:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 04:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 05:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 06:00,7.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 07:00,7.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 08:00,6.8,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 09:00,6.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 10:00,6.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 11:00,6.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 12:00,5.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 13:00,5.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 14:00,5.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 15:00,5.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 16:00,6.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 17:00,6.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 18:00,6.4,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 19:00,6.8,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 20:00,7.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 21:00,7.6,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 22:00,7.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,20,O₃,Ozônio,2025-12-09 23:00,7.2,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,23,SO₂,Dióxido de Enxofre,2025-09-12 15:00,0.0,Boa,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 01:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 02:00,,,True
+2026-01-07,,4322004,43,RS,triunfo_polo_petroquimico_movel,,,,23,SO₂,Dióxido de Enxofre,2025-12-09 03:00,,,True

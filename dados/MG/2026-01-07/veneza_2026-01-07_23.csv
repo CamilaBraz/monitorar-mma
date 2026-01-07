@@ -1,0 +1,47 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 14:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 15:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 16:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 17:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 18:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 19:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 20:30,1.333,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 21:30,1.333,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 22:30,1.778,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-06 23:30,1.778,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 00:30,1.778,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 01:30,2.222,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 02:30,2.222,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 03:30,1.778,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 04:30,1.778,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 05:30,1.333,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 06:30,1.333,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 08:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 09:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 10:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 11:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 12:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 13:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,5,CO,Monóxido de Carbono,2026-01-07 14:30,0.889,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 14:30,23.2,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 15:30,20.8,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 17:30,20.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 18:30,19.2,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 20:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 21:30,15.2,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 22:30,15.2,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-06 23:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 01:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 02:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 03:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 04:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 06:30,16.8,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 09:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 11:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 12:30,16.0,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 13:30,15.2,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-07 14:30,16.8,Boa,True
+2026-01-07,,3131307,31,MG,veneza,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-07 11:30,,,True
+2026-01-07,,3131307,31,MG,veneza,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-07 12:30,,,True
+2026-01-07,,3131307,31,MG,veneza,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-07 13:30,,,True
+2026-01-07,,3131307,31,MG,veneza,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-07 14:30,,,True
