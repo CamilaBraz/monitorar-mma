@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 17:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 18:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 19:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 20:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 21:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 22:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-08 23:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 00:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 01:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 02:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 03:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 04:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 05:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 06:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 07:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 08:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 09:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 10:00,0.889,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 11:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 12:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 13:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 14:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 15:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,5,CO,Monóxido de Carbono,2026-01-09 16:00,1.333,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 17:00,16.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 18:00,15.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 19:00,14.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 20:00,14.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 21:00,15.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 22:00,15.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-08 23:00,15.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 00:00,16.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 01:00,16.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 02:00,16.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 03:00,16.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 04:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 05:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 06:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 07:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 08:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 09:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 10:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 11:00,17.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 12:00,18.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 13:00,18.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 14:00,18.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 15:00,18.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 16:00,18.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 17:00,2.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 18:00,1.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 19:00,1.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 20:00,1.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 21:00,1.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 22:00,1.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-08 23:00,0.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 00:00,0.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 01:00,0.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 02:00,0.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 03:00,0.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 04:00,0.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 05:00,0.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 06:00,0.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 07:00,1.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 08:00,1.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 09:00,1.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 10:00,1.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 11:00,1.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 12:00,1.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 13:00,1.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 14:00,1.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 15:00,1.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-09 16:00,1.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 17:00,3.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 18:00,3.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 19:00,3.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 20:00,3.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 21:00,3.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 22:00,3.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-08 23:00,3.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 00:00,2.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 01:00,2.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 02:00,2.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 03:00,2.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 04:00,2.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 05:00,2.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 06:00,2.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 07:00,2.4,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 08:00,2.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 09:00,2.8,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 10:00,3.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 11:00,3.2,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 12:00,3.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 13:00,3.6,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 14:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 15:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,20,O₃,Ozônio,2026-01-09 16:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 17:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 18:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 19:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 20:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 21:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 22:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-08 23:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 00:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 01:00,4.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 02:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 03:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 04:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 05:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 06:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 07:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 08:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 09:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 10:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 11:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 12:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 13:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 14:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 15:00,2.0,Boa,True
+2026-01-10,,4309308,43,RS,guaiba_parque_35,,,,23,SO₂,Dióxido de Enxofre,2026-01-09 16:00,2.0,Boa,True

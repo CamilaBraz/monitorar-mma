@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-09 19:00,19.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-09 20:00,17.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-09 21:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-10 14:00,18.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-10 15:00,20.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-10 16:00,21.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-10 17:00,21.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-10 18:00,21.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,20,O₃,Ozônio,2026-01-10 19:00,20.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-09 22:00,15.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 00:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 01:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 02:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 03:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 04:00,17.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 05:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 06:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 07:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 08:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 09:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 10:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 11:00,16.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 12:00,17.0,Boa,True
+2026-01-10,,3502804,35,SP,aracatuba,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-10 13:00,17.0,Boa,True
