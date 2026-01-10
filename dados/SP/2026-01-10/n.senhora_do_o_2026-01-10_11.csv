@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-08 11:00,16.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 00:00,43.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 01:00,43.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 02:00,44.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 03:00,44.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 04:00,44.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 05:00,44.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 06:00,44.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-10 07:00,44.0,Moderada,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-08 12:00,18.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-08 13:00,23.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-08 14:00,28.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-08 15:00,33.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-08 16:00,37.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-08 17:00,37.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 14:00,29.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 15:00,31.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 16:00,38.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 17:00,36.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 18:00,36.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 19:00,34.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 20:00,31.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 21:00,27.0,Boa,True
+2026-01-10,,3550308,35,SP,n.senhora_do_o,,,,20,O₃,Ozônio,2026-01-09 22:00,22.0,Boa,True
