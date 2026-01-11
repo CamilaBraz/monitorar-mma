@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-10 20:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-10 21:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-10 22:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-10 23:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 00:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 01:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 02:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 03:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 04:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 05:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 06:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 07:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 08:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 09:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 10:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 11:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 12:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 13:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 14:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 15:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 16:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 17:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 18:00,1.2,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,18,NO₂,Dióxido de Nitrogênio,2026-01-11 19:00,1.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-10 20:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-10 21:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-10 22:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-10 23:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 00:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 01:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 02:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 03:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 04:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 05:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 06:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 07:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 08:00,10.8,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 09:00,10.44,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 10:00,10.08,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 11:00,9.64,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 12:00,8.88,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 13:00,8.24,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 14:00,7.96,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 15:00,8.56,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 16:00,8.92,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 17:00,9.04,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 18:00,9.08,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,20,O₃,Ozônio,2026-01-11 19:00,9.16,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-10 20:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-10 21:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-10 22:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-10 23:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 00:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 01:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 02:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 03:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 04:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 05:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 06:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 07:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 08:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 09:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 10:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 11:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 12:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 13:00,0.0,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 14:00,0.0,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 15:00,0.1,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 16:00,0.3,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 17:00,0.3,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 18:00,0.3,Boa,True
+2026-01-11,,2910057,29,BA,escola,28.0,71.0,3.0,23,SO₂,Dióxido de Enxofre,2026-01-11 19:00,0.3,Boa,True
