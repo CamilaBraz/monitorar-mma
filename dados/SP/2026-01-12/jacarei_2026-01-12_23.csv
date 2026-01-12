@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 13:00,22.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 14:00,29.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 15:00,33.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 16:00,37.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 17:00,44.0,Moderada,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 18:00,48.0,Moderada,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 19:00,46.0,Moderada,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 20:00,39.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 21:00,37.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-09 22:00,33.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 12:00,18.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 13:00,23.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 14:00,28.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 15:00,33.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 16:00,37.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 17:00,40.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 18:00,46.0,Moderada,True
+2026-01-12,,3524402,35,SP,jacarei,,,,20,O₃,Ozônio,2026-01-12 19:00,43.0,Moderada,True
+2026-01-12,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-12 06:00,15.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-12 07:00,16.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-12 08:00,16.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-12 09:00,17.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-12 10:00,17.0,Boa,True
+2026-01-12,,3524402,35,SP,jacarei,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-12 11:00,17.0,Boa,True
