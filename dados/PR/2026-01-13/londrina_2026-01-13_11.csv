@@ -1,0 +1,18 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 09:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 10:00,17.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 11:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 12:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 15:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 16:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 17:00,17.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 18:00,15.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 19:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 20:00,17.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 21:00,20.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-12 22:00,19.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-13 02:00,21.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-13 03:00,19.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-13 04:00,19.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-13 05:00,16.0,Boa,True
+2026-01-13,,4113700,41,PR,londrina,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-13 06:00,14.0,Boa,True
