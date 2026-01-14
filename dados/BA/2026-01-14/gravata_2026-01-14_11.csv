@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 07:00,15.91,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 08:00,15.56,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 09:00,15.29,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 10:00,14.93,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 11:00,14.67,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 12:00,14.49,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 13:00,14.67,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 14:00,14.93,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 15:00,15.11,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 16:00,15.29,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 17:00,15.38,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 18:00,15.29,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 19:00,14.84,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 20:00,14.76,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 21:00,14.49,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 22:00,14.22,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-13 23:00,14.04,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 00:00,13.78,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 01:00,13.16,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 02:00,12.62,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 03:00,12.71,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 04:00,12.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 05:00,12.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-14 06:00,13.07,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 07:00,2.86,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 08:00,2.86,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 09:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 10:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 11:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 12:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 13:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 14:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 15:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 16:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 17:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 18:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 19:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 20:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 21:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 22:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-13 23:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 00:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 01:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 02:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 03:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 04:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 05:00,0.98,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-01-14 06:00,1.26,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 07:00,1.0,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 08:00,1.0,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 09:00,1.0,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 10:00,0.9,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 11:00,0.8,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 12:00,0.8,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 13:00,0.8,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 14:00,0.8,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 15:00,0.9,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 16:00,1.0,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 17:00,1.1,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 18:00,1.1,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 19:00,1.1,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 20:00,1.2,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 21:00,1.2,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 22:00,1.2,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-13 23:00,1.2,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 00:00,1.3,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 01:00,1.3,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 02:00,1.4,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 03:00,1.4,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 04:00,1.4,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 05:00,1.5,Boa,True
+2026-01-14,,2905701,29,BA,gravata,24.0,86.0,1.0,23,SO₂,Dióxido de Enxofre,2026-01-14 06:00,1.5,Boa,True
