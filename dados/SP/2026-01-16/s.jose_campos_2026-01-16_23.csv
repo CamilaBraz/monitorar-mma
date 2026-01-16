@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2026-01-16 14:00,13.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2026-01-16 15:00,15.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2026-01-16 16:00,18.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2026-01-16 17:00,20.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2026-01-16 18:00,21.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,20,O₃,Ozônio,2026-01-16 19:00,21.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 06:00,9.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 07:00,9.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 08:00,10.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 09:00,10.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 10:00,11.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 11:00,11.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 12:00,11.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 13:00,11.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 05:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 06:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 07:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 08:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 09:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 10:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 11:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-13 12:00,2.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-16 04:00,1.0,Boa,True
+2026-01-16,,3549904,35,SP,s.jose_campos,,,,23,SO₂,Dióxido de Enxofre,2026-01-16 05:00,1.0,Boa,True
