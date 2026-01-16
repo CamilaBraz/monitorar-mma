@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 11:00,13.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 12:00,16.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 13:00,19.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 14:00,21.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 15:00,24.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 16:00,27.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 17:00,28.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 18:00,29.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 19:00,28.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 20:00,28.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 21:00,27.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 22:00,25.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-15 23:00,24.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 00:00,23.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 01:00,21.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 02:00,20.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 03:00,19.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 04:00,18.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 05:00,17.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 06:00,16.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-16 07:00,15.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-15 08:00,11.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-15 09:00,11.0,Boa,True
+2026-01-16,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-15 10:00,12.0,Boa,True
