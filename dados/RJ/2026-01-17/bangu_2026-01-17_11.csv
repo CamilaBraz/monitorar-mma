@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 09:00,23.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 10:00,23.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 11:00,23.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 12:00,24.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 13:00,24.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 14:00,24.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 15:00,25.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 16:00,25.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 17:00,24.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 18:00,23.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 19:00,23.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 20:00,24.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 21:00,25.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 22:00,26.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-16 23:00,28.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 00:00,29.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 01:00,30.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 02:00,31.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 03:00,32.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 04:00,32.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 05:00,32.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 06:00,32.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 07:00,31.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-17 08:00,31.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 09:00,6.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 10:00,4.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 11:00,2.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 12:00,3.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 13:00,2.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 14:00,3.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 15:00,2.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 16:00,2.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 17:00,3.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 18:00,3.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 19:00,4.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 20:00,7.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 21:00,7.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 22:00,9.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-16 23:00,9.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 00:00,8.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 01:00,6.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 02:00,5.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 03:00,5.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 04:00,4.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 05:00,4.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 06:00,4.4,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 07:00,4.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-01-17 08:00,6.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 09:00,7.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 10:00,11.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 11:00,17.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 12:00,24.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 13:00,31.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 14:00,43.69,Moderada,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 15:00,75.966,Moderada,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 16:00,102.517,Ruim,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 17:00,120.0,Ruim,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 18:00,131.128,Muito ruim,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 19:00,131.128,Muito ruim,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 20:00,113.276,Ruim,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 21:00,98.483,Ruim,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 22:00,69.241,Moderada,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-16 23:00,39.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 00:00,31.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 01:00,24.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 02:00,18.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 03:00,12.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 04:00,8.8,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 05:00,7.2,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 06:00,6.0,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 07:00,5.6,Boa,True
+2026-01-17,,3304557,33,RJ,bangu,27.0,,0.0,20,O₃,Ozônio,2026-01-17 08:00,5.2,Boa,True
