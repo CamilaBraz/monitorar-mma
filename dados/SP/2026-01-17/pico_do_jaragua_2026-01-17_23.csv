@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-16 20:00,25.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-16 21:00,22.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-16 22:00,20.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-16 23:00,18.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 00:00,18.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 01:00,16.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 02:00,16.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 03:00,16.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 04:00,15.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 05:00,15.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 06:00,15.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 07:00,14.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 11:00,14.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 12:00,16.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 13:00,17.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 14:00,19.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 15:00,20.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 16:00,23.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 17:00,25.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 18:00,26.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,20,O₃,Ozônio,2026-01-17 19:00,26.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-17 08:00,13.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-17 09:00,13.0,Boa,True
+2026-01-17,,3550308,35,SP,pico_do_jaragua,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-17 10:00,13.0,Boa,True
