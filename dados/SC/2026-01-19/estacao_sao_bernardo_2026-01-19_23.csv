@@ -1,0 +1,70 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-18 22:30,28.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-18 23:30,27.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 00:30,28.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 01:30,25.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 02:30,25.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 03:30,24.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 04:30,24.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 05:30,24.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 06:30,24.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 07:30,24.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 08:30,24.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 09:30,24.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 10:30,24.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 11:30,23.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 12:30,23.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 13:30,23.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 14:30,23.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 15:30,22.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 16:30,22.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 17:30,21.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 18:30,21.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 19:30,22.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 20:30,23.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-19 21:30,23.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-18 22:30,0.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-18 23:30,0.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 00:30,,,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 01:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 02:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 03:30,0.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 04:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 05:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 07:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 08:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 10:30,0.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 11:30,0.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 12:30,0.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 13:30,0.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 14:30,0.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 15:30,0.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 16:30,0.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 17:30,0.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 18:30,0.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 19:30,0.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 20:30,0.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-19 21:30,0.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-18 23:30,,,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 00:30,4.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 01:30,2.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 02:30,4.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 03:30,4.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 04:30,6.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 05:30,7.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 06:30,8.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 07:30,10.4,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 08:30,12.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 09:30,13.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 10:30,13.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 11:30,15.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 12:30,16.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 13:30,16.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 14:30,16.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 15:30,15.6,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 16:30,15.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 17:30,15.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 18:30,14.8,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 19:30,14.0,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 20:30,13.2,Boa,True
+2026-01-19,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-01-19 21:30,12.4,Boa,True
