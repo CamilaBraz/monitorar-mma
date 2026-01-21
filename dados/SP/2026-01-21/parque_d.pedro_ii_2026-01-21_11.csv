@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-21 05:00,19.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-21 06:00,19.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 11:00,13.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 12:00,14.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 13:00,14.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 14:00,15.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 15:00,16.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 16:00,16.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 17:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 18:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 19:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 20:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 21:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-20 22:00,18.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 00:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 01:00,17.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 02:00,18.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 03:00,18.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 04:00,18.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2026-01-20 06:00,14.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2026-01-20 07:00,14.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2026-01-20 08:00,13.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2026-01-20 09:00,13.0,Boa,True
+2026-01-21,,3550308,35,SP,parque_d.pedro_ii,,,,20,O₃,Ozônio,2026-01-20 10:00,13.0,Boa,True
