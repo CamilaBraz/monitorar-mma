@@ -1,0 +1,132 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-21 20:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-21 21:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-21 22:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-21 23:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 00:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 01:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 02:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 03:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 04:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 05:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 06:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 07:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 08:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 09:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 10:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 11:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 12:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 13:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 14:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 15:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 16:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 17:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 18:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,5,CO,Monóxido de Carbono,2026-01-22 19:00,2.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 20:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 21:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 22:00,9.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-21 23:00,9.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 00:00,9.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 01:00,9.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 02:00,9.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 03:00,12.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 04:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 07:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 09:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 10:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 11:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 12:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 13:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 14:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 15:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 16:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 17:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 18:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-22 19:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-21 21:00,29.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-21 23:00,23.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 00:00,20.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 02:00,19.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 03:00,20.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 04:00,20.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 05:00,20.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 06:00,20.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 07:00,20.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 08:00,30.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 09:00,29.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 14:00,24.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 15:00,17.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-22 19:00,15.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-21 20:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-21 21:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-21 22:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-21 23:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 00:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 01:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 02:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 03:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 04:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 05:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 06:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 07:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 08:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 09:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 10:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 11:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 12:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 13:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 14:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 15:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 16:00,0.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 17:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 18:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-22 19:00,1.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-21 20:00,14.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-21 21:00,14.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-21 22:00,13.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-21 23:00,13.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 00:00,12.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 01:00,12.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 02:00,11.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 03:00,12.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 04:00,12.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 05:00,11.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 06:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 07:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 08:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 09:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 10:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 11:00,10.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 12:00,11.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 13:00,12.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 14:00,13.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 15:00,13.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 16:00,14.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 17:00,14.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 18:00,14.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,20,O₃,Ozônio,2026-01-22 19:00,13.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-21 20:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-21 21:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-21 22:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-21 23:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 00:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 01:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 02:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 03:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 04:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 05:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 06:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 07:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 08:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 09:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 10:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 11:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 12:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 13:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 14:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 15:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 16:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 17:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 18:00,8.0,Boa,True
+2026-01-22,,4106902,41,PR,jardim_das_americas,,,,23,SO₂,Dióxido de Enxofre,2026-01-22 19:00,8.0,Boa,True
