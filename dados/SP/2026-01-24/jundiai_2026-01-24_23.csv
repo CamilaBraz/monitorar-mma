@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-24,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2026-01-23 20:00,28.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2026-01-24 15:00,25.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2026-01-24 16:00,29.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2026-01-24 17:00,31.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2026-01-24 18:00,32.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,20,O₃,Ozônio,2026-01-24 19:00,31.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-23 21:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-23 22:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-23 23:00,24.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 00:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 01:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 02:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 03:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 04:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 05:00,24.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 06:00,27.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 07:00,24.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 08:00,24.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 09:00,21.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 10:00,21.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 11:00,21.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 12:00,21.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 13:00,21.0,Boa,True
+2026-01-24,,3525904,35,SP,jundiai,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-24 14:00,24.0,Boa,True
