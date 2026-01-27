@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 08:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 09:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 10:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 11:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 12:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 13:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 14:00,21.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-26 23:00,24.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 00:00,24.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 01:00,24.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 02:00,24.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 03:00,24.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 04:00,24.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 05:00,27.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 06:00,27.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-27 07:00,27.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 15:00,26.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 16:00,30.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 17:00,33.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 18:00,33.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 19:00,33.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 20:00,31.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 21:00,29.0,Boa,True
+2026-01-27,,3550308,35,SP,interlagos,,,,20,O₃,Ozônio,2026-01-26 22:00,26.0,Boa,True
