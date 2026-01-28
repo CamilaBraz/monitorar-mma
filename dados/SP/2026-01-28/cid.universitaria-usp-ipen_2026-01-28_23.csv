@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-27 20:00,35.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-27 21:00,30.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-27 22:00,23.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-28 15:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-28 16:00,30.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-28 17:00,32.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-28 18:00,33.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-01-28 19:00,33.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 05:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 06:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 07:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 08:00,29.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 09:00,29.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 10:00,29.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 11:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 12:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 13:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 14:00,27.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-27 23:00,21.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-28 00:00,20.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-28 01:00,17.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-28 02:00,20.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-28 03:00,19.0,Boa,True
+2026-01-28,,3550308,35,SP,cid.universitaria-usp-ipen,,,,18,NO₂,Dióxido de Nitrogênio,2026-01-28 04:00,18.0,Boa,True
