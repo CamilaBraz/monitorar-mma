@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,20,O₃,Ozônio,2026-01-29 15:00,22.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,20,O₃,Ozônio,2026-01-29 16:00,25.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,20,O₃,Ozônio,2026-01-29 17:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,20,O₃,Ozônio,2026-01-29 18:00,29.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 19:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 20:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 21:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 22:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-28 23:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 00:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 01:00,27.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 02:00,24.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 03:00,24.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 04:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 05:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 06:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 07:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 08:00,19.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 09:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 10:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 11:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 12:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 13:00,21.0,Boa,True
+2026-01-29,,3509502,35,SP,campinas-v.uniao,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 14:00,24.0,Boa,True
