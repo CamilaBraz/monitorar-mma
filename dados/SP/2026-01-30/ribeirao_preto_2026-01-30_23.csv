@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 08:00,16.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 09:00,16.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 10:00,16.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 11:00,16.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 12:00,16.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-29 13:00,16.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-30 11:00,13.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-01-30 19:00,13.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-29 14:00,18.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-29 15:00,20.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-29 16:00,23.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-29 17:00,24.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-29 18:00,25.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 07:00,15.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 08:00,14.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 09:00,14.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 10:00,14.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 12:00,14.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 13:00,14.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 14:00,14.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 15:00,15.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 16:00,15.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 17:00,15.0,Boa,True
+2026-01-30,,3543402,35,SP,ribeirao_preto,,,,20,O₃,Ozônio,2026-01-30 18:00,14.0,Boa,True
