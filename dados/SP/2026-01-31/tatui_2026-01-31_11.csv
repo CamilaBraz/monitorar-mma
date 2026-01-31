@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-01-31,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-31 06:00,10.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-01-31 07:00,11.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 08:00,18.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 09:00,18.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 10:00,17.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 11:00,17.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 12:00,18.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 13:00,18.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 14:00,20.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 15:00,21.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 16:00,22.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 17:00,23.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 18:00,24.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 19:00,24.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 20:00,24.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 21:00,23.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 22:00,21.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-30 23:00,20.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-31 00:00,18.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-31 01:00,16.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-31 02:00,14.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-31 03:00,13.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-31 04:00,11.0,Boa,True
+2026-01-31,,3554003,35,SP,tatui,,,,20,O₃,Ozônio,2026-01-31 05:00,10.0,Boa,True
