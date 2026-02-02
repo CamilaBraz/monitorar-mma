@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 06:00,52.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 07:00,52.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 08:00,50.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 09:00,49.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 10:00,47.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 11:00,46.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 12:00,46.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 13:00,47.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 14:00,47.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 15:00,48.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 16:00,48.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 17:00,50.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 18:00,50.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-02 19:00,49.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-01 20:00,86.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-01 21:00,86.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-01 22:00,86.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-01 23:00,87.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-02 00:00,88.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-02 01:00,88.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-02 02:00,83.0,Ruim,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-02 03:00,72.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-02 04:00,72.0,Moderada,True
+2026-02-02,,3513504,35,SP,cubatao-v.parisi,,,,23,SO₂,Dióxido de Enxofre,2026-02-02 05:00,64.0,Moderada,True
