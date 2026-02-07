@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-06 23:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 00:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 01:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 02:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 03:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 04:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 05:00,19.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 06:00,21.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 07:00,21.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 08:00,21.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 09:00,21.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 10:00,24.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 11:00,24.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 12:00,24.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 13:00,24.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 14:00,24.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 15:00,27.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 16:00,27.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 17:00,27.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 18:00,27.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-07 19:00,27.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-02-06 20:00,37.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-02-06 21:00,31.0,Boa,True
+2026-02-07,,3550308,35,SP,cid.universitaria-usp-ipen,,,,20,O₃,Ozônio,2026-02-06 22:00,24.0,Boa,True
