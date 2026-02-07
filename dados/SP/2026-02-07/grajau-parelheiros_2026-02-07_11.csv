@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 08:00,7.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 09:00,7.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 10:00,7.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 11:00,8.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 12:00,9.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 13:00,12.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 14:00,15.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 15:00,16.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 16:00,17.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 17:00,17.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 18:00,17.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 19:00,17.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 20:00,15.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 21:00,11.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 22:00,8.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-06 23:00,6.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-07 00:00,5.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-07 01:00,4.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-07 02:00,2.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-07 06:00,2.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-07 07:00,3.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,5,CO,Monóxido de Carbono,2026-02-07 03:00,2.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,5,CO,Monóxido de Carbono,2026-02-07 04:00,2.0,Boa,True
+2026-02-07,,3550308,35,SP,grajau-parelheiros,,,,5,CO,Monóxido de Carbono,2026-02-07 05:00,2.0,Boa,True
