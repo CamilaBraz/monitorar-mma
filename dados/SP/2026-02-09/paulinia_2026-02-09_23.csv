@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-08 04:00,12.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-08 05:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-08 06:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-08 07:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-09 15:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-09 16:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-09 17:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-09 18:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-09 19:00,11.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 08:00,23.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 09:00,22.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 10:00,22.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 11:00,22.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 12:00,23.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 13:00,24.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-08 14:00,25.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 07:00,15.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 08:00,14.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 09:00,15.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 10:00,15.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 11:00,16.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 12:00,16.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 13:00,18.0,Boa,True
+2026-02-09,,3536505,35,SP,paulinia,,,,20,O₃,Ozônio,2026-02-09 14:00,20.0,Boa,True
