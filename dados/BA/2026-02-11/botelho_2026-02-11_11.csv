@@ -1,0 +1,87 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 08:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 09:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 10:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 11:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 12:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 13:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 14:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 15:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 16:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 17:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 18:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 19:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 20:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 21:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 22:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-10 23:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-11 00:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-11 01:00,0.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,5,CO,Monóxido de Carbono,2026-02-11 07:00,0.89,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 08:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 09:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 10:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 11:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 12:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 13:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 14:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 15:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 16:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 17:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 18:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 19:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 20:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 21:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 22:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-10 23:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 00:00,2.64,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 01:00,2.38,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 02:00,2.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 03:00,2.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 04:00,2.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 05:00,2.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 06:00,2.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,18,NO₂,Dióxido de Nitrogênio,2026-02-11 07:00,2.1,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 08:00,23.44,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 09:00,21.52,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 10:00,19.48,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 11:00,18.12,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 12:00,16.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 13:00,13.8,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 14:00,11.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 15:00,10.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 16:00,9.56,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 17:00,8.84,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 18:00,8.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 19:00,7.36,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 20:00,6.36,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 21:00,5.56,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 22:00,5.56,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-10 23:00,5.56,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-11 00:00,5.56,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-11 01:00,5.56,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,20,O₃,Ozônio,2026-02-11 07:00,13.24,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 08:00,10.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 09:00,10.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 10:00,10.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 11:00,10.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 12:00,10.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 13:00,10.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 14:00,10.5,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 15:00,10.5,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 16:00,10.5,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 17:00,10.5,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 18:00,10.4,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 19:00,10.4,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 20:00,10.4,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 21:00,10.3,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 22:00,10.1,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-10 23:00,10.0,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 00:00,9.7,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 01:00,9.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 02:00,9.5,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 03:00,9.4,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 04:00,9.4,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 05:00,9.5,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 06:00,9.6,Boa,True
+2026-02-11,,2927408,29,BA,botelho,26.0,94.0,0.0,23,SO₂,Dióxido de Enxofre,2026-02-11 07:00,10.0,Boa,True
