@@ -1,0 +1,65 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-11 19:00,4.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-11 20:00,4.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-11 21:00,4.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-11 22:00,4.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-11 23:00,4.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 00:00,4.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 01:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 02:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 03:00,3.111,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 04:00,3.111,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 05:00,2.667,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 06:00,3.111,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 07:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 08:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 09:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 10:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 11:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 12:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 13:00,3.556,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 14:00,3.111,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 15:00,2.667,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 16:00,2.667,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 17:00,2.667,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,5,CO,Monóxido de Carbono,2026-02-12 18:00,2.667,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-11 19:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-11 20:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-11 21:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-11 22:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-11 23:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 00:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 01:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 02:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 03:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 04:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 05:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 06:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 08:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 09:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 10:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 11:00,11.2,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 12:00,11.2,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 13:00,11.2,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 14:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 15:00,12.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 16:00,11.2,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 17:00,11.2,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-12 18:00,11.2,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-11 20:00,8.0,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-11 22:00,8.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-11 23:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 00:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 01:00,10.4,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 03:00,10.4,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 04:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 05:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 07:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 08:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 09:00,10.4,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 11:00,10.4,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 12:00,10.4,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 13:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 15:00,9.6,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 16:00,8.8,Boa,True
+2026-02-12,,3129806,31,MG,piratininga,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-12 17:00,8.8,Boa,True
