@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 11:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 12:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 13:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 14:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 15:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 16:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 17:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 18:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 19:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 20:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 21:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 22:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-15 23:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 00:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 01:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 02:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 03:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 04:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 05:30,4.444,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 06:30,4.889,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 07:30,4.889,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 08:30,4.889,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 09:30,4.889,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,5,CO,Monóxido de Carbono,2026-02-16 10:30,4.889,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 11:30,0.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 12:30,1.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 13:30,1.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 14:30,1.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 15:30,4.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 16:30,3.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 17:30,1.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 18:30,5.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 19:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 20:30,0.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 21:30,0.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 22:30,0.8,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-15 23:30,1.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 00:30,,,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 01:30,2.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 02:30,1.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 03:30,1.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 04:30,1.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 05:30,1.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 06:30,0.8,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 07:30,1.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 08:30,1.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 09:30,1.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-16 10:30,1.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 11:30,13.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 12:30,13.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 13:30,13.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 14:30,14.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 15:30,14.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 16:30,13.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 17:30,14.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 18:30,14.8,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 19:30,15.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 20:30,15.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 21:30,15.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 22:30,15.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-15 23:30,15.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 00:30,12.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 01:30,13.6,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 02:30,12.8,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 03:30,11.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 04:30,10.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 05:30,8.8,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 06:30,7.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 07:30,6.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 08:30,5.2,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 09:30,4.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,20,O₃,Ozônio,2026-02-16 10:30,4.4,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 11:30,2.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 12:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 13:30,4.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 14:30,6.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 15:30,18.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 16:30,22.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 17:30,24.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 18:30,38.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 19:30,45.105,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 20:30,45.105,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 21:30,45.105,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 22:30,45.105,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-15 23:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 00:30,25.0,Boa,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 01:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 02:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 03:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 04:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 05:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 06:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 07:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 08:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 09:30,47.158,Moderada,True
+2026-02-16,,4218707,42,SC,estacao_vila_moema,,,,23,SO₂,Dióxido de Enxofre,2026-02-16 10:30,47.158,Moderada,True
