@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-15 17:00,21.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-15 18:00,21.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-15 19:00,20.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-15 20:00,19.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-15 21:00,17.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-16 17:00,20.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-16 18:00,21.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,20,O₃,Ozônio,2026-02-16 19:00,21.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 01:00,16.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 02:00,16.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 03:00,16.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 04:00,15.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 05:00,15.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 06:00,15.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 07:00,15.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 08:00,14.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 09:00,15.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 10:00,16.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 11:00,17.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 12:00,18.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 13:00,18.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 14:00,18.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 15:00,18.0,Boa,True
+2026-02-16,,3548500,35,SP,santos,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-16 16:00,19.0,Boa,True
