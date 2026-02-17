@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 00:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 01:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 02:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 03:00,27.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 04:00,27.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 05:00,27.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 06:00,27.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 07:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 08:00,27.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 09:00,27.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 10:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 11:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 12:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 13:00,29.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 19:00,102.0,Ruim,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 20:00,102.0,Ruim,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-16 22:00,106.0,Ruim,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-17 00:00,107.0,Ruim,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-17 01:00,109.0,Ruim,True
+2026-02-17,,3550308,35,SP,mooca,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-17 05:00,131.0,Muito ruim,True
+2026-02-17,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2026-02-16 14:00,33.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2026-02-16 15:00,40.0,Boa,True
+2026-02-17,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2026-02-16 16:00,62.0,Moderada,True
+2026-02-17,,3550308,35,SP,mooca,,,,20,O₃,Ozônio,2026-02-16 17:00,83.0,Ruim,True
