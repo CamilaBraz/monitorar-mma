@@ -1,0 +1,17 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 10:00,39.0,Boa,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 11:00,41.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 13:00,41.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 14:00,41.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 16:00,38.0,Boa,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 17:00,38.0,Boa,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 18:00,45.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 19:00,45.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 20:00,42.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 21:00,43.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 22:00,43.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-20 23:00,44.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-21 00:00,45.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-21 01:00,45.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-21 06:00,44.0,Moderada,True
+2026-02-21,,4105805,41,PR,estacao_movel_iap,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-21 07:00,43.0,Moderada,True
