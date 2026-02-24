@@ -1,0 +1,41 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-23 19:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-23 20:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-23 22:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-23 23:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 00:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 01:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 02:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 04:00,16.0,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 05:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 06:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 07:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 08:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 09:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 10:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 11:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 12:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 13:00,16.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 14:00,17.6,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 15:00,17.6,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 16:00,17.6,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 17:00,18.4,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 18:00,18.4,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 19:00,19.2,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-24 20:00,19.2,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-23 19:00,12.0,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-23 20:00,11.2,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-23 22:00,10.4,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-23 23:00,10.0,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 00:00,9.2,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 01:00,8.0,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 02:00,6.8,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 04:00,5.6,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 05:00,5.2,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 08:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 09:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 10:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 11:00,5.6,Boa,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 18:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 19:00,,,True
+2026-02-24,,3304557,33,RJ,pedra_de_guaratiba,20.0,,0.0,20,O₃,Ozônio,2026-02-24 20:00,,,True
