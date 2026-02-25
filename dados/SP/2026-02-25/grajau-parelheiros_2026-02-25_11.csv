@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 08:00,16.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 09:00,16.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 10:00,19.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 11:00,19.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 12:00,21.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 13:00,24.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 14:00,24.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 20:00,29.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 21:00,29.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 22:00,32.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-24 23:00,32.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 00:00,32.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 01:00,32.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 02:00,32.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 03:00,35.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 04:00,35.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 05:00,35.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 06:00,35.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-25 07:00,35.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-24 15:00,28.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-24 16:00,31.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-24 17:00,33.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-24 18:00,33.0,Boa,True
+2026-02-25,,3550308,35,SP,grajau-parelheiros,,,,20,O₃,Ozônio,2026-02-24 19:00,31.0,Boa,True
