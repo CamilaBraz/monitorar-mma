@@ -1,0 +1,52 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 15:00,2.222,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 16:00,2.222,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 17:00,1.778,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 18:00,1.778,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 19:00,1.778,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 20:00,1.778,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 21:00,1.778,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 22:00,2.222,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-26 23:00,2.667,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 00:00,2.667,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 01:00,3.111,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 02:00,3.556,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 03:00,3.111,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 04:00,3.111,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 05:00,3.111,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,5,CO,Monóxido de Carbono,2026-02-27 06:00,3.111,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-26 17:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-26 19:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-26 20:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-26 22:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-26 23:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 00:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 01:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 05:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 06:00,,,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 15:00,11.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 16:00,11.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 17:00,10.8,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 18:00,9.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 20:00,8.8,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 22:00,8.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-26 23:00,7.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-27 00:00,6.8,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-27 01:00,6.4,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-27 02:00,7.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-27 04:00,7.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-27 05:00,7.2,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,20,O₃,Ozônio,2026-02-27 06:00,8.8,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-26 18:00,20.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-26 19:00,18.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-26 20:00,18.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-26 21:00,20.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-26 22:00,20.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-26 23:00,20.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 00:00,22.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 01:00,22.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 02:00,22.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 03:00,22.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 04:00,22.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 05:00,22.0,Boa,True
+2026-02-27,,5008305,50,MS,estacao_de_monitoramento_-_suzano_tls1-vcptl_-_tres_lagoas,,,1.0,23,SO₂,Dióxido de Enxofre,2026-02-27 06:00,22.0,Boa,True
