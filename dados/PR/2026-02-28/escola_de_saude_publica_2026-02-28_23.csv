@@ -1,0 +1,137 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-27 20:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-27 21:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-27 22:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-27 23:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 00:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 01:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 02:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 03:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 04:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 05:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 06:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 07:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 08:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 09:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 10:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 11:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 12:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 13:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 14:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 15:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 16:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 17:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 18:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,5,CO,Monóxido de Carbono,2026-02-28 19:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 20:00,11.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 21:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 22:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 23:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 00:00,14.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 01:00,14.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 02:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 04:00,14.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 05:00,14.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 06:00,15.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 07:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 08:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 11:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 12:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 13:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 14:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 15:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 16:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 17:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 18:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 19:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 21:00,21.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 22:00,22.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 23:00,22.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 00:00,22.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 01:00,21.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 02:00,21.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 03:00,21.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 04:00,21.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 05:00,22.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 06:00,23.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 08:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 10:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 11:00,25.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 14:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 15:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 16:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 17:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 18:00,24.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 19:00,25.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-27 20:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-27 21:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-27 22:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-27 23:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 00:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 01:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 02:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 03:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 04:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 05:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 06:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 07:00,2.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 08:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 09:00,1.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 10:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 11:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 12:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 13:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 14:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 15:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 16:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 17:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 18:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,18,NO₂,Dióxido de Nitrogênio,2026-02-28 19:00,0.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-27 20:00,17.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-27 21:00,17.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-27 22:00,17.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-27 23:00,16.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 00:00,16.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 01:00,15.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 02:00,14.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 03:00,13.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 04:00,12.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 05:00,10.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 06:00,8.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 07:00,7.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 08:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 09:00,7.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 10:00,8.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 11:00,8.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 12:00,9.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 13:00,11.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 14:00,14.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 15:00,15.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 16:00,16.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 17:00,17.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 18:00,17.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,20,O₃,Ozônio,2026-02-28 19:00,17.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-27 20:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-27 21:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-27 22:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-27 23:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 00:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 01:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 02:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 03:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 04:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 05:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 06:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 07:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 08:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 09:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 10:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 11:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 12:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 13:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 14:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 15:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 16:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 17:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 18:00,6.0,Boa,True
+2026-02-28,,4106902,41,PR,escola_de_saude_publica,,,,23,SO₂,Dióxido de Enxofre,2026-02-28 19:00,6.0,Boa,True

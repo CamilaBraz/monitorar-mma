@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-27 19:30,1.333,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-27 20:30,1.333,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-27 21:30,1.333,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-27 22:30,1.333,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-27 23:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 00:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 01:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 02:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 03:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 04:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 05:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 06:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 07:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 08:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 09:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 10:30,0.889,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 11:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 12:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 13:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 14:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 15:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 16:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 17:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,5,CO,Monóxido de Carbono,2026-02-28 18:30,0.444,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 19:30,12.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 20:30,12.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 21:30,12.8,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 22:30,12.8,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-27 23:30,13.6,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 00:30,13.6,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 01:30,14.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 02:30,14.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 03:30,14.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 04:30,15.2,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 05:30,15.2,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 06:30,16.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 07:30,16.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 08:30,15.2,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 09:30,15.2,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 10:30,14.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 11:30,14.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 12:30,13.6,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 13:30,13.6,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 14:30,12.8,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 15:30,12.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 16:30,12.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 17:30,11.2,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-02-28 18:30,11.2,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 19:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 20:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 21:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 22:30,6.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 23:30,6.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 00:30,6.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 01:30,6.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 02:30,6.4,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 03:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 04:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 05:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 06:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 07:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 08:30,9.6,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 09:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 10:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 11:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 12:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 13:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 14:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 15:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 16:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 17:30,8.0,Boa,True
+2026-02-28,,3131307,31,MG,cariru,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 18:30,8.0,Boa,True
