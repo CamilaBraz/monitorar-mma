@@ -1,0 +1,14 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-26 17:00,17.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-26 18:00,20.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-26 19:00,24.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-26 22:00,30.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-26 23:00,29.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 01:00,25.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 02:00,22.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 03:00,31.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 04:00,29.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 09:00,37.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-27 13:00,46.0,Moderada,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 05:00,35.0,Boa,True
+2026-02-28,,4115200,41,PR,maringa_iat,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-02-28 07:00,35.0,Boa,True
