@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-02 21:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-02 22:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-02 23:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 00:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 01:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 02:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 03:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 04:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 05:00,2.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 06:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 07:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 08:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 09:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 10:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 11:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 12:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 13:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 14:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 15:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 16:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 17:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 18:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 19:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,5,CO,Monóxido de Carbono,2026-03-03 20:00,3.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-02 21:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-02 22:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-02 23:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 00:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 01:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 02:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 03:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 04:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 05:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 06:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 07:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 08:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 09:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 10:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 11:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 12:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 13:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 14:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 15:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 16:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 17:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 18:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 19:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,18,NO₂,Dióxido de Nitrogênio,2026-03-03 20:00,1.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-02 21:00,10.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-02 22:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-02 23:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 00:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 01:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 02:00,10.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 03:00,10.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 04:00,10.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 05:00,10.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 06:00,11.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 07:00,10.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 08:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 09:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 10:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 11:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 12:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 13:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 14:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 15:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 16:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 17:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 18:00,9.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 19:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,20,O₃,Ozônio,2026-03-03 20:00,8.0,Boa,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-02 21:00,60.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-02 22:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-02 23:00,60.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 00:00,60.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 01:00,60.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 02:00,60.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 03:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 04:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 05:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 06:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 07:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 08:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 09:00,61.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 10:00,63.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 11:00,81.0,Ruim,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 12:00,81.0,Ruim,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 13:00,83.0,Ruim,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 14:00,83.0,Ruim,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 15:00,83.0,Ruim,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 16:00,81.0,Ruim,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 17:00,72.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 18:00,65.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 19:00,63.0,Moderada,True
+2026-03-03,,2607208,26,PE,edcupe,,,,23,SO₂,Dióxido de Enxofre,2026-03-03 20:00,62.0,Moderada,True

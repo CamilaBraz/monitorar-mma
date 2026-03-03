@@ -1,0 +1,66 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-02 18:00,3.556,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-02 19:00,3.556,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-02 20:00,3.556,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-02 21:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-02 22:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-02 23:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 00:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 01:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 02:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 03:00,3.556,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 04:00,3.556,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 05:00,3.556,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 06:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 07:00,4.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 13:00,,,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 14:00,,,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 16:00,,,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 17:00,,,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,5,CO,Monóxido de Carbono,2026-03-03 18:00,,,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-02 18:00,44.184,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-02 19:00,44.184,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-02 20:00,44.98,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-02 21:00,44.98,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-02 22:00,44.98,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-02 23:00,45.776,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 00:00,45.776,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 01:00,45.776,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 02:00,45.776,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 03:00,45.776,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 04:00,46.571,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 05:00,46.571,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 07:00,47.367,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 08:00,47.367,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 09:00,47.367,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 10:00,47.367,Moderada,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 11:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 12:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 13:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 14:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 16:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 17:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-03-03 18:00,13.6,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-02 18:00,6.4,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-02 19:00,6.4,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-02 20:00,6.4,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-02 21:00,6.4,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-02 22:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-02 23:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 00:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 01:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 02:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 03:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 04:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 05:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 07:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 08:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 09:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 10:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 11:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 12:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 13:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 14:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 16:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 17:00,8.0,Boa,True
+2026-03-03,,3106200,31,MG,centro_av._do_contorno,,,,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-03-03 18:00,9.6,Boa,True
