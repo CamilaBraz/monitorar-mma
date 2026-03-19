@@ -1,0 +1,25 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 06:00,10.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 07:00,8.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 09:00,6.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 10:00,6.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 11:00,9.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 12:00,16.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 13:00,26.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 14:00,39.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 15:00,74.0,Moderada,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 16:00,101.0,Ruim,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 17:00,126.0,Muito ruim,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 18:00,146.0,Muito ruim,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 19:00,146.0,Muito ruim,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 20:00,124.0,Muito ruim,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 21:00,93.0,Ruim,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-18 22:00,61.0,Moderada,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 00:00,30.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 01:00,23.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 02:00,19.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 03:00,15.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 04:00,12.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 05:00,8.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 06:00,6.0,Boa,True
+2026-03-19,,3550308,35,SP,capao_redondo,,,,20,O₃,Ozônio,2026-03-19 07:00,3.0,Boa,True
