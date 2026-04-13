@@ -1,0 +1,43 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 03:30,8.4,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 04:30,7.2,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 05:30,6.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 06:30,5.2,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 07:30,4.8,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 08:30,4.4,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 09:30,4.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 10:30,4.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 11:30,4.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 12:30,4.4,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 13:30,5.2,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 14:30,6.4,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 15:30,7.6,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 16:30,8.4,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 17:30,9.6,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 18:30,10.8,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 19:30,11.2,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 20:30,11.6,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 21:30,11.6,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 22:30,11.2,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-10 23:30,10.4,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-11 00:30,8.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-11 01:30,8.8,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-04-11 02:30,8.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 03:30,22.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 04:30,20.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 05:30,20.0,Boa,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 12:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 13:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 14:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 15:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 16:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 17:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 18:30,,,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 19:30,82.685,Ruim,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 20:30,82.324,Ruim,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 21:30,81.963,Ruim,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 22:30,81.963,Ruim,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-10 23:30,81.963,Ruim,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-11 00:30,60.0,Moderada,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-11 01:30,81.241,Ruim,True
+2026-04-13,,4203956,42,SC,estacao_capivari_de_baixo,,,,23,SO₂,Dióxido de Enxofre,2026-04-11 02:30,81.241,Ruim,True
