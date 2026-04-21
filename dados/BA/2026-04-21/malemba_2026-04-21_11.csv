@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 08:00,2.1,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 09:00,2.1,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 10:00,2.1,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 11:00,1.8,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 12:00,1.8,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 13:00,1.8,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 14:00,1.74,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 15:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 16:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 17:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 18:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 19:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 20:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 21:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 22:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-20 23:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 00:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 01:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 02:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 03:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 04:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 05:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 06:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,18,NO₂,Dióxido de Nitrogênio,2026-04-21 07:00,2.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 08:00,24.92,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 09:00,24.92,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 10:00,24.92,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 11:00,19.6,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 12:00,19.6,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 13:00,15.68,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 14:00,11.32,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 15:00,12.4,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 16:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 17:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 18:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 19:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 20:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 21:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 22:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-20 23:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 00:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 01:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 02:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 03:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 04:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 05:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 06:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,20,O₃,Ozônio,2026-04-21 07:00,13.16,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 08:00,8.7,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 09:00,8.6,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 10:00,8.7,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 11:00,8.4,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 12:00,8.4,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 13:00,8.7,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 14:00,9.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 15:00,10.4,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 16:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 17:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 18:00,10.1,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 19:00,10.1,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 20:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 21:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 22:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-20 23:00,9.9,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 00:00,9.8,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 01:00,9.9,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 02:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 03:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 04:00,10.0,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 05:00,9.9,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 06:00,9.8,Boa,True
+2026-04-21,,2906501,29,BA,malemba,,,,23,SO₂,Dióxido de Enxofre,2026-04-21 07:00,9.7,Boa,True
