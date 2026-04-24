@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 09:00,24.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 10:00,23.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 11:00,23.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 12:00,24.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 13:00,24.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 14:00,24.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 15:00,24.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 16:00,23.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 17:00,23.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 18:00,23.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 19:00,22.4,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 20:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 21:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 22:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-23 23:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 00:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 01:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 02:00,20.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 03:00,20.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 04:00,20.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 05:00,20.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 06:00,20.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 07:00,20.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-24 08:00,20.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 09:00,9.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 10:00,13.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 11:00,16.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 12:00,13.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 13:00,9.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 14:00,8.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 15:00,7.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 16:00,7.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 17:00,7.4,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 18:00,7.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 19:00,6.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 20:00,6.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 21:00,8.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 22:00,9.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-23 23:00,7.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 00:00,7.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 01:00,6.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 02:00,5.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 03:00,5.4,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 04:00,6.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 05:00,6.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 06:00,7.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 07:00,9.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-04-24 08:00,11.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 09:00,14.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 10:00,14.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 11:00,14.4,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 12:00,15.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 13:00,16.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 14:00,18.4,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 15:00,20.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 16:00,21.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 17:00,22.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 18:00,22.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 19:00,23.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 20:00,22.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 21:00,21.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 22:00,19.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-23 23:00,17.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 00:00,16.0,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 01:00,15.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 02:00,14.8,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 03:00,14.4,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 04:00,13.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 05:00,13.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 06:00,13.6,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 07:00,13.2,Boa,True
+2026-04-24,,3304557,33,RJ,tijuca,23.0,,0.0,20,O₃,Ozônio,2026-04-24 08:00,12.8,Boa,True
