@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-25 22:30,8.4,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-25 23:30,8.8,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 00:30,9.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 01:30,9.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 02:30,8.8,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 03:30,8.8,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 04:30,8.4,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 05:30,8.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 06:30,8.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 07:30,7.2,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 08:30,6.4,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 09:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 10:30,5.6,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 11:30,5.2,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 12:30,4.8,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 13:30,4.4,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 14:30,4.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 15:30,4.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 16:30,4.4,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 17:30,4.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 18:30,4.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 19:30,4.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 20:30,4.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-04-26 21:30,3.6,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-25 22:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-25 23:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 00:30,3.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 01:30,3.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 02:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 03:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 04:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 05:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 06:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 07:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 08:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 09:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 10:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 11:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 12:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 13:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 14:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 15:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 16:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 17:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 18:30,6.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 19:30,10.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 20:30,20.0,Boa,True
+2026-04-26,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-04-26 21:30,20.0,Boa,True
