@@ -1,0 +1,97 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 16:00,17.42,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 17:00,17.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 18:00,17.24,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 19:00,17.16,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 20:00,16.36,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 21:00,15.64,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 22:00,14.58,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-27 23:00,13.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 00:00,12.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 01:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 02:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 03:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 04:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 05:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 06:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 07:00,10.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 08:00,22.93,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 09:00,22.67,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 10:00,23.11,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 11:00,23.47,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 12:00,23.73,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 13:00,24.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 14:00,24.09,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-04-28 15:00,24.09,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 16:00,7.47,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 17:00,7.2,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 18:00,6.67,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 19:00,6.67,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 20:00,6.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 21:00,6.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 22:00,6.13,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-27 23:00,5.87,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 00:00,5.07,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 01:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 02:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 03:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 04:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 05:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 06:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 07:00,4.0,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 08:00,8.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 09:00,8.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 10:00,9.07,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 11:00,9.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 12:00,9.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 13:00,9.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 14:00,9.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-04-28 15:00,9.33,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 16:00,1.5,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 17:00,1.5,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 18:00,1.5,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 19:00,1.44,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 20:00,1.44,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 21:00,1.16,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 22:00,0.84,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-27 23:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 00:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 01:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 02:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 03:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 04:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 05:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 06:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 07:00,0.8,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 08:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 09:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 10:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 11:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 12:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 13:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 14:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,18,NO₂,Dióxido de Nitrogênio,2026-04-28 15:00,4.18,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 16:00,0.7,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 17:00,0.7,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 18:00,0.6,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 19:00,0.6,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 20:00,0.5,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 21:00,0.5,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 22:00,0.5,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-27 23:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 00:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 01:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 02:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 03:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 04:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 05:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 06:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 07:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 08:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 09:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 10:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 11:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 12:00,0.4,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 13:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 14:00,0.3,Boa,True
+2026-04-29,,2910057,29,BA,leandrinho,,,3.0,23,SO₂,Dióxido de Enxofre,2026-04-28 15:00,0.3,Boa,True
