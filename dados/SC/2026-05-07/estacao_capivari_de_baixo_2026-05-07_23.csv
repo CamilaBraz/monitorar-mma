@@ -1,0 +1,46 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-05 20:30,16.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-05 21:30,18.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-05 23:30,19.2,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-06 00:30,23.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 00:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 05:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 06:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 07:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 08:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 09:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 10:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 11:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 12:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 13:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 14:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 15:30,31.2,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 16:30,31.2,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 17:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 18:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 19:30,32.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 20:30,32.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 21:30,32.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 22:30,31.2,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-05-07 23:30,30.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-05 20:30,,,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 00:30,4.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 05:30,4.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 06:30,4.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 07:30,4.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 08:30,4.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 09:30,4.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 10:30,4.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 11:30,4.4,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 12:30,4.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 13:30,4.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 14:30,3.6,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 15:30,4.0,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 16:30,3.6,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 17:30,3.2,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 18:30,2.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 19:30,2.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 20:30,2.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 21:30,2.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 22:30,2.8,Boa,True
+2026-05-07,,4203956,42,SC,estacao_capivari_de_baixo,,,,20,O₃,Ozônio,2026-05-07 23:30,2.8,Boa,True
