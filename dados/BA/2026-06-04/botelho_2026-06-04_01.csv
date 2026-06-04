@@ -1,0 +1,111 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-02 22:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-02 23:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 00:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 01:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 07:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 08:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 09:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 10:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 11:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 12:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 13:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 14:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 15:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 16:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 17:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 18:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 19:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 20:00,0.0,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,5,CO,Monóxido de Carbono,2026-06-03 21:00,0.0,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-02 22:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-02 23:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 00:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 01:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 02:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 03:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 04:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 05:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 06:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 07:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 08:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 09:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 10:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 11:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 12:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 13:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 14:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 15:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 16:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 17:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 18:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 19:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 20:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-03 21:00,0.89,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-02 22:00,2.88,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-02 23:00,2.88,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 00:00,2.88,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 01:00,2.88,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 02:00,2.88,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 03:00,2.88,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 04:00,0.86,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 05:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 06:00,0.44,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 07:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 08:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 09:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 10:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 11:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 12:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 13:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 14:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 15:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 16:00,3.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 17:00,2.48,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 18:00,2.48,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 19:00,2.48,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 20:00,2.24,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,18,NO₂,Dióxido de Nitrogênio,2026-06-03 21:00,2.24,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-02 22:00,7.6,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-02 23:00,7.6,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 00:00,7.6,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 01:00,7.6,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 07:00,12.64,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 08:00,12.64,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 09:00,12.36,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 10:00,12.08,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 11:00,11.48,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 12:00,10.24,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 13:00,9.76,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 14:00,9.76,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 15:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 16:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 17:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 18:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 19:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 20:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,20,O₃,Ozônio,2026-06-03 21:00,11.56,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-02 22:00,5.7,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-02 23:00,5.7,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 00:00,5.8,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 01:00,5.8,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 02:00,5.8,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 03:00,5.8,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 04:00,5.7,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 05:00,5.9,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 06:00,5.6,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 07:00,6.1,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 08:00,6.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 09:00,6.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 10:00,6.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 11:00,6.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 12:00,6.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 13:00,6.3,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 14:00,6.3,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 15:00,7.1,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 16:00,7.1,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 17:00,7.2,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 18:00,7.3,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 19:00,7.4,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 20:00,7.5,Boa,True
+2026-06-04,,2927408,29,BA,botelho,26.0,95.0,1.0,23,SO₂,Dióxido de Enxofre,2026-06-03 21:00,7.6,Boa,True
