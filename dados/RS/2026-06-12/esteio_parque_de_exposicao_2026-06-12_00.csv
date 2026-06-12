@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 16:00,3.2,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 17:00,3.2,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 18:00,3.2,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 19:00,3.2,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 20:00,2.8,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 21:00,2.4,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 22:00,2.4,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-10 23:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 00:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 01:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 02:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 03:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 04:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 05:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 06:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 07:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 08:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 09:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 10:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 11:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 12:00,1.6,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 13:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 14:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,20,O₃,Ozônio,2026-06-11 15:00,2.4,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 16:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 17:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 18:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 19:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 20:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 21:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 22:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-10 23:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 00:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 01:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 02:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 03:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 04:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 05:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 06:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 07:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 08:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 09:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 10:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 11:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 12:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 13:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 14:00,2.0,Boa,True
+2026-06-12,,4307708,43,RS,esteio_parque_de_exposicao,,,,23,SO₂,Dióxido de Enxofre,2026-06-11 15:00,2.0,Boa,True
