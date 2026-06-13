@@ -1,0 +1,144 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-11 21:00,3.556,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-11 22:00,4.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-11 23:00,4.444,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 00:00,4.889,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 01:00,5.333,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 02:00,5.333,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 03:00,5.778,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 04:00,5.778,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 05:00,5.778,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 06:00,5.778,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 07:00,5.333,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 08:00,4.889,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 09:00,4.889,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 10:00,4.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 11:00,4.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 13:00,3.556,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 14:00,3.111,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 15:00,2.667,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 16:00,2.667,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 17:00,2.667,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 18:00,3.111,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 19:00,3.556,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 20:00,3.556,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-12 21:00,4.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-11 21:00,34.667,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-11 22:00,35.556,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-11 23:00,37.333,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 00:00,39.111,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 01:00,41.0,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 02:00,41.722,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 03:00,43.167,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 04:00,43.167,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 05:00,43.889,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 06:00,44.611,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 07:00,45.333,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 08:00,45.333,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 09:00,46.056,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 10:00,46.056,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 11:00,46.056,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 13:00,47.5,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 14:00,48.222,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 15:00,48.222,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 16:00,49.667,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 17:00,48.222,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 18:00,47.5,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 19:00,46.778,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 20:00,45.333,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-12 21:00,43.889,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-11 21:00,53.618,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-11 22:00,55.912,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-11 23:00,58.206,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 00:00,60.5,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 01:00,61.647,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 02:00,62.794,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 03:00,63.941,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 04:00,63.941,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 05:00,65.088,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 06:00,65.088,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 07:00,65.088,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 08:00,66.235,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 09:00,66.235,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 10:00,66.235,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 11:00,66.235,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 13:00,67.382,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 14:00,68.529,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 15:00,67.382,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 16:00,67.382,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 17:00,65.088,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 18:00,63.941,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 19:00,62.794,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 20:00,61.647,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-06-12 21:00,59.353,Moderada,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-11 21:00,16.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-11 22:00,16.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-11 23:00,13.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 00:00,12.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 01:00,11.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 02:00,9.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 03:00,8.2,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 04:00,7.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 05:00,6.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 06:00,7.2,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 07:00,7.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 08:00,7.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 09:00,10.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 10:00,8.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 11:00,8.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 13:00,12.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 14:00,14.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 15:00,8.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 16:00,9.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 17:00,12.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 18:00,12.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 19:00,11.2,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 20:00,11.2,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-12 21:00,10.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-11 21:00,10.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-11 22:00,8.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-11 23:00,6.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 00:00,2.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 01:00,1.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 02:00,1.2,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 03:00,0.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 04:00,0.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 05:00,0.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 06:00,0.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 07:00,0.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 08:00,0.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 09:00,0.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 10:00,2.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 11:00,4.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 13:00,7.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 14:00,11.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 15:00,13.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 16:00,14.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 17:00,14.4,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 18:00,13.2,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 19:00,10.8,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,20,O₃,Ozônio,2026-06-12 21:00,7.6,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-11 21:00,20.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-11 22:00,19.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-11 23:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 00:00,17.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 01:00,17.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 02:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 03:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 04:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 05:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 06:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 07:00,18.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 08:00,19.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 09:00,20.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 10:00,22.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 11:00,24.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 13:00,26.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 14:00,27.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 15:00,29.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 16:00,28.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 17:00,27.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 18:00,26.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 19:00,26.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 20:00,25.0,Boa,True
+2026-06-13,,3304557,33,RJ,iraja,20.0,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-12 21:00,24.0,Boa,True
