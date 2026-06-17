@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 11:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 12:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 13:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 14:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 15:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 16:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 17:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 18:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 19:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 20:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 21:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 22:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-16 23:00,1.778,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 00:00,1.778,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 01:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 02:00,1.333,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 03:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 04:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 05:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 06:00,0.444,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 07:00,0.444,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 08:00,0.444,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 09:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,5,CO,Monóxido de Carbono,2026-06-17 10:00,0.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 11:00,16.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 12:00,16.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 13:00,14.222,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 14:00,12.444,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 15:00,11.556,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 16:00,10.667,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 17:00,9.778,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 18:00,8.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 19:00,9.778,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 20:00,9.778,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 21:00,8.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 22:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-16 23:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 00:00,7.111,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 01:00,7.111,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 02:00,7.111,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 03:00,7.111,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 04:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 05:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 06:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 07:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 08:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 09:00,8.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-17 10:00,8.889,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 11:00,14.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 12:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 13:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 14:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 15:00,14.4,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 16:00,14.8,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 17:00,15.2,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 18:00,15.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 19:00,15.2,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 20:00,14.8,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 21:00,14.4,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 22:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-16 23:00,13.2,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 00:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 01:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 02:00,13.2,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 03:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 04:00,16.0,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 05:00,16.8,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 06:00,16.8,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 07:00,16.4,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 08:00,14.8,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 09:00,13.6,Boa,True
+2026-06-17,,3304557,33,RJ,centro,20.0,,0.0,20,O₃,Ozônio,2026-06-17 10:00,13.2,Boa,True
