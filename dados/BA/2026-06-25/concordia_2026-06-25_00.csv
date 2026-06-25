@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-23 21:00,21.51,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-23 22:00,23.82,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-23 23:00,27.2,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 00:00,31.11,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 01:00,35.82,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 02:00,41.43,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 03:00,43.77,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 04:00,45.4,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 05:00,46.68,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 06:00,47.75,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 07:00,48.81,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 08:00,49.81,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 09:00,50.23,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 10:00,50.31,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 11:00,49.88,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 12:00,49.52,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 13:00,49.45,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 14:00,49.31,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 15:00,49.17,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 16:00,49.17,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 17:00,49.17,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 18:00,49.1,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 19:00,49.1,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-24 20:00,48.89,Moderada,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-23 21:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-23 22:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-23 23:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 00:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 01:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 02:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 03:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 04:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 05:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 06:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 07:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 08:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 09:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 10:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 11:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 12:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 13:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 14:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 15:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 16:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 17:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 18:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 19:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-24 20:00,6.64,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-23 21:00,0.3,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-23 22:00,0.4,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-23 23:00,0.6,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 00:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 01:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 02:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 03:00,0.9,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 04:00,0.9,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 05:00,0.9,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 06:00,0.9,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 07:00,0.9,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 08:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 09:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 10:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 11:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 12:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 13:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 14:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 15:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 16:00,0.7,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 17:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 18:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 19:00,0.8,Boa,True
+2026-06-25,,2910057,29,BA,concordia,,,0.0,23,SO₂,Dióxido de Enxofre,2026-06-24 20:00,0.8,Boa,True
