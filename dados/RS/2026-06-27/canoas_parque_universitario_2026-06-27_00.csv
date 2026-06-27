@@ -1,0 +1,49 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-25 18:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-25 19:00,7.6,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-25 20:00,7.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-25 21:00,6.4,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-25 22:00,5.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-25 23:00,3.6,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 00:00,2.4,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 01:00,1.6,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 02:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 03:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 04:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 05:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 06:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 07:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 08:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 09:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 10:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 11:00,1.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 12:00,1.6,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 13:00,2.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 14:00,3.2,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 15:00,4.4,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 16:00,6.4,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,20,O₃,Ozônio,2026-06-26 17:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-25 18:00,9.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-25 19:00,9.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-25 20:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-25 21:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-25 22:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-25 23:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 00:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 01:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 02:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 03:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 04:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 05:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 06:00,7.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 07:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 08:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 09:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 10:00,8.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 11:00,9.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 12:00,10.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 13:00,11.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 14:00,11.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 15:00,10.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 16:00,10.0,Boa,True
+2026-06-27,,4304606,43,RS,canoas_parque_universitario,,,,23,SO₂,Dióxido de Enxofre,2026-06-26 17:00,10.0,Boa,True

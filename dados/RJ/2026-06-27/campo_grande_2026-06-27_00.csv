@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-25 22:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-25 23:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 00:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 01:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 02:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 03:00,7.111,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 04:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 05:00,7.111,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 06:00,7.111,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 07:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 08:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 09:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 10:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 11:00,8.889,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 12:00,9.778,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 13:00,10.667,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 14:00,11.556,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 15:00,12.444,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 16:00,14.222,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 17:00,15.111,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 18:00,16.889,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 19:00,18.667,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 20:00,21.333,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-06-26 21:00,23.111,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-25 22:00,8.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-25 23:00,5.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 00:00,3.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 01:00,3.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 02:00,2.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 03:00,3.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 04:00,2.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 05:00,2.8,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 06:00,4.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 07:00,7.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 08:00,8.4,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 09:00,6.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 10:00,6.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 11:00,8.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 12:00,8.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 13:00,8.4,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 14:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 15:00,7.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 16:00,8.8,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 17:00,9.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 18:00,11.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 19:00,10.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 20:00,10.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,18,NO₂,Dióxido de Nitrogênio,2026-06-26 21:00,10.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-25 22:00,11.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-25 23:00,11.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 00:00,11.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 01:00,12.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 02:00,12.4,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 03:00,13.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 04:00,14.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 05:00,14.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 06:00,14.4,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 07:00,13.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 08:00,11.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 09:00,10.4,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 10:00,8.8,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 11:00,8.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 12:00,6.8,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 13:00,6.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 14:00,6.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 15:00,6.8,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 16:00,7.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 17:00,7.2,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 18:00,6.4,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 19:00,6.0,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 20:00,5.6,Boa,True
+2026-06-27,,3304557,33,RJ,campo_grande,23.0,,0.0,20,O₃,Ozônio,2026-06-26 21:00,4.8,Boa,True
