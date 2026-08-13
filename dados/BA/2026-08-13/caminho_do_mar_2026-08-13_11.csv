@@ -1,0 +1,121 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 08:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 09:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 10:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 11:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 12:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 13:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 14:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 15:00,0.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 16:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 17:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 18:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 19:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 20:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 21:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 22:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-12 23:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 00:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 01:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 02:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 03:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 04:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 05:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 06:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,5,CO,Monóxido de Carbono,2026-08-13 07:00,0.44,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 08:00,3.47,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 09:00,3.47,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 10:00,3.73,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 11:00,3.73,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 12:00,4.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 13:00,4.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 14:00,4.53,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 15:00,4.8,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 16:00,5.33,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 17:00,5.87,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 18:00,6.4,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 19:00,6.93,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 20:00,7.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 21:00,7.47,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 22:00,8.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-12 23:00,8.53,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 00:00,9.33,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 01:00,10.13,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 02:00,10.67,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 03:00,10.93,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 04:00,12.0,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 05:00,13.07,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 06:00,13.6,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,15,"MP₂,₅","Material Particulado com diâmetro de até 2,5 μm",2026-08-13 07:00,14.13,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 08:00,0.84,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 09:00,0.78,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 10:00,0.68,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 11:00,0.58,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 12:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 13:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 14:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 15:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 16:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 17:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 18:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 19:00,0.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 20:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 21:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 22:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-12 23:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 00:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 01:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 02:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 03:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 04:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 05:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 06:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,18,NO₂,Dióxido de Nitrogênio,2026-08-13 07:00,0.54,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 08:00,23.36,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 09:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 10:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 11:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 12:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 13:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 14:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 15:00,23.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 16:00,23.04,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 17:00,23.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 18:00,24.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 19:00,24.64,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 20:00,25.32,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 21:00,25.68,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 22:00,26.12,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-12 23:00,26.68,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 00:00,27.24,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 01:00,27.48,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 02:00,27.96,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 03:00,28.28,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 04:00,28.4,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 05:00,28.56,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 06:00,28.68,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,20,O₃,Ozônio,2026-08-13 07:00,28.68,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 08:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 09:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 10:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 11:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 12:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 13:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 14:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 15:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 16:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 17:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 18:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 19:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 20:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 21:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 22:00,0.3,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-12 23:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 00:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 01:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 02:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 03:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 04:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 05:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 06:00,0.2,Boa,True
+2026-08-13,,2905701,29,BA,caminho_do_mar,23.0,62.0,2.0,23,SO₂,Dióxido de Enxofre,2026-08-13 07:00,0.1,Boa,True
