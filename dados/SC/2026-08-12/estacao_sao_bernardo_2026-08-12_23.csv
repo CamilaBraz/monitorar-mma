@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-11 19:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-11 20:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-11 21:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-11 22:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-11 23:30,30.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 00:30,30.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 01:30,29.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 02:30,29.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 03:30,29.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 04:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 05:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 06:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 07:30,28.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 08:30,27.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 09:30,27.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 10:30,26.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 11:30,25.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 12:30,25.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 13:30,24.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 14:30,23.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 15:30,21.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 16:30,20.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 17:30,19.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,14,MP₁₀,Material Particulado com diâmetro de até 10 μm,2026-08-12 18:30,19.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-11 19:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-11 20:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-11 21:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-11 22:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-11 23:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 00:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 01:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 02:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 03:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 04:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 05:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 06:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 07:30,8.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 08:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 09:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 10:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 11:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 12:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 13:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 14:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 15:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 16:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 17:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,20,O₃,Ozônio,2026-08-12 18:30,7.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-11 19:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-11 20:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-11 21:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-11 22:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-11 23:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 00:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 01:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 02:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 03:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 04:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 05:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 06:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 07:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 08:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 09:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 10:30,12.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 11:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 12:30,6.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 13:30,5.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 14:30,5.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 15:30,4.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 16:30,3.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 17:30,3.0,Boa,True
+2026-08-12,,4218707,42,SC,estacao_sao_bernardo,,,,23,SO₂,Dióxido de Enxofre,2026-08-12 18:30,3.0,Boa,True
