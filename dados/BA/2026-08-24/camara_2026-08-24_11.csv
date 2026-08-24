@@ -1,0 +1,73 @@
+dt_coleta,dt_medicao_geral,id_municipio,id_uf,uf,estacao,temperatura,umidade,vento,id_poluente,nome_poluente,descricao_poluente,data_hora_medicao,indice_qualidade_ar,classificacao,dado_validado
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 08:00,5.5,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 09:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 10:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 11:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 12:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 13:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 14:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 15:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 16:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 17:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 18:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 19:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 20:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 21:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 22:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-23 23:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 00:00,4.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 01:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 02:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 03:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 04:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 05:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 06:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,18,NO₂,Dióxido de Nitrogênio,2026-08-24 07:00,3.62,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 08:00,26.96,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 09:00,21.92,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 10:00,21.92,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 11:00,21.92,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 12:00,21.92,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 13:00,20.4,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 14:00,19.92,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 15:00,22.04,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 16:00,23.44,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 17:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 18:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 19:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 20:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 21:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 22:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-23 23:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 00:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 01:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 02:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 03:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 04:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 05:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 06:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,20,O₃,Ozônio,2026-08-24 07:00,23.88,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 08:00,2.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 09:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 10:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 11:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 12:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 13:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 14:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 15:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 16:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 17:00,2.2,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 18:00,2.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 19:00,2.1,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 20:00,2.0,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 21:00,2.0,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 22:00,2.0,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-23 23:00,1.9,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 00:00,1.9,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 01:00,1.8,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 02:00,1.7,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 03:00,1.6,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 04:00,1.6,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 05:00,1.5,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 06:00,1.5,Boa,True
+2026-08-24,,2905701,29,BA,camara,,,1.0,23,SO₂,Dióxido de Enxofre,2026-08-24 07:00,1.4,Boa,True
